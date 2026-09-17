@@ -1,0 +1,68 @@
+# Awesome MiniMax H3 Guide · Flyne AI
+
+![Flyne AI MiniMax H3 field guide](assets/flyne-h3-banner.svg)
+
+[English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
+
+## Guia prático de MiniMax H3 para produção audiovisual
+
+Um recurso comunitário da Flyne AI com 100 prompts, fluxos de produção, seleção de modelos e avaliação de qualidade e custos. 84 receitas são reutilizadas sob MIT com atribuição; 16 são novas propostas da Flyne AI. Este projeto não verificou os resultados por meio de geração.
+
+[Todos os prompts](prompts/README.md) · [Experimentar na Flyne AI](https://flyne.ai/model/minimax-h3/) · [Guia de modelos](docs/model-guide.md)
+
+## Primeiros passos
+
+Escolha uma receita pelo objetivo da entrega e defina a função de cada referência. Use apenas entradas aceitas pela interface escolhida. Comece com um sujeito e uma ação; revise forma, movimento e som. Corrija um tipo de falha por tentativa e salve o registro da execução.
+
+[Run record](templates/run-record.json) · [Prompt template](templates/prompt.md)
+
+## Cenários de uso
+
+| ID | Cenários de uso |
+|---|---|
+| FY-002 | [Variações de produto](prompts/flyne/fy-002.md) |
+| FY-003 | [Atendimento ao cliente](prompts/flyne/fy-003.md) |
+| FY-006 | [Localização](prompts/flyne/fy-006.md) |
+| FY-009 | [Fundos para legendas](prompts/flyne/fy-009.md) |
+| FY-016 | [Avaliação de referências](prompts/flyne/fy-016.md) |
+
+## Modelos e disponibilidade
+
+Em 2026-09-17, H3-Base oferece pesos para download. H3 Max é uma variante hospedada com pós-treinamento da fal; não foram encontrados pesos públicos nas fontes primárias consultadas. O fluxo oficial completo de 2K também inclui componentes hospedados. A licença MIT do repositório é diferente da Community License do modelo.
+
+[Guia de modelos](docs/model-guide.md) · [Fontes](docs/sources.md)
+
+## Documentação e busca
+
+- [Fluxos de produção](docs/workflows.md)
+- [Qualidade e custos](docs/evaluation.md)
+- [Hipóteses de valor futuro](docs/opportunities.md)
+- [Fontes](docs/sources.md)
+
+Python 3.9+:
+
+```sh
+python3 scripts/catalog.py search "product"
+python3 scripts/catalog.py search "FY-002" --show-prompt
+python3 scripts/catalog.py build
+python3 scripts/validate.py
+```
+
+[JSON catalog](data/catalog.json)
+
+## Atribuição e participação
+
+As 84 receitas importadas mantêm o aviso de copyright da Flaq AI e sua licença MIT original. Uma pequena reformulação não é apresentada como autoria própria. As novas propostas não foram testadas. Há README em oito idiomas; os guias detalhados estão em inglês com resumos em chinês e os prompts canônicos em inglês. Consulte preços, modos e condições de acesso atuais na Flyne AI.
+
+[Avisos de terceiros](THIRD_PARTY_NOTICES.md) · [Como contribuir](CONTRIBUTING.md) · [MIT](LICENSE) · [Flaq AI MIT](licenses/Flaq-AI-MIT.txt)
+
+## Torne-se parceiro afiliado da Flyne AI
+
+Convidamos criadores, educadores, avaliadores de ferramentas e equipes criativas a serem nossos parceiros! Compartilhe a Flyne AI pelo seu link de indicação e receba comissões sobre pedidos pagos válidos e elegíveis:
+
+- **20%** no primeiro pedido pago válido do usuário indicado.
+- **10%** nos pedidos pagos válidos seguintes, realizados nos **60 dias após o cadastro desse usuário**.
+
+[Participe do programa de afiliados da Flyne AI](https://flyne.ai/affiliate-program/). Elegibilidade, atribuição e pagamentos seguem o acordo vigente e o processo de análise.
+
+Dúvidas ou propostas de parceria? Fale conosco: [contact@flyne.ai](mailto:contact@flyne.ai).

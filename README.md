@@ -1,1 +1,95 @@
-# awesome-minimax-h3-guide
+# Awesome MiniMax H3 Guide · Flyne AI
+
+![Flyne AI MiniMax H3 field guide](assets/flyne-h3-banner.svg)
+
+[English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
+
+A practical, source-backed library for making useful audiovisual clips with MiniMax H3: **100 prompts, production workflows, model selection and an evaluation protocol**. Published by [Flyne AI](https://flyne.ai/).
+
+**84 prompts are attributed MIT-licensed imports; 16 are new Flyne AI recipes.** This is an independent community project. No recipe has been independently tested by this project; there are no generated-output or benchmark claims.
+
+[Browse 100 prompts](prompts/README.md) · [Try H3 on Flyne AI](https://flyne.ai/model/minimax-h3/) · [H3 vs H3 Max](docs/model-guide.md) · [Sources](docs/sources.md)
+
+## Start with one usable shot
+
+1. Pick a delivery problem from the table below.
+2. Read the recipe's reference map. Use only inputs accepted by your selected interface.
+3. Adapt the timing to its available duration. Start with one subject and one action.
+4. Generate, inspect and fix one failure type at a time.
+5. Save a [run record](templates/run-record.json); approve against the [quality rubric](docs/evaluation.md).
+
+Quick text-only idea, FY-001 (conceptual):
+
+```text
+A five-second vertical shot of an unbranded coral desk lamp on a slate desk.
+One finger presses its single button; a warm pool of light appears on a blank
+notebook. The hand leaves and the lamp holds still. Fixed camera, soft daylight,
+stable geometry, no captions or logos. The action must be clear with sound off.
+```
+
+[Full recipe, acceptance criteria and recovery](prompts/flyne/fy-001.md). Duration and aspect ratio are creative targets, not guaranteed API options.
+
+## Choose a production problem
+
+| Goal | Start here | Main acceptance check |
+|---|---|---|
+| Advertising and social hooks | [Brand library](prompts/upstream/01-brand-advertising.md), [silent hook](prompts/flyne/fy-001.md) | Clear action, no unsupported claims |
+| Product and SKU variants | [Commerce library](prompts/upstream/02-product-ecommerce.md), [colorway comparison](prompts/flyne/fy-002.md) | Product geometry and materials |
+| Customer support and training | [Latch demo](prompts/flyne/fy-003.md), [warehouse exceptions](prompts/flyne/fy-010.md) | Expert-verified procedure |
+| Software and onboarding | [UI library](prompts/upstream/11-ui-game-digital.md), [empty state](prompts/flyne/fy-005.md) | Correct interface state |
+| Localization and character | [Dialogue library](prompts/upstream/21-character-dialogue-performance.md), [bilingual greeting](prompts/flyne/fy-006.md) | Meaning, identity and timing |
+| Interactive previsualization | [Museum branch](prompts/flyne/fy-007.md), [weather alternative](prompts/flyne/fy-015.md) | Consistent opening/closing state |
+| Design and editorial motion | [Packaging](prompts/flyne/fy-008.md), [caption-safe backdrop](prompts/flyne/fy-009.md) | Feasibility and readability |
+| Controlled edits and diagnostics | [Seasonal display](prompts/flyne/fy-012.md), [reference stress test](prompts/flyne/fy-016.md) | Changes stay within scope |
+
+The imported collection also covers travel, food, fashion, cinema, animation, sports, VFX, music, education, architecture, mobility, pets, industry and vertical series. [Complete catalog](prompts/README.md).
+
+## H3 is not the same release as H3 Max
+
+As checked on **2026-09-17**, H3-Base has downloadable FL2VA and Ref2VA weights. H3 Max is fal's hosted post-trained derivative; no public Max weights were found in the checked primary sources. The official full 2K workflow also includes hosted components. [Model guide and citations](docs/model-guide.md).
+
+This repository's MIT license does not license model weights or grant service access. Read the current H3 Community License and the terms of your chosen route. Never assume a community quantization is Max or that a future release has already happened.
+
+## Workflows and longer-term value
+
+- [Browser, local and hosted workflows](docs/workflows.md): route selection, reference roles and multi-shot handoff.
+- [Evaluation and cost](docs/evaluation.md): accepted-output rate, cost per usable clip and review criteria.
+- [Ecosystem opportunities](docs/opportunities.md): reference libraries, localization, adaptation and optimization experiments.
+- [Source register](docs/sources.md): primary links, review date and unresolved questions.
+- [Roadmap](ROADMAP.md): what the community can verify and improve next.
+
+Open weights can support adaptation and independent measurement. The practical asset is a repeatable workflow with evidence, not a larger untested prompt count. Opportunities in this guide are hypotheses to test, not promised commercial results.
+
+## Offline search and maintenance
+
+Requires Python 3.9+; no third-party packages or API keys.
+
+```sh
+python3 scripts/catalog.py search "product"
+python3 scripts/catalog.py search "客服" --origin flyne --show-prompt
+python3 scripts/catalog.py build
+python3 scripts/validate.py
+```
+
+[data/catalog.json](data/catalog.json) is machine-readable. Validation checks counts, unique IDs, local links, language pages and prompt provenance; it does not run a video model. Eight README languages are provided; detailed guides are English with Chinese summaries, and canonical prompts are English.
+
+## Flyne AI, attribution and contributions
+
+[Flyne AI](https://flyne.ai/) is the project brand and browser workflow entry. Access, credits and supported modes follow the current product page; this repository does not promise permanent free generation or a Flyne H3 Max endpoint.
+
+The 84 imported recipes remain credited to **Flaq AI**, pinned to a source commit, with unchanged prompt blocks and the complete original MIT license. New Flyne material is separately identified. [Attribution and import history](THIRD_PARTY_NOTICES.md).
+
+Contribute a reproducible test, a new production scenario, a translation correction or an official-source update. See [CONTRIBUTING.md](CONTRIBUTING.md), [prompt template](templates/prompt.md) and [conduct](CODE_OF_CONDUCT.md).
+
+[MIT](LICENSE) for Flyne additions · [upstream MIT](licenses/Flaq-AI-MIT.txt) for imported content. Independent of MiniMax; product names belong to their owners.
+
+## Become a Flyne AI affiliate partner
+
+We welcome creators, educators, reviewers and creative teams to become our partners! Share Flyne AI through your referral link and earn commission on eligible paid orders:
+
+- **20%** on a referred user's first valid paid order.
+- **10%** on subsequent valid paid orders placed within **60 days of that user's registration**.
+
+[Join the Flyne AI Affiliate Program](https://flyne.ai/affiliate-program/). Commission eligibility, attribution and payouts follow the current program agreement and review process.
+
+Questions or partnership enquiries? Contact us at [contact@flyne.ai](mailto:contact@flyne.ai).

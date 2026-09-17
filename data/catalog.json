@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "BRD-001",
+    "title": "Midnight Observatory Tea Launch",
+    "category": "Brand and Advertising Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch",
+    "prompt": "Create a refined launch film for the fictional tea brand “NORTH WINDOW”. The story takes place before dawn inside a quiet mountaintop observatory. Preserve the bottle from Image 1 exactly: tall smoked-glass silhouette, pale stone label, dark green cap, no invented claims. Use Image 2 only for the circular room, telescope structure, and blue-hour palette.\n\nBeat 1: a narrow band of starlight travels across the observatory table and reveals the bottle silhouette; camera makes a slow, level push-in. Beat 2: condensation gathers naturally, one droplet follows the bottle curve, while the telescope roof opens and cool sky light enters. Beat 3: the bottle remains still as the horizon changes from indigo to a restrained amber line; settle on a clean hero frame with safe negative space above.\n\nLighting is physically motivated, with glass refraction, soft metal reflections, and realistic condensation. Sound intent: quiet roof mechanism, distant wind, one low glass tone, no voiceover. Preserve logo spelling and label placement. Avoid floating ingredients, liquid explosions, label mutation, aggressive lens flares, extra text, other brands, or watermark."
+  },
+  {
+    "id": "BRD-002",
+    "title": "Community Cinema Opening Night",
+    "category": "Brand and Advertising Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/01-brand-advertising.md#brd-002-community-cinema-opening-night",
+    "prompt": "Produce a vertical opening-night campaign for an independent neighborhood cinema called “LANTERN SCREEN”. Preserve the brick facade, turquoise ticket window, and marquee proportions from Image 1. Preserve the two adult staff members from Image 2: same faces, hair, cream shirts, and rust-red aprons.\n\nOpening beat: close handheld view of one staff member placing the final blank poster card inside the ticket window; no readable generated event copy. Middle beat: camera steps backward through the doorway as warm lights turn on in sequence and the second staff member opens the curtain, revealing a small audience entering with natural smiles. Final beat: exterior medium-wide shot; rain has just stopped, pavement reflections glow, both staff stand in the doorway and exchange a relieved look while people pass into the cinema.\n\nKeep the feeling candid, inclusive, and local rather than luxury advertising. Use believable phone-camera micro-movement without focus hunting. Sound intent: ticket stub tear, door bell, low crowd murmur, rain drip. Avoid duplicated guests, face drift, unreadable marquee text, fake reviews, celebrity likeness, third-party posters, or watermark."
+  },
+  {
+    "id": "BRD-003",
+    "title": "One Campaign, Three Aspect Ratios",
+    "category": "Brand and Advertising Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/01-brand-advertising.md#brd-003-one-campaign-three-aspect-ratios",
+    "prompt": "Create three native compositions for the fictional portable speaker “FIELD NOTE”, each telling the same six-second idea: a picnic begins quietly, the speaker powers on, and the scene gains gentle human energy. Preserve the speaker from Image 1 exactly—rounded rectangular body, woven moss fabric, centered copper dial. Use Image 2 only for moss, clay, cream, and copper color relationships.\n\n16:9: speaker foreground on a linen picnic cloth, friends enter the wide background from both sides, slow lateral slide. 4:5: speaker lower center, hands place cups around it, camera tilts from product to shared smiles. 9:16: speaker centered in the safe zone, one hand turns the dial, camera rises to reveal a tree canopy and friends leaning into frame.\n\nKeep identical time of day, product finish, wardrobe palette, and emotional beat across variants. Sound intent: dial click, soft fabric movement, light percussion reference only. Do not stretch or crop the speaker, invent buttons, cover it with hands, change the group identity, add visible brand names beyond the supplied label, or add text."
+  },
+  {
+    "id": "PRD-001",
+    "title": "Modular Hiking Lantern Feature Demo",
+    "category": "Product and E-commerce Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/02-product-ecommerce.md#prd-001-modular-hiking-lantern-feature-demo",
+    "prompt": "Create a clean field-use demonstration for the fictional “TRAIL ARC” modular lantern. Reconstruct one consistent product from Images 1–3: charcoal cylindrical body, amber light ring, folding steel handle, removable frosted diffuser. Do not merge viewpoints into a new design.\n\n0–3s: on a dark wooden camp table at blue hour, an adult hand lifts the folded handle and the lantern turns on at low warm brightness; camera remains at a stable three-quarter close-up. 3–7s: the same hand twists and removes the frosted diffuser in one mechanically plausible motion, revealing the focused downward task light; cut only after the part clears the body. 7–10s: lantern hangs from a tent loop, illuminating a map and mug while the background stays dim; settle on the product profile.\n\nUse real weight, hinge resistance, contact shadows, metal highlights, and warm light falloff. Sound intent: hinge click, soft twist, canvas movement, night insects. Avoid extra controls, impossible disassembly, glowing brand text, floating parts, hand fusion, changing materials, fire effects, or watermark."
+  },
+  {
+    "id": "PRD-002",
+    "title": "Ceramic Diffuser Material Film",
+    "category": "Product and E-commerce Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/02-product-ecommerce.md#prd-002-ceramic-diffuser-material-film",
+    "prompt": "Generate a square material film for a fictional ceramic aroma diffuser. Preserve the low oval form, off-white lid, narrow vapor opening, and small walnut control from Image 1. Apply only the fine speckled glaze texture from Image 2; do not copy its shape.\n\nStart with an extreme macro of side light moving across the fired ceramic grain. Slowly pull focus to the walnut control as one fingertip presses it with natural resistance. A thin, continuous ribbon of vapor begins at the opening, bends gently in room air, and remains translucent. Camera eases into a top three-quarter view, revealing the full object on a pale limestone shelf beside one folded towel; end after the vapor stabilizes.\n\nPalette: chalk, oat, walnut, soft gray. Sound intent: quiet button click, nearly silent room tone, no music required. Avoid thick smoke, colored vapor, liquid leaking through ceramic, glossy plastic appearance, new seams, label text, levitation, excessive props, or watermark."
+  },
+  {
+    "id": "PRD-003",
+    "title": "Marketplace Rotation Without Geometry Drift",
+    "category": "Product and E-commerce Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/02-product-ecommerce.md#prd-003-marketplace-rotation-without-geometry-drift",
+    "prompt": "Create a neutral marketplace rotation of the exact reusable bottle shown in Images 1–4. Resolve the inputs as one object: matte sea-blue body, straight walls, shallow shoulder, silver threaded cap, small vertical measurement window, white “CURRENT” wordmark on the front only.\n\nThe bottle stands centered on a light gray seamless surface. Camera is locked. The turntable rotates clockwise at constant speed for one complete, smooth view; the bottle does not wobble or change scale. Maintain the same cap threads, measurement window, base thickness, wordmark size, and surface finish through the full rotation. Use soft paired studio lights so highlights travel consistently around the cylinder; include one subtle contact shadow and no reflection.\n\nNo hands, liquid splash, props, labels on the back, extra ports, changing cap height, mirrored text, background gradient pulses, speed ramps, or watermark. End with the front view aligned exactly as the opening frame for a clean loop."
+  },
+  {
+    "id": "UGC-001",
+    "title": "Desk Lamp Honest First Impression",
+    "category": "UGC and Lifestyle Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression",
+    "prompt": "Make a natural vertical first-impression clip in a small home office at dusk. Preserve the adult creator from Image 1 and the “FOLDLINE” desk lamp from Image 2: thin black stem, oval base, warm-white light bar, single brass hinge. This is a fictional demonstration, not a real customer endorsement.\n\nOpening: handheld phone camera is already rolling as the creator places the lamp beside a notebook and says no generated dialogue; expression is curious, not exaggerated. Middle: one hand unfolds the hinge, taps the base, and slides a sketch under the light; exposure adjusts once and settles while the creator leans closer to inspect the page. Ending: creator looks toward the camera, gives a small approving nod, then rotates the light away to show reduced screen glare.\n\nUse believable phone focus, mild micro-shake, ordinary room texture, and correct hand-object contact. Sound intent: hinge friction, base tap, paper slide, quiet street outside. Avoid sales captions, five-star claims, over-smoothed skin, impossible lamp articulation, hand fusion, gaze drift, sponsored-brand overlays, or watermark."
+  },
+  {
+    "id": "UGC-002",
+    "title": "Balcony Herb Kit Weekend Routine",
+    "category": "UGC and Lifestyle Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/03-ugc-lifestyle.md#ugc-002-balcony-herb-kit-weekend-routine",
+    "prompt": "Create a three-beat weekend routine around the fictional “WINDOW PATCH” herb starter kit. Preserve the narrow apartment balcony from Image 1 and the exact three terracotta pots, seed envelopes, wood markers, and shallow watering cup from Image 2.\n\nBeat 1: over-the-shoulder phone shot as an adult fills the three pots with soil; loose soil falls with real weight and stays where it lands. Beat 2: macro view of fingers placing three different seeds, then writing only simple blank marker strokes—no readable generated plant names. Beat 3: later that morning, the person waters each pot once, wipes one drop from the railing, and sits back with tea; do not fake instant plant growth.\n\nNatural cloudy daylight, apartment sounds, occasional breeze, modest handheld movement. Preserve pot count and arrangement. Sound intent: soil, paper packet, water, distant traffic, one bird. Avoid time-lapse growth, spotless staged surfaces, extra gardening products, unsafe leaning over railing, text, third-party logos, or watermark."
+  },
+  {
+    "id": "UGC-003",
+    "title": "Commuter Sling Real-World Packing Test",
+    "category": "UGC and Lifestyle Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/03-ugc-lifestyle.md#ugc-003-commuter-sling-real-world-packing-test",
+    "prompt": "Create a practical packing test for the fictional “CROSSDAY” commuter sling. Reconstruct one bag from Images 1–2: slate fabric, curved zipper, padded olive interior, one front pocket, one adjustable strap. Preserve the adult creator from Image 3 and use only the items shown in Image 4: small camera, wallet, keys, earbuds case, folded transit map.\n\nTop-down opening: creator places each item beside the empty bag, then packs them one at a time without objects shrinking or clipping. Side medium shot: zipper closes with mild resistance and the bag retains realistic volume. Final walking shot: creator wears it across the chest, reaches the front pocket for the transit map while stopping safely beside a station wall; camera tracks two steps and settles.\n\nNatural morning light and real fabric compression. Sound intent: zipper, fabric, keys, station ambience. Avoid impossible capacity, vanishing items, extra pockets, floating strap, unsafe walking into traffic, fake durability claims, other logos, or watermark."
+  },
+  {
+    "id": "TRV-001",
+    "title": "Rain-Washed Canal Town Morning",
+    "category": "Travel and Hospitality Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning",
+    "prompt": "Create an early-morning destination film in the verified canal town shown in Images 1–3. Preserve the white plaster walls, charcoal roof tiles, narrow stone bridge, and canal width. Do not invent monuments, signs, festivals, or historical claims.\n\nOpening: locked wide shot after light rain; water drops fall from roof edges and a shopkeeper opens plain wooden shutters. Middle: camera moves at walking pace along the canal behind a local bicycle carrying two empty woven baskets; wheels create small ripples through a shallow puddle. Ending: gentle bridge-level pan as a small boat passes under the arch and morning steam rises from an unbranded food stall in the distance.\n\nUse soft overcast light, damp stone texture, muted green reflections, and natural human pace. Sound intent: roof drips, bicycle bell once, water against wood, quiet conversation without legible dialogue. Avoid tourist crowds, fake signage, altered architecture, costume stereotypes, drone-speed movement, saturated fantasy colors, or watermark."
+  },
+  {
+    "id": "TRV-002",
+    "title": "Volcanic Island Guesthouse Reveal",
+    "category": "Travel and Hospitality Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/04-travel-hospitality.md#trv-002-volcanic-island-guesthouse-reveal",
+    "prompt": "Produce a calm guesthouse reveal for a fictional property on a volcanic island. Preserve the room from Image 1: limewashed walls, low oak bed, woven headboard, black-stone floor, linen curtains. Use Image 2 only for the dark lava coast and pale ocean horizon visible outside. Respect the doorway and window positions in Image 3.\n\nBegin close on a brass room key placed on the oak shelf. Camera glides backward as the door opens, revealing the bed and window in one continuous move; curtains respond softly to sea air. Continue past the bed at human walking height and finish at the open terrace, where two empty chairs face the coastline. No people are needed.\n\nLighting transitions naturally from warm interior bounce to cool exterior daylight. Sound intent: key touch, door latch, linen movement, distant surf. Avoid changing room geometry, adding a pool or amenities, impossible ocean placement, over-wide lens distortion, promotional text, rating claims, or watermark."
+  },
+  {
+    "id": "TRV-003",
+    "title": "First-Person Night Market Wayfinding",
+    "category": "Travel and Hospitality Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/04-travel-hospitality.md#trv-003-first-person-night-market-wayfinding",
+    "prompt": "Create a first-person vertical walk through the evening market shown in Images 1–2. Follow the simple route in Image 3: entrance lanterns → fruit stall → steamed snack stall → small open seating area. Do not invent readable vendor names or prices.\n\nThe camera moves at a comfortable walking pace with realistic body stabilization, never rushing through people. At the fruit stall, pause as a vendor weighs three oranges; at the snack stall, a bamboo lid lifts and steam briefly crosses the lens without obscuring the path; end by turning into the seating area where one empty table is visible. Keep the path navigable and maintain consistent stall order.\n\nUse mixed warm stall light and cool evening ambient light, correct skin tones, and restrained exposure adjustment. Sound intent: soft crowd bed, scale click, steam release, utensils. Avoid face duplication, collision with people, illegible close-up text, exoticizing details, impossible route jumps, intrusive filming, or watermark."
+  },
+  {
+    "id": "FNB-001",
+    "title": "Dawn Bakery Lamination Sequence",
+    "category": "Food and Beverage Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/05-food-beverage.md#fnb-001-dawn-bakery-lamination-sequence",
+    "prompt": "Create a dawn craft film inside the small bakery shown in Image 1. Preserve the adult baker from Image 2: same face, short hair, navy apron, cream shirt. Use Image 3 only for the laminated dough structure.\n\n0–4s: macro side view as the rolling pin compresses chilled dough evenly; flour dust moves lightly and settles, hands remain anatomically correct. 4–8s: overhead view as the baker completes one precise letter fold, aligns the edges, and presses the seam once; tools and dough do not teleport between cuts. 8–12s: medium shot at the oven as a finished tray is removed and set on a rack; warm steam and butter sheen appear naturally, while the baker exhales and relaxes their shoulders.\n\nNatural mixed pre-dawn blue window light and warm oven light. Sound intent: rolling wood, dough fold, tray slide, oven fan, no music. Avoid instant transformation from raw dough, excessive flour clouds, unsafe bare-hand oven contact, extra fingers, branded packaging, text, or watermark."
+  },
+  {
+    "id": "FNB-002",
+    "title": "Clear Broth Noodle Service",
+    "category": "Food and Beverage Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/05-food-beverage.md#fnb-002-clear-broth-noodle-service",
+    "prompt": "Generate a close, appetizing service sequence for a fictional noodle bar. Preserve the speckled gray bowl, pale clear broth, thin noodles, two mushroom slices, green onion, and half marinated egg from Image 1. Use the dark oak counter and brushed steel service area from Image 2.\n\nStart with the empty bowl centered. One cook's hand lowers a neat coil of noodles with chopsticks; the noodles retain length and weight. A ladle pours clear broth in one continuous stream, raising the liquid level without overflowing. The same hand places exactly two mushrooms and one egg half, then finishes with a small pinch of green onion. Camera makes a subtle forward slide and stops as steam rises against side light.\n\nSound intent: broth pour, ceramic contact, quiet kitchen ambience. Avoid extra toppings, multiplying noodles, milky broth, floating utensils, hand-food fusion, impossible steam, fake restaurant text, excessive oil shine, or watermark."
+  },
+  {
+    "id": "FNB-003",
+    "title": "Sparkling Botanical Tea Macro Ad",
+    "category": "Food and Beverage Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/05-food-beverage.md#fnb-003-sparkling-botanical-tea-macro-ad",
+    "prompt": "Create a vertical macro beverage film for the fictional “MEADOW FIZZ” white-peach rosemary tea. Preserve the clear fluted bottle, pale gold liquid, cream label, and sage cap from Image 1; label text must remain unchanged and no claims may be added.\n\nOpening macro: cold bottle rests on limestone, tiny carbonation trails rise through the liquid while one condensation bead forms at the shoulder. Middle: cap opens with a restrained release, then the drink pours into a tall clear glass; bubbles gather at the real rosemary sprig and peach slice shown in Image 2. Final: camera arcs slightly around the glass as the liquid settles, keeping the bottle label visible behind it and an empty upper safe area.\n\nUse bright diffused daylight, realistic refraction, clean highlights, and pale natural color. Sound intent: cap release, precise pour, soft fizz, one leaf movement. Avoid fruit explosions, floating ingredients, excessive foam, changing bottle ridges, mirrored label, extra slogans, or watermark."
+  },
+  {
+    "id": "FSH-001",
+    "title": "Wind-Study Eyewear Editorial",
+    "category": "Fashion and Beauty Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/06-fashion-beauty.md#fsh-001-wind-study-eyewear-editorial",
+    "prompt": "Create a minimal vertical eyewear editorial in a warm-gray seamless studio. Preserve the adult model from Image 1: same face, short textured hair, natural skin, charcoal high-neck top. Reconstruct the exact eyewear from Images 2–3: translucent smoke frame, narrow oval lenses, silver hinge, straight temples.\n\nOpening close-up: model faces three-quarters away while a controlled fan moves only a few hair strands and the collar edge. Camera performs a slow lateral slide as the model turns toward lens at the tempo of Video 1. Midway, light sweeps once across the lenses without hiding the eyes. End on a steady frontal close-up; model lowers the chin slightly and holds a calm gaze.\n\nUse one large soft key, thin rim, natural pores, and honest lens reflections. No beauty-copy text. Avoid changing frame width, lens tint, hinge location, face shape, eye color, duplicated glasses, dramatic hair storm, plastic skin, unrelated jewelry, or watermark."
+  },
+  {
+    "id": "FSH-002",
+    "title": "Mineral Lip Color Texture Study",
+    "category": "Fashion and Beauty Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/06-fashion-beauty.md#fsh-002-mineral-lip-color-texture-study",
+    "prompt": "Produce a tactile beauty film for a fictional mineral lip color. Preserve the brushed aluminum rectangular case and small circular terracotta insert from Image 1. Match only the approved color and satin finish from Image 2. Preserve the adult model from Image 3 without changing lip shape, skin tone, or facial features.\n\nStart with extreme macro as the cap slides open on its real rail. Cut to a clean applicator picking up a small amount of product; texture remains creamy, not liquid. In a side close-up, the model applies one controlled stroke to the lower lip and presses lips together once. End on the closed case beside a single honest color swatch, with the model softly out of focus behind.\n\nNeutral daylight, true skin texture, accurate color management. Sound intent: metal slide, applicator touch, room tone. Avoid lip enlargement, skin whitening, color drift, glitter, dripping product, extra swatches, medical claims, brand imitation, or watermark."
+  },
+  {
+    "id": "FSH-003",
+    "title": "Four-Look Textile Transition",
+    "category": "Fashion and Beauty Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/06-fashion-beauty.md#fsh-003-four-look-textile-transition",
+    "prompt": "Create an original four-look transition in a neutral daylight studio. Preserve the adult model from Image 1—same face, body proportions, hair, and understated makeup. Each outfit must match its own reference: A cream linen set, B deep green pleated dress, C rust wool coat with straight trousers, D midnight-blue sculptural suit. Never blend garments.\n\nThe model performs one slow clockwise turn. At four natural occlusion moments, a real textile panel passes close to the lens: sheer linen reveals Look A; pleated fabric reveals B; wool texture reveals C; smooth satin reveals D. The camera remains fixed at waist-to-head framing; model position and scale do not shift. Garments respond to the same turn momentum and settle before the next transition. Finish with Look D and a steady direct gaze.\n\nSound intent: four distinct fabric movements, soft foot pivot, no music required. Avoid pop-in cuts, layered outfits, identity drift, body reshaping, background changes, copied interface stickers, text, logos, or watermark."
+  },
+  {
+    "id": "CIN-001",
+    "title": "The Unsent Library Letter",
+    "category": "Cinematic Storytelling Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/07-cinematic-storytelling.md#cin-001-the-unsent-library-letter",
+    "prompt": "Create a restrained contemporary drama in the old reading room shown in Image 3. Preserve Character A from Image 1: adult woman, cropped dark hair, brown cardigan, silver ring. Preserve Character B from Image 2: adult man, wavy hair, navy coat, canvas satchel. Keep both identities and wardrobe unchanged.\n\n0–5s: medium close-up on A at a long table; she finishes a handwritten letter, folds it once, and hears the distant door. 5–10s: over A's shoulder, B enters at the far end and pauses without seeing her; A covers the letter with a library book, her hand hesitating on the cover. 10–15s: close two-plane composition—B turns toward the aisle, A looks up, their eyes almost align, then A quietly slides the unopened letter into the book and stands.\n\nUse winter window light, quiet dust, minimal camera drift, natural breathing and micro-expressions. Sound intent: pen scratch, page fold, door hinge, radiator tick; no generated dialogue. Avoid melodramatic crying, age drift, hand errors, changing letter position, extra patrons, readable private letter text, or watermark."
+  },
+  {
+    "id": "CIN-002",
+    "title": "Last Train Platform Farewell",
+    "category": "Cinematic Storytelling Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/07-cinematic-storytelling.md#cin-002-last-train-platform-farewell",
+    "prompt": "Generate a late-night farewell at the small outdoor station in Image 3. Character A from Image 1 stays screen-left in a dark green raincoat; Character B from Image 2 stays screen-right inside the train doorway wearing a gray scarf. Maintain the 180-degree line, face identity, wet weather, and positions across cuts.\n\nOpening wide: rain streaks under platform lights while the train waits; A approaches but stops two meters from the door. Middle alternating close-ups: B grips the door rail, A opens a hand as if to pass a small paper ticket but decides not to; both hold eye contact with restrained emotion. Final side wide: warning light flashes, the door closes between them, the train moves rightward at the pace of Video 1, and A remains still as reflected carriage light crosses the raincoat.\n\nSound intent: rain, electrical hum, door warning, rail movement, no dialogue or music. Avoid swapping screen sides, changing scarf or coat, train passing through the platform, exaggerated lip movement, readable operator logos, unsafe track access, or watermark."
+  },
+  {
+    "id": "CIN-003",
+    "title": "Rooftop Weather Signal Mystery",
+    "category": "Cinematic Storytelling Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/07-cinematic-storytelling.md#cin-003-rooftop-weather-signal-mystery",
+    "prompt": "Create a vertical mystery teaser on the apartment rooftop shown in Image 2 during an approaching storm. Preserve the adult technician from Image 1: shaved hair, orange waterproof jacket, black gloves. Preserve the receiver from Image 3: compact metal box, fold-out antenna, analog needle, one green indicator.\n\nOpening: technician kneels beside the receiver while distant clouds pulse with silent sheet lightning; camera slowly rises from the green indicator to the face. Middle: the antenna rotates by itself exactly twenty degrees, the analog needle moves in three measured steps synchronized to Audio 1, and the technician removes one glove to feel a faint vibration on the metal roof. Ending: technician looks toward a dark neighboring building; one window answers with the same three green pulses, then all rooftop power cuts out and the frame holds in natural darkness.\n\nSound intent: wind, antenna servo, three-note signal, sudden electrical silence. Avoid visible aliens, magical beams, unsafe lightning strike, changing receiver design, extra windows flashing, text overlays, or watermark."
+  },
+  {
+    "id": "ANI-001",
+    "title": "Paper-Cut Wetland Food Web",
+    "category": "Animation and Stylized Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/08-animation-stylized.md#ani-001-paper-cut-wetland-food-web",
+    "prompt": "Create a layered paper-cut animation explaining one simple wetland food chain. Use exactly five recognizable subjects from Image 1: algae, water snail, small fish, heron, and decomposer fungi. Use Image 2 for spatial order only. All elements are hand-cut colored paper with visible fibers, shallow physical shadows, and hinge-like motion—no photoreal animals.\n\nBeat 1: blue paper water slides into frame; algae layers unfold. Beat 2: a water snail moves toward algae, followed by a small fish entering from the opposite side; thin cream paper arrows appear one at a time to show algae → snail → fish. Beat 3: a heron silhouette lowers its beak toward the fish; fallen brown paper leaves descend and fungi shapes appear beneath, completing the cycle with one final curved arrow.\n\nNo statistics or generated labels; reserve a clean lower strip for human-added captions. Use gentle page sounds and wooden percussion. Avoid extra species, reversed arrows, realistic predation, plastic 3D rendering, tiny text, logos, or watermark."
+  },
+  {
+    "id": "ANI-002",
+    "title": "Clay Repair Robot Finds a Button",
+    "category": "Animation and Stylized Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button",
+    "prompt": "Create a handcrafted clay stop-motion scene. Preserve the small repair robot from Image 1: mustard-yellow clay body, square head, two black bead eyes, one blue fabric tool pouch, wire arms with red mitten hands. Use the miniature wooden workshop from Image 2 without adding machines.\n\nThe robot hears a tiny metallic ping, tilts its head in two stop-motion increments, and walks three uneven steps across the bench. It finds a pearl button beside a spool, tries to lift it with one hand, slips backward, then uses both hands and places it proudly into the blue pouch. End with the robot patting the pouch once as a loose thread springs upward behind it.\n\nKeep visible fingerprints, small pose-to-pose motion, stable scale, and warm practical lamp light. Sound intent: clay foot taps, metal ping, fabric rustle, soft wooden knock. Avoid fluid CGI motion, changing limb count, button resizing, new tools, speaking mouth, glossy plastic surfaces, text, or watermark."
+  },
+  {
+    "id": "ANI-003",
+    "title": "Ink Fish Becomes a City Tram",
+    "category": "Animation and Stylized Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/08-animation-stylized.md#ani-003-ink-fish-becomes-a-city-tram",
+    "prompt": "Create a restrained black-ink and vermilion animation on warm rice paper. A single hand-painted fish swims from left to right, leaving an irregular dry-brush wake. Its body stretches into one continuous horizontal stroke; three square ink marks become windows; the tail folds into the rear of the exact compact tram shown in Image 2. The transformation must be continuous and readable, not a cut.\n\nOnce formed, the tram travels along two thin brush lines through a minimal city suggested by six vertical ink blocks. At each stop, one vermilion seal-like circle pulses with Audio 1; no readable characters appear. The tram reaches the right edge, dissolves into a final ink wash, and the wash curls back into the opening fish silhouette for a loop.\n\nMaintain paper grain, controlled ink bleed, and two-color discipline. Avoid calligraphy text, borrowed seals, photoreal city elements, extra vehicles, 3D reflections, broken transformation geometry, or watermark."
+  },
+  {
+    "id": "ACT-001",
+    "title": "Indoor Climbing Final Move",
+    "category": "Action and Sports Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/09-action-sports.md#act-001-indoor-climbing-final-move",
+    "prompt": "Create a focused indoor climbing sequence. Preserve the adult athlete from Image 1: same face, braided hair, teal top, charcoal trousers, chalk bag, correctly fitted harness. Use the exact yellow route and wall geometry from Image 2. Video 1 supplies the heel-hook mechanics only.\n\nOpening low side angle: athlete stabilizes on two holds and looks once at the final hold. Camera rises slightly as the right heel hooks the yellow volume, hips rotate inward, and the left hand releases without slipping. Cut to a front close view only after the body settles; athlete reaches dynamically with the left hand, catches the final hold, swings once under real gravity, then controls the swing and matches hands.\n\nSound intent: breath, shoe rubber, chalk, room reverb, one quiet crowd reaction. Preserve rope path, harness, hold positions, and route color. Avoid impossible reach, floating feet, changing wall, missing rope safety, extra limbs, dangerous equipment misuse, brand logos, or watermark."
+  },
+  {
+    "id": "ACT-002",
+    "title": "Rain Circuit Bicycle Corner",
+    "category": "Action and Sports Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/09-action-sports.md#act-002-rain-circuit-bicycle-corner",
+    "prompt": "Generate one continuous wet-circuit cycling shot. Preserve the adult rider and bicycle from Image 1: white helmet, amber glasses, navy kit, matte silver frame, black wheels, red bottle. Use the left-hand corner, curb, and barrier positions from Image 2.\n\nCamera tracks low and parallel from outside the corner. The rider enters from screen-right, brakes before turn-in, releases the brakes, leans smoothly left at the safe angle shown in Video 1, follows the dry line, and accelerates out toward screen-left. Tires remain in contact; a narrow spray follows the rear wheel and reduces as the bike straightens. The camera does not cross the rider's path or reverse screen direction.\n\nOvercast light, wet asphalt reflections, realistic wheel rotation and fabric movement. Sound intent: tire hiss, chain, wind, distant track ambience. Avoid motorcycle speed, sliding without correction, changing frame geometry, disappearing pedals, unsafe traffic, crash spectacle, sponsor logos, or watermark."
+  },
+  {
+    "id": "ACT-003",
+    "title": "Table Tennis Rally in One Take",
+    "category": "Action and Sports Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/09-action-sports.md#act-003-table-tennis-rally-in-one-take",
+    "prompt": "Create a vertical one-take table tennis rally in the small community gym from Image 3. Player A from Image 1 remains on the far side in a burgundy shirt; Player B from Image 2 remains near side in a cream shirt. Preserve faces, handedness, rackets, table markings, net height, and positions.\n\nCamera begins just behind Player B's right shoulder and slides laterally without crossing the table axis. The white ball follows one readable sequence: B forehand to A backhand, A returns cross-court, B steps left for a controlled topspin, A blocks down the line, B reaches and finishes with a soft angled shot. The ball bounces exactly once on each side per legal return and remains visible; both players recover naturally after every stroke.\n\nSound intent: five distinct paddle contacts, shoe squeak, ball bounce, room echo. Avoid multiplying balls, impossible ricochets, changing handedness, warped rackets, body collisions, dramatic diving, score text, logos, or watermark."
+  },
+  {
+    "id": "VFX-001",
+    "title": "Glasshouse Grows a Night Sky",
+    "category": "Fantasy, Sci-fi and VFX Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/10-fantasy-scifi-vfx.md#vfx-001-glasshouse-grows-a-night-sky",
+    "prompt": "Create an original magical-realist transformation inside the glasshouse from Image 1. Preserve every beam, pane, table, and doorway. Use the fern and white night-blooming flower shapes from Images 2–3 without adding new species.\n\nAt dusk, one white flower opens on the center table. Its pollen rises as tiny points of cool light; each point reflects correctly in nearby glass. The lights drift upward and settle against the roof panes, gradually becoming a miniature star field contained only inside the glasshouse. Fern shadows stretch across the floor as if lit by this new sky. Camera makes one slow orbit around the table and ends facing the unchanged doorway, where the real outdoor sky remains cloudy and ordinary.\n\nSound intent: glass ticks, leaves, low airy resonance, no voice. Keep the transformation gentle and spatially bounded. Avoid galaxy portals, exploding plants, altered architecture, extra flowers, copied constellation shapes, unreadable magical text, people, or watermark."
+  },
+  {
+    "id": "VFX-002",
+    "title": "Miniature Rain Collector City",
+    "category": "Fantasy, Sci-fi and VFX Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/10-fantasy-scifi-vfx.md#vfx-002-miniature-rain-collector-city",
+    "prompt": "Generate a tactile tabletop miniature city during a rain test. Preserve the six-block layout, pale wood buildings, blue ceramic channels, and central glass reservoir from Image 1. Follow the water path in Image 2 exactly: roofs → gutters → street channels → filter garden → reservoir.\n\nOpening macro: controlled rain begins over one block; droplets collect on sloped roofs and enter tiny gutters. Camera follows one stream at miniature height as it joins the street channel and moves downhill. Middle overhead: water passes through the planted filter garden; the flow becomes visibly clearer without an instant magical change. Final wide: the central reservoir level rises slightly while a small mechanical indicator moves from low to medium.\n\nUse real surface tension, scale-appropriate droplets, wood darkening, and ceramic reflections. Sound intent: close rain, small water trickle, mechanical click. Avoid real skyscraper scale, floods, invented labels or efficiency claims, reverse water flow, extra buildings, people, logos, or watermark."
+  },
+  {
+    "id": "VFX-003",
+    "title": "Constellation Dress Performance",
+    "category": "Fantasy, Sci-fi and VFX Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/10-fantasy-scifi-vfx.md#vfx-003-constellation-dress-performance",
+    "prompt": "Create a vertical performance in a dark matte studio. Preserve the adult model from Image 1 and the full-length black silk dress from Image 2: asymmetric neckline, fitted waist, wide lower skirt, no jewelry. Use Video 1 only for the slow arm path and Image 3 only for the density of small point lights.\n\nThe model begins still in side profile. As one arm rises, tiny silver points appear along existing dress seams, never on skin. The points connect through fine luminous threads that follow the fabric folds; the skirt remains real silk with weight and shadow. At the top of the arm movement, camera arcs to the front and the lights lift a few centimeters from the dress, forming an abstract canopy while the garment itself remains unchanged. The model lowers the hand and the lights settle back into the seams.\n\nSound intent: silk movement, low harmonic pulse, no vocals. Avoid real constellation copies, nudity, face drift, floating dress, body reshaping, particle explosion, text, logos, or watermark."
+  },
+  {
+    "id": "DIG-001",
+    "title": "Focus Timer Product Walkthrough",
+    "category": "UI, Game and Digital Experience Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/11-ui-game-digital.md#dig-001-focus-timer-product-walkthrough",
+    "prompt": "Create a polished product walkthrough for the fictional desktop focus timer “QUIET HOUR”. Reproduce only the approved UI in Images 1–3: charcoal window, cream timer card, green progress ring, task list, pause control. Preserve all supplied text exactly; do not invent metrics, testimonials, or menu items.\n\nStart on the idle state. Cursor moves at the natural speed of Video 1, selects one task, and presses Start. Transition to the running state with a 250ms ease: timer begins, progress ring advances slightly, task row gains a restrained green indicator. A small notification slides in once, the user activates “Silence alerts,” and the notification collapses. Finish by zooming out to show the same app on a realistic laptop screen with safe copy space beside it.\n\nUse crisp UI, no perspective distortion during interaction, and subtle screen reflections only in the final hardware shot. Sound intent: two soft clicks and one muted chime. Avoid unreadable microtext, invented charts, random hover effects, cursor teleporting, extra windows, brand logos, or watermark."
+  },
+  {
+    "id": "DIG-002",
+    "title": "Electric Bicycle Dashboard Modes",
+    "category": "UI, Game and Digital Experience Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/11-ui-game-digital.md#dig-002-electric-bicycle-dashboard-modes",
+    "prompt": "Create a stationary product demonstration of a fictional electric bicycle dashboard. Preserve the compact circular display from Image 1 and the left-handlebar three-button control from Image 2. Bicycle is secured on an indoor service stand; no riding occurs.\n\nOpening macro: display wakes from black to the approved neutral home state. A gloved thumb presses the lower button once; the interface changes from “ECO” to “CITY” following Image 3, with a short amber transition. A second press changes “CITY” to “HILL” with a restrained red accent. Camera shifts focus from thumb to display while the rest of the handlebar remains still. End by holding the complete HILL state for human-added explanation.\n\nPreserve button count, screen geometry, supplied labels, and one-to-one input response. Sound intent: tactile button clicks and quiet workshop tone. Avoid speedometer movement, motor activation, invented range numbers, extra icons, riding footage, warped hands, third-party logos, or watermark."
+  },
+  {
+    "id": "DIG-003",
+    "title": "Tactical Garden Game Inventory",
+    "category": "UI, Game and Digital Experience Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/11-ui-game-digital.md#dig-003-tactical-garden-game-inventory",
+    "prompt": "Create a game inventory demonstration for an original cozy strategy game set in a rooftop garden. Preserve the hand-painted shapes and muted colors from Image 1 without copying any existing game franchise. Use the exact layout from Image 2 and exactly six icons from Image 3: water can, seed pouch, twine, bell, clay tile, solar lamp.\n\nInventory opens from the right with a short paper-fold motion. Cursor hovers over the solar lamp; its card enlarges 6 percent and shows only supplied stats. Cursor drags the lamp into the third garden slot at the tempo of Video 1; a valid-placement outline appears, then the lamp settles and illuminates two adjacent tiles. Resource count decreases once. The inventory closes and camera reveals the unchanged rooftop board.\n\nUse clear hierarchy, readable icon silhouettes, and restrained feedback. Sound intent: paper fold, wood click, small light tone. Avoid extra icons, fake currencies, copied interface patterns, unreadable fantasy text, random particles, misplaced cursor, brand marks, or watermark."
+  },
+  {
+    "id": "SOC-001",
+    "title": "Three Rooms, One Rolling Orange",
+    "category": "Transitions, Comedy and Social Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/12-transitions-comedy-social.md#soc-001-three-rooms-one-rolling-orange",
+    "prompt": "Create an original three-location match-cut film connected by one rolling orange. Preserve each room's geometry from Images 1–3 and the same natural orange from Image 4. Maintain left-to-right screen direction and identical object scale at every transition.\n\n0–3s kitchen: orange rolls across a pale counter, passes behind a ceramic bowl, and exits frame-right. 3–6s studio: it emerges from behind a matching circular speaker at frame-left, rolls across a gray floor, and passes behind a round stool. 6–9s greenhouse: it emerges from behind a terracotta pot, rolls along a wooden bench, slows, and stops in a small patch of sun. Camera tracks laterally at constant height; each occlusion hides the cut completely.\n\nSound intent: surface-specific rolling sound in each room, one soft transition click, no music required. Avoid changing fruit size or color, reverse direction, teleportation, extra oranges, moving architecture, branded objects, text, or watermark."
+  },
+  {
+    "id": "SOC-002",
+    "title": "Office Plant Quietly Takes Over",
+    "category": "Transitions, Comedy and Social Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/12-transitions-comedy-social.md#soc-002-office-plant-quietly-takes-over",
+    "prompt": "Create a dry, understated office comedy. Preserve the small office from Image 1, the single pothos in a yellow pot from Image 2, and the adult employee from Image 3 wearing the same blue shirt and glasses.\n\nShot 1: employee waters the modest plant, sets the cup down, and returns to typing. Shot 2, same locked composition later: one vine has reached the keyboard; employee calmly moves it aside without reacting. Shot 3, same composition later: vines now cover the chair back and frame the monitor, but do not grow through solid objects; employee trims one leaf, looks at the camera for half a second, and continues working. End as a new vine gently presses the elevator button outside the glass wall.\n\nUse ordinary fluorescent daylight, progressive continuity, and deadpan timing. Sound intent: keyboard, water, one leaf snip, elevator ding. Avoid instant explosive growth, horror tone, trapping the employee, changing office layout, extra plants, copied sitcom cues, text, logos, or watermark."
+  },
+  {
+    "id": "SOC-003",
+    "title": "Alien at the Self-Service Laundry",
+    "category": "Transitions, Comedy and Social Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/12-transitions-comedy-social.md#soc-003-alien-at-the-self-service-laundry",
+    "prompt": "Create a vertical deadpan comedy in the quiet self-service laundry shown in Image 2. Preserve the original small creature from Image 1: mint-green skin, three eyes, short navy raincoat, two hands, compact proportions. It is friendly and fictional. Follow the washer interaction in Image 3 without changing controls.\n\nOpening: creature studies a round washer door and carefully places one tiny striped sock inside. It closes the door, inserts one plain token, and presses the single approved button. When the drum begins turning, all three eyes track the sock in perfect circular synchronization. The creature slowly takes out a notebook, draws one simple spiral with no readable words, then notices the matching sock already worn on one foot and looks directly at camera in silent embarrassment.\n\nSound intent: token drop, button beep, washer tumble, one coat rustle. Keep the humor quiet and physical. Avoid scary alien design, extra limbs, washer misuse, body entering the machine, generated labels, known character resemblance, brand logos, or watermark."
+  },
+  {
+    "id": "MUS-001",
+    "title": "Rooftop Trio Live Session",
+    "category": "Music, Performance and Audio-Driven Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/13-music-performance-audio.md#mus-001-rooftop-trio-live-session",
+    "prompt": "Create a restrained live-session film for the fictional trio “AFTER RAIN”. Preserve the three adult performers, wardrobe, instrument shapes, and left-to-right stage positions from Images 1–3. Rebuild the small rooftop from Image 4 without adding skyline landmarks or visible brands.\n\nBegin on the drummer's brush circling the snare. At the first chord, glide backward to reveal upright bass on screen left and electric piano on screen right. Keep hand movement causally matched to the heard rhythm: brush stroke, bass pluck, then keyboard chord. During the final musical phrase, make a slow 30-degree arc while sunset reflections move naturally across the instruments; end on the performers sharing a quiet smile without stopping the phrase.\n\nSound intent: preserve the timing and dynamic contour of Audio 1, add only subtle rooftop wind and distant city ambience, no crowd or invented lyrics. Keep instrument contact, finger count, cable placement, tempo, and screen direction continuous. Avoid lip movement, impossible playing technique, duplicated limbs, changing instruments, famous-person resemblance, copied album imagery, logos, captions, or watermark."
+  },
+  {
+    "id": "MUS-002",
+    "title": "Multilingual Station Duet",
+    "category": "Music, Performance and Audio-Driven Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/13-music-performance-audio.md#mus-002-multilingual-station-duet",
+    "prompt": "Create an intimate, fictional musical exchange on an almost-empty covered station platform at blue hour. Preserve Performer A from Image 1 in a charcoal coat on screen left and Performer B from Image 2 in a rust scarf on screen right. Preserve the platform roof and bench geometry from Image 3; no real rail operator marks.\n\n0–4 seconds: medium two-shot, distant train hum. Performer A sings one soft Mandarin line, “下一站，我们还会再见,” with a calm, hopeful expression. Performer B listens without lip movement. 4–8 seconds: cut on a station-light flicker to Performer B, who answers in Spanish, “La próxima vez, llegaré temprano.” Performer A now listens. 8–12 seconds: return to the two-shot as they sing a wordless two-note harmony; a train light passes behind them and the camera gently pushes in.\n\nKeep exact voice-to-face ownership, natural breathing, intelligible pronunciation, stable eyelines, consistent platform geography, and modest performance. Sound intent: voices foreground, light rail ambience, no additional lyrics, no non-diegetic music. Avoid translated subtitles baked into the image, overlapping mouth movement, voice swapping, melodramatic gestures, real transit logos, or watermark."
+  },
+  {
+    "id": "MUS-003",
+    "title": "Dance Rehearsal to Stage Match Cut",
+    "category": "Music, Performance and Audio-Driven Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/13-music-performance-audio.md#mus-003-dance-rehearsal-to-stage-match-cut",
+    "prompt": "Create a vertical before-and-after performance teaser centered on one adult dancer. Preserve identity, body proportions, hair, and rehearsal outfit from Image 1. Reproduce only the eight-count movement from Video 1: two grounded steps, right-arm sweep, half turn, low pause, then rise. Do not borrow its room, camera, or other people.\n\nFirst four counts: wide locked view in a plain daylight rehearsal room, audible shoe contact and breath. On the dancer's half turn, use the torso as an occlusion match cut into the finished stage from Image 2. Final four counts: repeat the same foot placement and arm path in a midnight-blue costume under one amber overhead beam while the camera makes a subtle push-in. Land the final rise exactly on the last accent of Audio 1 and hold for one beat.\n\nMaintain choreography timing, facing direction, floor contact, body anatomy, and identity across the cut. Keep the stage minimal and the dancer inside vertical safe zones. Avoid invented acrobatics, speed ramps, costume morphing before occlusion, extra dancers, impossible joints, copyrighted choreography additions, text, or watermark."
+  },
+  {
+    "id": "MUS-004",
+    "title": "Sound-to-Shape Album Loop",
+    "category": "Music, Performance and Audio-Driven Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/13-music-performance-audio.md#mus-004-sound-to-shape-album-loop",
+    "prompt": "Build an original square audio-reactive loop for a fictional instrumental release. A matte ceramic ring floats above black sand in a dark studio. Map Audio 1 deliberately: low pulses lift concentric ripples in the sand, mid-frequency notes travel as soft amber light around the ring, and the single high accent releases a brief cloud of pale blue particles that returns to the ring.\n\nCamera remains on a slow clockwise orbital path and returns to its exact starting position. The ceramic ring must remain one continuous object with constant thickness and no logo. At second 0 the sand is flat except for one shallow ripple; by second 7 the particles settle and the ripple reverses smoothly into the identical opening state. Use restrained physical motion, realistic shadows, and generous center space for typography added later in editing.\n\nSound intent: Audio 1 remains unchanged; generate no speech or extra music. Avoid generic equalizer bars, readable text, copied cover layouts, kaleidoscope overload, strobing, sudden camera jumps, broken loop continuity, or watermark."
+  },
+  {
+    "id": "EDU-001",
+    "title": "Tidal Marsh Carbon Explainer",
+    "category": "Education, Documentary and Science Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/14-education-documentary-science.md#edu-001-tidal-marsh-carbon-explainer",
+    "prompt": "Create a concise educational sequence explaining how a fictionalized temperate salt marsh stores carbon. Follow the verified relationship in Image 1 without copying its graphic style or labels. Use Video 1 only for mud, cordgrass, shallow water, and natural wind movement; do not imply that the footage proves a specific numerical claim.\n\n0–4 seconds: eye-level field view as the tide moves gently between grass stems. 4–9 seconds: camera passes below the waterline in a clean visual transition, revealing roots and suspended organic particles settling into layered sediment. 9–13 seconds: simplify the scene into an original cutaway model showing plant growth above and gradual burial below. 13–15 seconds: return to the real marsh view with empty lower-third space.\n\nNarration intent: plain language, one idea per sentence, no unverified percentages or universal claims. Sound intent: soft wind, water movement, one restrained transition tone. Preserve correct flow direction, root continuity, scale cues, and species count. Avoid false time-lapse speed, invented data, labels generated inside the video, disaster imagery, copied infographics, or watermark."
+  },
+  {
+    "id": "EDU-002",
+    "title": "Museum Object Story Without Reconstruction Claims",
+    "category": "Education, Documentary and Science Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/14-education-documentary-science.md#edu-002-museum-object-story-without-reconstruction-claims",
+    "prompt": "Produce a quiet museum display film for a fictional 19th-century brass navigation instrument. Preserve the object's shape, engraved marks, patina, scratches, and missing fastener exactly from Images 1–4. Do not restore damage or invent readable inscriptions.\n\nOpening: controlled macro view of the worn adjustment wheel under neutral conservation light. Middle: camera travels slowly across the engraved arc while a narrow highlight reveals tool marks; transition into a restrained silhouette of a shipboard table, clearly presented as atmospheric interpretation rather than historical reconstruction. Ending: return to a full three-quarter object view on a neutral support, leaving clean space for curator-approved captions added in post.\n\nSound intent: quiet gallery air, soft wood creak, no dialogue or dramatic score. Keep the artifact static, scale consistent, and reflections physically plausible. Avoid hands operating the fragile object, fabricated dates, national symbols, readable generated labels, restored polish, sensational adventure imagery, or watermark."
+  },
+  {
+    "id": "EDU-003",
+    "title": "Safe Workshop Procedure: Drill-Press Setup",
+    "category": "Education, Documentary and Science Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/14-education-documentary-science.md#edu-003-safe-workshop-procedure-drill-press-setup",
+    "prompt": "Create a workshop safety overview showing setup before a drill press is powered. This is supplementary visual communication, not standalone certification. Preserve the machine, guard, emergency stop, clamp, and instructor from the references.\n\nShow exactly four steps in verified order: instructor disconnects power; checks that the correct bit is secured using the approved key and removes the key; clamps a plain wood sample flat to the table; adjusts the transparent guard and steps back with hands clear. Use medium and close views only where each action is visible. End before the machine starts, on a wide confirmation frame showing clear workspace, eye protection, secured material, and both hands away from controls.\n\nSound intent: natural room tone and four subtle confirmation clicks; no spoken claims. Keep control locations, hand placement, PPE, and tool geometry stable. Avoid operating the machine, loose clothing, gloves near rotating parts, unsafe demonstrations, invented compliance labels, readable generated instructions, brand marks, or watermark."
+  },
+  {
+    "id": "EDU-004",
+    "title": "Microscopic World to Everyday Scale",
+    "category": "Education, Documentary and Science Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/14-education-documentary-science.md#edu-004-microscopic-world-to-everyday-scale",
+    "prompt": "Create a vertical educational transition from an illustrative plant-cell interior to an everyday leaf. Begin inside a stylized but structurally informed cell: one visible nucleus, green chloroplast forms, a large central vacuole, and a rigid outer wall. A pulse of light moves through chloroplasts as the camera travels outward; cell walls become a mosaic, the mosaic becomes leaf tissue, and the camera exits through a dew droplet onto the exact leaf from Image 2.\n\nThe transition must make scale change legible through continuous zoom and stable landmarks. End on a child's gloved hand placing the leaf beside a blank observation card, with safe space for reviewed labels added later. Narration intent: identify this as an illustration and avoid implying that organelles have the shown colors at natural scale. Sound intent: soft tonal rise, room ambience, no music lyrics.\n\nAvoid impossible organelle counts, literal-camera claims, generated labels, humanized cells, abrupt teleportation, anatomical confusion, copyrighted textbook style, or watermark."
+  },
+  {
+    "id": "ARC-001",
+    "title": "Honest Small-Apartment Walkthrough",
+    "category": "Architecture, Interiors and Real-Estate Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/15-architecture-interiors-real-estate.md#arc-001-honest-small-apartment-walkthrough",
+    "prompt": "Create a vertical, single-path walkthrough of the documented studio apartment. Follow Image 1 exactly: enter through the short hall, pass the bathroom door on screen right, reveal the kitchenette on screen left, then finish at the living area window. Preserve wall openings, ceiling height, built-in storage, flooring, fixtures, and the actual exterior view from Images 2–5.\n\nCamera moves at natural adult walking height with a moderate field of view and gentle stabilization. Pause briefly at the kitchenette so counter depth is readable; continue without passing through furniture or walls. At the window, rotate no more than 45 degrees to show the living/sleeping zone and end with a truthful wide frame. Keep daylight direction and object positions consistent.\n\nSound intent: room tone, soft footsteps, distant street ambience, no sales voiceover. Avoid stretching rooms, removing columns, adding furniture that changes usable area, inventing a balcony or skyline, opening impossible doors, generated price text, logos, agents, or watermark."
+  },
+  {
+    "id": "ARC-002",
+    "title": "Courtyard Cafe Morning-to-Evening Study",
+    "category": "Architecture, Interiors and Real-Estate Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/15-architecture-interiors-real-estate.md#arc-002-courtyard-cafe-morning-to-evening-study",
+    "prompt": "Create a time-compressed spatial portrait of a fictional courtyard café while preserving architecture. Begin at opening time with cool daylight entering from the east, empty oak tables, folded canvas awnings, and staff placing ceramic cups. Camera makes one slow lateral move along the arcade. Use seamless light changes at fixed spatial anchors: a brick pier, the central olive tree, and the fountain edge.\n\nAt midday, soft leaf shadows travel across lime plaster; a small, varied group occupies only the documented seating. By early evening, practical wall lights turn on one by one and the same move concludes at the fountain, now reflecting warm light. People must appear and leave through plausible paths rather than popping into place.\n\nSound intent: morning broom and birds evolving into low conversation and evening water; no recognizable song. Preserve materials, table count, door positions, tree scale, sun direction, and accessible circulation. Avoid fantasy renovation, impossible sunlight, crowd duplication, fabricated signage, lifestyle stereotypes, or watermark."
+  },
+  {
+    "id": "ARC-003",
+    "title": "Renovation Concept With Before/After Boundary",
+    "category": "Architecture, Interiors and Real-Estate Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/15-architecture-interiors-real-estate.md#arc-003-renovation-concept-with-beforeafter-boundary",
+    "prompt": "Create a clearly labeled-in-post renovation concept for a small community reading room. Start with the existing condition from Image 1: fixed windows, radiator, structural beam, worn floor, and current door remain exact. Camera is locked on a measured corner view.\n\nA moving vertical light boundary travels from left to right. Behind the boundary only approved proposal elements from Image 2 appear: repaired timber floor, low movable shelves, acoustic ceiling panels, two reading lamps, and accessible clear circulation. Structural openings, room dimensions, exterior view, and radiator do not change. Once the boundary reaches the right edge, hold the proposed-state visualization for two seconds with empty top-left space for “concept” labeling added in post.\n\nSound intent: quiet paper movement and one restrained transition sweep. Avoid demolition spectacle, extra windows, luxury furniture, increased room size, hidden radiator, invented accessibility certification, generated labels, people, or watermark."
+  },
+  {
+    "id": "ARC-004",
+    "title": "Smart-Home Evening Sequence",
+    "category": "Architecture, Interiors and Real-Estate Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/15-architecture-interiors-real-estate.md#arc-004-smart-home-evening-sequence",
+    "prompt": "Produce an evening smart-home demonstration in a fictional living room. Preserve the exact lamp, blind motor, wall control, and room geometry from the references. Show three causal beats only.\n\nBeat 1: close view of an adult hand pressing the upper wall-control button once; the ceiling light smoothly dims from neutral white to 30 percent warm light. Beat 2: medium room view as the lower button is pressed; the existing blinds close evenly from their current position, with outdoor light reducing naturally. Beat 3: a small tabletop control is rotated clockwise; the floor lamp turns on and stops at the approved amber level. End on a wide room state matching the approved interaction map.\n\nCamera cuts only after each input is visible. Sound intent: tactile clicks, quiet blind motor, room ambience, no voice assistant or claims. Keep button identity, hand anatomy, light direction, device count, cable placement, and state order stable. Avoid invented automation, surveillance implication, floating interfaces, brand logos, readable generated text, or watermark."
+  },
+  {
+    "id": "MOB-001",
+    "title": "Electric City Car Interior Demo",
+    "category": "Automotive and Mobility Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/16-automotive-mobility.md#mob-001-electric-city-car-interior-demo",
+    "prompt": "Create a stationary interior demonstration for the fictional compact electric car “MORA C1” inside a controlled studio. Preserve the steering wheel, center display, physical buttons, seat stitching, vents, and materials from Images 1–3. The vehicle does not move.\n\nBeat 1: macro view as an adult hand presses the physical climate button once; cut to the exact approved climate screen from Image 4. Beat 2: the same hand rotates the console dial one click; ambient lighting changes from cool white to muted amber according to Image 5. Beat 3: camera slides behind the front seats as the panoramic shade closes at realistic speed; finish on the approved calm-cabin state from Image 6.\n\nKeep hand anatomy, reflections, control locations, UI text, screen brightness, and cause/effect order exact. Sound intent: button click, dial detent, shade motor, quiet cabin, no engine sound or voiceover. Avoid driving, invented range or safety claims, floating UI, screen gibberish, extra controls, logo mutation, fingerprints disappearing between cuts, or watermark."
+  },
+  {
+    "id": "MOB-002",
+    "title": "Cargo Bicycle Rain-Test Film",
+    "category": "Automotive and Mobility Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/16-automotive-mobility.md#mob-002-cargo-bicycle-rain-test-film",
+    "prompt": "Create a controlled rain-condition demonstration for a fictional front-loader cargo bicycle. Preserve frame geometry, wheel sizes, steering linkage, cargo box, reflective strips, and transparent rain cover from Images 1–3. Preserve the adult rider's identity, helmet, waterproof jacket, and footwear from Image 4.\n\nOpen on a stationary close view of water beading on the closed cargo cover. Cut to a low side tracking shot as the rider starts smoothly on the empty closed course from Image 5, both wheels maintaining ground contact. Show one broad low-speed turn, realistic tire spray, visible steering linkage, and stable covered cargo represented by two secured foam blocks. End with a controlled stop and one foot planted.\n\nSound intent: rainfall, tire hiss, chain, brake contact, no music. Do not claim waterproofing, braking distance, payload, or road legality. Avoid public traffic, child passengers, skidding, missing helmet, warped wheels, changing cargo, impossible steering, visible brands, captions, or watermark."
+  },
+  {
+    "id": "MOB-003",
+    "title": "Night Train Sleeper Service",
+    "category": "Automotive and Mobility Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/16-automotive-mobility.md#mob-003-night-train-sleeper-service",
+    "prompt": "Create a vertical service vignette aboard the fictional night train “NORTHLINE”. Preserve the corridor width, cabin numbering shapes without readable digits, berth layout, brass fixtures, and navy upholstery from Images 1–3. Preserve the staff member from Image 4 and the unbranded service objects from Images 5–6.\n\nBegin in the corridor with a gentle stabilized walk behind the staff member carrying one tray. The door slides open left; cut inside without reversing direction. The staff member places the tray on the documented shelf, folds down the lower berth in one mechanically plausible motion, then draws the curtain as moonlit countryside moves consistently from right to left outside. End on the warm reading lamp and untouched tray.\n\nSound intent: steady rail rhythm, door slide, fabric, cup contact, no announcement or music. Keep corridor/cabin orientation, object count, staff identity, hand contact, window motion, and lighting stable. Avoid luxury claims, real rail branding, impossible floor plan, duplicated staff, changing tray contents, generated text, or watermark."
+  },
+  {
+    "id": "MOB-004",
+    "title": "Sidewalk Delivery Robot Handoff",
+    "category": "Automotive and Mobility Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/16-automotive-mobility.md#mob-004-sidewalk-delivery-robot-handoff",
+    "prompt": "Create a concept demonstration of a small six-wheeled delivery robot on a private campus path. Preserve the original body, lid, lights, wheel count, sensor positions, and neutral finish from Images 1–3. Follow the route in Image 4: straight path, stop line, pedestrian crossing, then designated handoff bay.\n\nOpening: low three-quarter follow as the robot travels at walking speed. A pedestrian approaches the crossing; the robot slows and stops fully behind the line, lights changing from soft cyan to amber. After the path clears, it proceeds to the bay. The adult recipient from Image 5 taps a physical button, the lid opens upward, and they remove one plain paper bag. End with lid closed and lights returning to cyan.\n\nSound intent: quiet motors, wheel texture, button tone, campus ambience, no speech. Keep pedestrian priority, wheel-ground contact, path geography, object count, light-state logic, and recipient identity exact. Avoid autonomous-safety claims, public-road operation, surveillance framing, logos, floating app UI, face scans, generated text, or watermark."
+  },
+  {
+    "id": "NAT-001",
+    "title": "Urban Fox Dawn Observation",
+    "category": "Nature, Animals and Pet Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/17-nature-animals-pets.md#nat-001-urban-fox-dawn-observation",
+    "prompt": "Create a quiet dawn observation of one adult red fox crossing the edge of a fictional urban allotment. Use Video 1 for hedge placement, wet path, fence, and natural light. Preserve plausible fox proportions, gait, coat, ears, tail weight, and cautious behavior from Images 1–3 without copying a distinctive photographed individual.\n\nThe camera stays hidden at low telephoto height and never approaches. The fox emerges from the hedge, pauses to listen with one ear turning, walks across the wet path, briefly sniffs beside an empty planter, then exits through a second hedge opening. Keep the route continuous and the animal at a respectful distance. A cyclist passes softly out of focus in the far background after the fox has cleared the path.\n\nSound intent: early birds, distant bicycle, leaves, no dramatic music or growls. Avoid eye glow, pet-like posing, feeding, den disclosure, pursuit, cubs, aggression, fantasy behavior, species mixing, generated location claims, or watermark."
+  },
+  {
+    "id": "NAT-002",
+    "title": "Senior Dog Raincoat Fit Check",
+    "category": "Nature, Animals and Pet Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/17-nature-animals-pets.md#nat-002-senior-dog-raincoat-fit-check",
+    "prompt": "Create a gentle vertical fit-check for one senior mixed-breed dog in a quiet entryway. Preserve the dog's face, coat markings, body size, gray muzzle, and calm movement from Images 1–3. Preserve the mustard raincoat's two straps, reflective piping, hood shape, and opening from Images 4–5.\n\nBegin with the dog standing naturally on a nonslip mat. The adult owner fastens the chest strap, slides two fingers beneath it to show comfortable space, and checks that the coat does not restrict the front legs. Cut to a side view as the dog takes four unhurried steps toward the door, pauses, and looks back. End with the hood still down and all paws visible.\n\nSound intent: fabric fastening, light paw steps, home ambience, no speech. Do not claim medical, orthopedic, waterproof, or calming benefits. Avoid forcing posture, exaggerated excitement, changing markings, extra straps, tight fit, covered eyes, distorted paws, child handler, logos, captions, or watermark."
+  },
+  {
+    "id": "NAT-003",
+    "title": "Balcony Tomato Growth Diary",
+    "category": "Nature, Animals and Pet Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/17-nature-animals-pets.md#nat-003-balcony-tomato-growth-diary",
+    "prompt": "Create a clearly time-compressed growth diary for one balcony tomato plant. Preserve the pot, stake, balcony rail, wall marks, and camera angle from Image 7. Follow Images 1–6 in chronological order: small transplant, new leaves, first flowers, small green fruit, larger green fruit, then one ripe red fruit. Do not invent additional yield.\n\nUse a locked camera and gentle dissolves anchored on the main stem and blue tie. Between stages, sunlight and weather may change naturally, but the plant must retain branching continuity and the same minor leaf blemish. At the final stage, an adult hand enters once, turns the single ripe tomato without picking it, and exits. Hold a clean final frame for an editorial date added later.\n\nSound intent: evolving balcony ambience from spring breeze to summer insects, no narration. Avoid instant magical growth, multiplying fruit, changing pot or rail, impossible leaf motion, pesticide claims, generated dates, brand packaging, or watermark."
+  },
+  {
+    "id": "NAT-004",
+    "title": "Tide-Pool Macro Field Note",
+    "category": "Nature, Animals and Pet Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/17-nature-animals-pets.md#nat-004-tide-pool-macro-field-note",
+    "prompt": "Create a patient macro field note at a fictional rocky tide pool during a naturally low tide. Preserve the pool shape, pebble positions, wet rock texture, and one common sea anemone from the references. The camera is mounted above the water and never touches the animal.\n\nOpen on a wide macro context with gentle surface ripples. Slowly push closer as the anemone's tentacles move with the water rather than reaching toward the camera. One tiny unidentifiable crustacean crosses the background once; do not make it the subject or imply predation. A small wave refreshes the pool, briefly distorting the view, then clears to the same composition. End with open space for a verified species label added in post.\n\nSound intent: close water movement and distant shore, no music. Avoid handling, exposed dry animal, dramatic hunting, fluorescent fantasy color, extra species, impossible anatomy, generated scientific text, exact-location disclosure, or watermark."
+  },
+  {
+    "id": "IND-001",
+    "title": "Small-Batch Assembly Process",
+    "category": "Industry, Business and Public-Service Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/18-industry-business-public-service.md#ind-001-small-batch-assembly-process",
+    "prompt": "Create a clean process film showing final assembly of one fictional aluminum desk fan at a small workshop. Preserve the workstation, jig, torque driver, four fasteners, fan housing, grille, cable, worker identity, and PPE from the references.\n\nShow four verified steps: seat the motor housing in the jig; route the cable through the existing channel; position the grille using its alignment notch; tighten four fasteners in the approved cross pattern. Use close views for contact points and a stable overhead view for the pattern. The driver stops after each fastener; do not show a torque value unless added later from verified production data. End with the unpowered fan on the inspection mat while the worker checks grille clearance by hand.\n\nSound intent: workshop ambience, part contact, four driver stops, no voiceover. Keep part count, tool geometry, cable route, PPE, and machine state continuous. Avoid spinning blades, missing guards, invented efficiency claims, logos, readable serial numbers, extra hands, sparks, or watermark."
+  },
+  {
+    "id": "IND-002",
+    "title": "Cold-Chain Parcel Journey",
+    "category": "Industry, Business and Public-Service Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/18-industry-business-public-service.md#ind-002-cold-chain-parcel-journey",
+    "prompt": "Create a concise chain-of-custody journey for one fictional insulated parcel containing non-medical test material. Keep the same parcel ID represented only by a simple colored shape; add any real code later in editing. Preserve box geometry, blue seal, reusable cold pack count, scanner, and facility layouts from the references.\n\nBeat 1: packing bench, two cold packs placed around one sealed sample box and lid closed. Beat 2: parcel crosses the facility scan point; show the approved green confirmation state from Image 7. Beat 3: controlled van interior, parcel secured on the same shelf without opening. Beat 4: receiving bench, intact blue seal checked and approved state from Image 8 shown. End before unpacking.\n\nSound intent: cardboard, scanner tone, van ambience, no narration. Keep parcel appearance, seal, custody order, orientation, and object count exact. Do not display invented temperatures, timestamps, addresses, patient data, guarantees, medical claims, company logos, generated text, or watermark."
+  },
+  {
+    "id": "IND-003",
+    "title": "Inclusive Emergency-Exit Reminder",
+    "category": "Industry, Business and Public-Service Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/18-industry-business-public-service.md#ind-003-inclusive-emergency-exit-reminder",
+    "prompt": "Create a calm vertical emergency-exit reminder for a fictional community arts center, based only on the approved route. Start in the main studio, move through the east corridor, pass the accessible refuge point without blocking it, and finish outside at the documented assembly area. Preserve doors, ramps, handrails, lighting, and exit hardware exactly.\n\nShow three adults moving at a controlled pace: one walking, one using a manual wheelchair, and one using a cane. They travel together without anyone being carried or used as a dramatic obstacle. Camera stays ahead at chest height, shows thresholds and turning space, and never reverses route direction. End on a stable wide shot of the assembly area with empty space for approved instructions and captions added in post.\n\nSound intent: clear room tone, one neutral alarm sample at safe level, no panic, speech, or music. Avoid smoke, fire, crowd crush, blocked exits, invented signage, unverified timing claims, accessibility stereotypes, generated text, logos, or watermark."
+  },
+  {
+    "id": "IND-004",
+    "title": "Bilingual Service-Desk Welcome",
+    "category": "Industry, Business and Public-Service Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/18-industry-business-public-service.md#ind-004-bilingual-service-desk-welcome",
+    "prompt": "Create a welcoming service-desk vignette in a fictional public library. Preserve the staff member on screen right, visitor on screen left, modest uniforms, desk height, hearing-loop symbol placeholder area, and open path from the references. No real patron records or readable screens.\n\n0–4 seconds: medium two-shot. The staff member makes eye contact and says in English, “Welcome. How can I help today?” The visitor listens with no lip movement. 4–8 seconds: the visitor answers in Mandarin, “我想办理一张借阅证。” The staff member listens and nods once. 8–12 seconds: the staff member gestures toward a blank paper form and replies in Mandarin, “好的，我来为您说明步骤。” End before personal details are requested.\n\nKeep exact speaker-to-voice ownership, natural pronunciation, calm facial motion, respectful personal distance, eyelines, and screen direction. Sound intent: intelligible dialogue with quiet library ambience, no music. Avoid subtitles baked into the image, voice swapping, private data, invented eligibility claims, logos, background face duplication, or watermark."
+  },
+  {
+    "id": "EDT-001",
+    "title": "Clear the Background, Preserve the Lead",
+    "category": "Editing, Continuation and Localization Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/19-editing-continuation-localization.md#edt-001-clear-the-background-preserve-the-lead",
+    "prompt": "Edit Video 1 by removing only the five background pedestrians who cross behind the lead performer. Reconstruct the newly exposed pavement, tiled wall, closed kiosk, and reflections from Image 1. Preserve the lead performer pixel-consistently in position, identity, face, hair, wardrobe, body shape, gestures, walking cadence, gaze, lip movement, contact shadows, and occlusions. Preserve the original camera path, focal behavior, motion blur, exposure, crop, duration, edit points, and every foreground prop.\n\nThe lead walks from screen left to screen right and pauses beside the blue bench exactly as in Video 1. Do not retime or regenerate this action. When a removed pedestrian briefly overlaps the lead's coat edge, restore the coat from adjacent source frames and Image 2; keep the original fabric motion and edge softness. Rebuild only the vacated background region with temporally stable texture and matching parallax.\n\nAudio scope: keep the original lead dialogue, footsteps, music, and room tone. Attenuate only identifiable background speech associated with the removed pedestrians, then fill the gap with matched ambient tone. Avoid changing the lead voice, inventing words, freezing background texture, duplicating passersby, warping the bench, shifting shadows, adding signs, beautifying the face, or introducing a watermark."
+  },
+  {
+    "id": "EDT-002",
+    "title": "Extend a Repair-Café Closing Moment",
+    "category": "Editing, Continuation and Localization Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/19-editing-continuation-localization.md#edt-002-extend-a-repair-café-closing-moment",
+    "prompt": "Generate a continuation clip beginning exactly from Video 1's final frame; do not regenerate or replace the existing source clip. Match the locked camera height, slow handheld drift, warm practical lighting, repair-café tables, window reflections, people, wardrobe, radio geometry, tool positions, grain, exposure, and Audio 1 room tone.\n\nContinuation beat 1, first 2 seconds: the technician releases the same tuning knob, moves both hands away, and looks toward the customer. The radio remains in the same place and orientation. Beat 2, next 3 seconds: the customer leans in, presses the single top button once, and the existing amber indicator turns on; a quiet fictional instrumental station fades in with no recognizable song. The technician listens and gives one restrained nod. Beat 3, final 3 seconds: the customer smiles, slides the radio into the existing padded tote, and closes the tote flap. The camera eases back by a few centimeters and holds on the now-clear work mat.\n\nKeep hand ownership, radio scale, button location, tool count, eyelines, screen direction, and sound perspective continuous across the source boundary. Do not add dialogue, brand marks, readable station data, new customers, extra tools, impossible electronics, a second radio, a camera cut, a lighting jump, or a watermark."
+  },
+  {
+    "id": "EDT-003",
+    "title": "Localize a Product Tutorial Without Re-Shooting",
+    "category": "Editing, Continuation and Localization Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/19-editing-continuation-localization.md#edt-003-localize-a-product-tutorial-without-re-shooting",
+    "prompt": "Create a localized version of Video 1 using the complete approved script in Text 1. Preserve the adult presenter's identity, age, skin texture, hair, wardrobe, body position, gestures, product geometry, hand-object contact, step order, camera, cuts, background, exposure, and total duration. Replace only the spoken language and the mouth movement needed to match it. Use Audio 1 only for the authorized speaker's vocal identity; keep a natural pace and pronunciation for the target locale.\n\nThe three product actions must still land on their original moments: unfold the handle, rotate the selector one click clockwise, and place the device on its base. Do not change or imply any feature beyond the approved script. Remove the source-language lower thirds cleanly and leave the three supplied graphic areas blank for exact typography to be composited from Images 1–3 after generation.\n\nMix the new dialogue at the same perceived distance as the source; preserve room tone and action sounds. Duck background music only when needed for intelligibility. Do not translate brand names, serial numbers, legal copy, or units unless Text 1 explicitly supplies the approved form. Avoid voice swapping, a second speaker, extra claims, paraphrased safety instructions, lip jitter, altered hands, baked-in generated text, new cuts, or watermark."
+  },
+  {
+    "id": "EDT-004",
+    "title": "Relight an Office Demo, Change Nothing Else",
+    "category": "Editing, Continuation and Localization Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/19-editing-continuation-localization.md#edt-004-relight-an-office-demo-change-nothing-else",
+    "prompt": "Edit only the lighting and verified device states in Video 1. Keep the office architecture, furniture, window geometry, adult actor identity, wardrobe, posture, gestures, hand contacts, camera movement, lens, focus pulls, timing, crop, and every object unchanged.\n\nTransform the exterior from overcast afternoon to the approved blue-hour view in Image 1. Dim the existing daylight gradually while keeping physically consistent window reflections and shadow directions. At the exact source moment when the actor presses the wall control, switch the two desk lamps from off to the warm state in Image 2; their light must affect nearby surfaces and the actor naturally. Keep the ceiling fixture off for the entire clip. End with the same composition and object positions as Video 1, now balanced between cool window light and warm desk lamps.\n\nPreserve original dialogue, button click, room tone, and music. Do not move the sun visibly, change weather, add city landmarks, alter the interface, invent an energy-saving claim, change furniture, beautify the actor, add new light fixtures, reshape reflections, retime the press, or add text, logos, and watermark."
+  },
+  {
+    "id": "MRF-001",
+    "title": "Three-Biome Museum Rail in One Take",
+    "category": "Multi-Reference and Camera-Transfer Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take",
+    "prompt": "Create one uninterrupted macro tracking shot beginning exactly from Image 1. The same tiny unbranded brass inspection cart travels forward on the one continuous rail from the red-clay canyon, across the clear-water wetland, and into the mossy cloud forest. Preserve the walnut table, archival cabinets, museum task lights, cart dimensions, wheel count, rail gauge, biome order, and handcrafted miniature scale.\n\n0–4 seconds: low rear three-quarter follow as the cart starts in the canyon. Fine red dust shifts under the rail supports; the cart never leaves the track. 4–9 seconds: camera arcs gently to the side while the rail crosses the wetland on visible brass supports. Water reacts with small ripples but never floods the cart. 9–14 seconds: camera lowers behind one moss ridge, allowing the ridge to create a natural foreground wipe, then reveals the cart entering the cloud forest. Condensation becomes slightly denser and the task light softens through it. 14–15 seconds: the cart stops beneath one miniature tree and the camera holds.\n\nNo cuts, teleports, speed ramps, hidden resets, or changes of scale. Sound intent: Audio 1 wheel texture, faint water movement, distant museum ventilation, no narration or music. Avoid real species claims, floating rail, duplicated cart, changing wheel count, full-size landscape cues, people, labels, generated text, logos, or watermark."
+  },
+  {
+    "id": "MRF-002",
+    "title": "Radial Cork Speaker: Transfer Motion Grammar, Not Content",
+    "category": "Multi-Reference and Camera-Transfer Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content",
+    "prompt": "Create an original studio advertisement for the fictional graphite-and-cork portable speaker in Image 1. Transfer only the abstract camera grammar from Video 1: shot lengths, direction of travel, acceleration curve, focal transitions, and cut timing. Do not copy its subject, setting, colors, props, lighting design, composition, campaign idea, text, or recognizable effects.\n\n0–3 seconds: slow three-quarter push toward the full speaker on a charcoal plinth; amber rim light reveals the cork edge. 3–6 seconds: cut on Audio 1's second downbeat to a controlled lateral macro move across the cork pores and metal seam. 6–9 seconds: repeat Video 1's orbit speed around the circular woven grille while the product remains stationary and physically intact. The amber status light turns on once at the final beat of this section. 9–12 seconds: pull back to the original three-quarter product view; a shallow pattern of light crosses the acoustic panel behind it and settles, leaving clean negative space for typography added later.\n\nPreserve the exact silhouette, circular grille, cork panels, seam placement, amber indicator, scale, and material response from Image 1. Sound intent: Audio 1 plus restrained tactile clicks and low room tone; do not imply measured loudness or acoustic performance. Avoid logos, generated copy, extra controls, duplicate speakers, pulsing geometry, visible sound waves, floating product, copied reference-video scenery, or watermark."
+  },
+  {
+    "id": "MRF-003",
+    "title": "Four Workshops, One Copper Thread",
+    "category": "Multi-Reference and Camera-Transfer Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/20-multireference-camera-transfer.md#mrf-003-four-workshops-one-copper-thread",
+    "prompt": "Create a four-part craft film connected by one fictional copper-colored thread. Each workspace, tool set, adult maker, and hand belongs only to its reference image. Never blend identities or transfer tools between locations. The same thread color and thickness remain visually continuous across cuts, but every handoff is an editorial match action rather than a claim that the spaces are physically connected.\n\n0–4 seconds, ceramic studio: a maker draws the thread across a soft clay tile to mark one curved guide, moving screen left to right. At the thread crossing the lens, cut on Audio 1 beat one. 4–8 seconds, textile bench: another maker pulls the thread from the same screen position and completes two visible stitches in undyed canvas. A fabric fold occludes the frame for beat two. 8–11 seconds, paper studio: a third maker uses the thread to bind a small blank notebook with three holes; the closing cover creates the next cut. 11–15 seconds, electronics bench: a fourth maker lays an insulated copper lead into an approved channel of a simple unpowered light sculpture, then removes both hands. The sculpture emits one gentle amber glow only after the verified switch is pressed.\n\nKeep screen direction, thread thickness, hand ownership, tool count, and step order clear. Sound intent: distinct material sounds over Audio 1, no dialogue. Avoid logos, unsafe electrical work, implied shared location, extra fingers, thread changing into wire before the final scene, invented sustainability claims, readable text, or watermark."
+  },
+  {
+    "id": "MRF-004",
+    "title": "Field Water-Filter Setup from Verified References",
+    "category": "Multi-Reference and Camera-Transfer Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/20-multireference-camera-transfer.md#mrf-004-field-water-filter-setup-from-verified-references",
+    "prompt": "Create a vertical setup tutorial for the exact unbranded gravity water-filter kit in Images 1–4. Use only the steps and claims approved in Text 1. Preserve the two bags, hose, clamp, filter body, cap, connector shapes, color coding, demonstrator identity, wardrobe, bench, and hand ownership.\n\n0–3 seconds: overhead inventory view shows exactly the approved parts laid separately on the dry bench. 3–6 seconds: medium close-up as the demonstrator connects the marked inlet hose to the matching filter port; show the connector seating fully, with no liquid present. 6–9 seconds: the demonstrator hangs the source bag from the approved hook and keeps the clean bag below it without either bag touching the ground. 9–12 seconds: close view of the approved flushing step from Text 1, keeping the discharge away from the clean bag. 12–15 seconds: stable wide view of the completed arrangement, flow stopped, with blank lower safe area for verified captions added in post.\n\nCamera cuts only to clarify contact points. Sound intent: fabric, connector click, light water, outdoor ambience, no voiceover. Do not show anyone drinking, state that water is safe, invent a flow rate, skip the flush, reverse inlet/outlet, add parts, bake generated instructions into frame, show a logo, or add watermark."
+  },
+  {
+    "id": "CHR-001",
+    "title": "Paper Birds Plan for the Storm",
+    "category": "Character, Dialogue and Performance Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm",
+    "prompt": "Create a tactile stop-motion paper-craft scene beginning from Image 1. Preserve exactly two characters: the broad indigo bird stays screen left with one folded wing held close; the smaller saffron bird stays screen right with a long pointed tail. Preserve paper colors, fold patterns, fiber texture, scale difference, seed tray, warm lantern, greenhouse structure, rain direction, and open door at far right.\n\n0–3 seconds: establishing medium-wide shot with Audio 3 prominent. A gust rattles the greenhouse; both birds look toward the right-hand door, then at each other. No dialogue. 3–7 seconds: close on the indigo bird using Audio 1, low and steady: “The roof will hold if we brace the west hinge.” Its beak movement is minimal and synchronized; the saffron bird listens without speaking. 7–11 seconds: reverse close-up using Audio 2, quick but clear: “Then I’ll tie the twine. You keep the lantern dry.” The indigo bird listens and lowers its tense shoulder fold. 11–15 seconds: return to the two-shot. They each take one end of a loose natural-fiber twine and move together toward the exit; the lantern remains inside. End before they enter the rain.\n\nUse slight stop-motion cadence, consistent eye lines, and one speaker at a time. Sound hierarchy: dialogue first, rain and wooden creaks below, no music. Avoid extra birds, human hands, realistic feathers, changing folds, swapped voices, subtitles, speech bubbles, a repaired roof not yet shown, exaggerated panic, franchise resemblance, logos, or watermark."
+  },
+  {
+    "id": "CHR-002",
+    "title": "The First New Root",
+    "category": "Character, Dialogue and Performance Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/21-character-dialogue-performance.md#chr-002-the-first-new-root",
+    "prompt": "Create a restrained 12-second performance in the small greenhouse at blue hour. Preserve the adult horticulturist's identity, short silver hair, moss-green work shirt, round clear glasses, hands, and natural skin texture from Image 1. Preserve the narrow bench, task lamp, rain-speckled glass, single labeled-by-color but text-free propagation jar, leaf count, stem shape, water level, and root location from the references.\n\n0–4 seconds: locked medium shot. The horticulturist enters frame carrying the jar with both hands, sits, and places it within the task lamp. Their posture is tired; breathing is shallow but calm. 4–8 seconds: macro insert of the glass. They rotate the jar less than a quarter turn, revealing the one new white root from Image 4. One fingertip stops just short of touching the glass. 8–12 seconds: return to a gentle close-up. Their eyes refocus, shoulders release, and a very small smile appears as they exhale once. They look back at the root, not at camera. Hold the final second.\n\nSound intent: rain on glass, stool creak, jar contact, one soft exhale, no dialogue or music. Keep the emotional progression fatigue → uncertainty → recognition → quiet relief. Avoid tears, celebration, time-lapse growth, extra roots, changing leaf count, scientific or success claims, readable label text, beauty retouching, logos, or watermark."
+  },
+  {
+    "id": "CHR-003",
+    "title": "Bilingual Radio-Repair Handoff",
+    "category": "Character, Dialogue and Performance Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/21-character-dialogue-performance.md#chr-003-bilingual-radio-repair-handoff",
+    "prompt": "Create a natural service handoff in a small independent radio-repair shop. Keep the technician screen left behind the counter, customer screen right, radio centered between them, and open walking path visible. Preserve both adult identities, wardrobe, glasses, radio geometry, tuning dial, handle, counter scratches, tool locations, eyelines, and respectful distance. No readable customer records or real brand marks.\n\n0–4 seconds, medium two-shot: the technician uses Audio 1 and says in Japanese, “修理が終わりました。音を確認しますか。” The customer listens with no mouth movement, then nods once. 4–9 seconds, radio insert and customer reaction: the technician turns the existing dial one click; a quiet fictional jazz phrase plays. The customer uses Audio 2 and replies in English, “Yes, that sounds like home again.” The technician listens and keeps both hands away from the dial. 9–15 seconds: back to two-shot. The technician switches the radio off, folds the existing cloth around it, and says in Japanese, “大切にお使いください。” The customer bows slightly; end before payment or personal details.\n\nKeep exact language, speaker ownership, lip sync, pauses, action causality, and audio perspective. Dialogue is foreground; shop room tone and radio remain lower. Avoid subtitles baked into the image, voice swapping, accents used as comedy, additional customers, invented warranty claims, duplicated tools, brand labels, private data, or watermark."
+  },
+  {
+    "id": "CHR-004",
+    "title": "One Extra Meal: Three-Person Ensemble",
+    "category": "Character, Dialogue and Performance Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/21-character-dialogue-performance.md#chr-004-one-extra-meal-three-person-ensemble",
+    "prompt": "Create an understated ensemble scene during closing time at a fictional community kitchen. Preserve the three adult identities and roles: coordinator in a rust apron behind the pass, bicycle courier in a reflective rain shell beside the left exit, late-arriving worker in a grey coat entering from the right. Preserve the kitchen geography, two sealed meal boxes, one insulated delivery bag, wet floor mat, clock without readable time, and all screen directions.\n\n0–4 seconds: wide master. The coordinator counts two meal boxes, places one into the courier's bag, then notices the other has no pickup marker. The courier waits and looks toward the coordinator, not camera. 4–8 seconds: medium on the right doorway as the late worker arrives, slightly out of breath, checks the empty pickup shelf, and tries to hide disappointment. No dialogue. 8–12 seconds: return to master. The coordinator and courier exchange a brief look; the courier removes the first box from the bag and gestures toward the late worker. The coordinator instead leaves that box with the courier and hands the untouched second sealed box to the late worker. 12–15 seconds: the late worker accepts it with both hands and quietly says, “Thank you.” The coordinator nods; the courier closes the bag containing the original first box. Hold all three in frame.\n\nSound intent: Audio 1, rain at exits, bag zipper, one line of clean dialogue, no score. Keep exactly two boxes throughout; no box is opened, duplicated, or transferred twice. Avoid charity spectacle, infantilizing reactions, logos, readable personal data, unsafe food handling, crowd extras, tears, speeches, continuity jumps, or watermark."
+  },
+  {
+    "id": "MOG-001",
+    "title": "Night-Market Poster Builds on the Beat",
+    "category": "Motion Graphics and Dynamic Poster Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat",
+    "prompt": "Create a tactile paper-collage animation that ends exactly on Image 1. Preserve the midnight-blue field, one indigo arch, five amber lanterns, two teal ribbons, three stall awnings, foliage, coral accents, and one blank cream panel. Every element is a separate physical paper layer with small contact shadows; nothing may turn into readable text.\n\n0–4 seconds: begin on the empty midnight-blue paper field. The indigo arch assembles from three pieces with short, dry paper-slide sounds. 4–8 seconds: three market stalls rise from the lower edge in left-to-right order; their awnings unfold once and remain fixed. 8–12 seconds: five lanterns appear one at a time across the arch on successive beats, then the two teal ribbons sweep in from opposite sides without crossing the blank panel. 12–15 seconds: foliage and coral accents settle; the cream panel lifts gently into the lower-middle and the camera holds until the exact Image 1 composition is reached.\n\nUse Audio 1 only for rhythm; add restrained paper friction and soft wooden taps. Keep a locked camera, readable layer order, stable colors, exact counts, and final safe margins. Avoid generated letters, fake language, extra stalls or lanterns, particle confetti, neon glow, camera zoom, copied festival branding, logos, or watermark."
+  },
+  {
+    "id": "MOG-002",
+    "title": "Modular Product Feature Cards",
+    "category": "Motion Graphics and Dynamic Poster Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/22-motion-graphics-dynamic-posters.md#mog-002-modular-product-feature-cards",
+    "prompt": "Create a square motion-graphics feature sequence for the exact unbranded desk organizer in Images 1–4. Preserve its rounded ash-wood tray, grey recycled-felt divider, brass pen rail, two removable cups, all dimensions, seams, slots, material colors, and component count. Use only the four background colors from Image 5.\n\n0–3 seconds: the complete organizer rotates no more than 20 degrees on a flat cream background, then stops in the Image 1 front view. 3–6 seconds: hard cut to a teal card; the two cups lift straight up from their real slots and pause beside the tray, with thin neutral leader lines ending at blank circular callout nodes. 6–9 seconds: cut to a muted coral card; the felt divider slides along its actual groove once, showing the two approved positions from Image 4. 9–12 seconds: cut to a charcoal card; every component returns to the correct assembled state, then the full product eases to center with an empty lower strip for verified labels added later.\n\nSound intent: Audio 1, wood contact, felt slide, no voiceover. Do not invent dimensions, capacities, certifications, magnets, hidden compartments, extra components, generated words, logos, floating geometry, impossible assembly, or watermark."
+  },
+  {
+    "id": "MOG-003",
+    "title": "Museum Object Silhouette Opener",
+    "category": "Motion Graphics and Dynamic Poster Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/22-motion-graphics-dynamic-posters.md#mog-003-museum-object-silhouette-opener",
+    "prompt": "Create a restrained exhibition opener using only flat silhouettes of the four teaching replicas: a wide ceramic bowl, a narrow weaving shuttle, a small brass compass, and a folded paper fan. Preserve each outline and the relative scale shown in Images 1–4. Do not reproduce surface decoration, labels, dates, cultures, makers, or provenance claims.\n\n0–2 seconds: the bowl silhouette enters from below and becomes a shallow horizon curve. 2–4 seconds: the shuttle travels left to right along that curve, leaving one thin line that stops at frame center. 4–6 seconds: the compass silhouette rotates exactly one quarter turn above the line and reveals a circular negative-space window. 6–8 seconds: the fan opens inside that window with six clearly separated folds. 8–10 seconds: all four silhouettes settle into a balanced horizontal composition, leaving a clean upper-right area for an approved exhibition title added in post.\n\nMap one action to each Audio 1 percussion event. Use only Image 5 colors, crisp edges, subtle paper grain, and a locked camera. Avoid generated typography, historical reconstruction, decorative invention, cultural motifs not present in the inputs, extra objects, glossy 3D rendering, logos, or watermark."
+  },
+  {
+    "id": "MOG-004",
+    "title": "Material-Swatch Motion Identity",
+    "category": "Motion Graphics and Dynamic Poster Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/22-motion-graphics-dynamic-posters.md#mog-004-material-swatch-motion-identity",
+    "prompt": "Create an eight-second abstract motion identity using only the supplied material swatches and end mark. Start on a neutral warm-grey field. Preserve the real scale and directional grain of each material; never turn a texture into a product, landscape, letter, or recognizable logo.\n\n0–2 seconds: one cream paper strip folds into a clean diagonal plane. 2–4 seconds: a cork tile slides under it while a narrow brushed-aluminum bar travels across the fold and stops at center. 4–6 seconds: woven fabric pulls through the resulting gap and forms a soft circular loop. 6–8 seconds: the four materials align through simple match cuts into the exact abstract geometry of Image 5, then hold through the final note of Audio 1.\n\nUse real contact shadows, controlled easing, and centered crop safety. Sound intent: paper fold, cork tap, metal slide, textile pull, plus Audio 1. Avoid letters, slogans, invented logos, copied motion-brand conventions, liquid morphs, excessive reflections, extra colors, particles, or watermark."
+  },
+  {
+    "id": "SRL-001",
+    "title": "The Map Rises into a Landscape",
+    "category": "Surreal Physics and Optical-Illusion Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape",
+    "prompt": "Begin exactly from Image 1. Preserve the adult cartographer's identity, charcoal overshirt, hands, position behind the walnut table, archive drawers, task lamp, one map, one blue river, one pale clay ridge, one moss-green valley, and one brass survey marker. The map is fictional and must never become a real identifiable geography.\n\n0–4 seconds: locked medium-wide shot. The paper along the existing contour lines lifts slowly while the cartographer keeps both hands on the far table edge and watches. 4–9 seconds: the pale ridge rises through practical folds; the blue paper river settles into the same channel already visible in Image 1. The camera lowers slightly to table height but does not cross the map boundary. 9–13 seconds: moss fibers spread only within the existing green valley; the brass marker remains planted and constant in scale. 13–15 seconds: a gentle draft moves the loose map corners; the landscape stops growing and the cartographer exhales once, still not touching it.\n\nSound intent: Audio 1, paper creases, clay settling, task-lamp hum, no music or dialogue. Keep one continuous transformation, stable room geometry, handcrafted materials, and believable contact shadows. Avoid magical light, floating terrain, new roads or buildings, landslide imagery, changing hands, text, logos, or watermark."
+  },
+  {
+    "id": "SRL-002",
+    "title": "The Shadow Finishes First",
+    "category": "Surreal Physics and Optical-Illusion Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/23-surreal-physics-optical-illusions.md#srl-002-the-shadow-finishes-first",
+    "prompt": "Create a vertical practical-surreal scene in a small bookbinding workshop. Preserve the adult bookbinder, navy apron, bench, bone folder, brush, thread spool, blank notebook, lamp position, and hard shadow direction. The only impossible rule is that the bookbinder's shadow performs one action two seconds before the real person; the shadow cannot touch or move physical objects.\n\n0–4 seconds: locked medium shot. The bookbinder aligns the blank notebook at center. Their shadow behaves normally. 4–8 seconds: the shadow's hand reaches toward the bone folder and traces one crease gesture across the shadow of the notebook, while the real person's hands remain still and the real tool does not move. The bookbinder notices and looks at the shadow, not camera. 8–12 seconds: the real person calmly picks up the bone folder and repeats the same crease gesture; the shadow resynchronizes exactly at completion. End on both hands resting beside the notebook.\n\nSound intent: Audio 1, paper contact during the real action only, one quiet breath, no music or dialogue. Avoid horror behavior, independent shadow anatomy, extra limbs, moved objects during the shadow-only action, changing light direction, readable book text, logos, or watermark."
+  },
+  {
+    "id": "SRL-003",
+    "title": "The Puddle Sees the Rain First",
+    "category": "Surreal Physics and Optical-Illusion Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/23-surreal-physics-optical-illusions.md#srl-003-the-puddle-sees-the-rain-first",
+    "prompt": "Create a vertical, locked-camera courtyard scene. Preserve the adult subject, folded yellow umbrella, stone paving, bench, doorway, plants, puddle shape, camera, and screen direction. The puddle reflects the same courtyard and person from exactly three seconds in the future; everywhere outside the puddle follows normal time.\n\n0–4 seconds: the courtyard is dry. The subject enters from screen left with the umbrella folded. In the puddle only, their reflected future self has already stopped and opened the umbrella under light rain. 4–8 seconds: the real subject notices the mismatch, stops at the same mark, and looks down. The reflected self remains three seconds ahead and turns slightly toward the doorway. 8–12 seconds: light rain begins in the real courtyard; the subject opens the umbrella with the same movement previously shown in reflection. At the instant the real action catches up, puddle and world resynchronize and remain normal.\n\nSound intent: dry footsteps, first drops, umbrella click, soft rain, no dialogue or music. Keep reflection geometry, future offset, wardrobe, umbrella mechanics, and rain intensity consistent. Avoid traffic, slipping, storms, duplicate physical people, mirror portals, face changes, text, logos, or watermark."
+  },
+  {
+    "id": "SRL-004",
+    "title": "One Sphere, Four Materials",
+    "category": "Surreal Physics and Optical-Illusion Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/23-surreal-physics-optical-illusions.md#srl-004-one-sphere-four-materials",
+    "prompt": "Create a square seamless loop with one sphere rolling clockwise around a shallow circular track. Preserve the sphere's diameter, center height, speed, direction, contact point, and track geometry. Transfer only the rolling path from Video 1; do not copy its subject, setting, camera, lighting, or edit design.\n\n0–3 seconds: the sphere is clear glass with correct refraction and a crisp contact shadow. At the first quarter point it passes behind a narrow black post. 3–6 seconds: it emerges as matte red clay, same size and speed, showing slight surface fingerprints but no deformation. At the halfway point it passes through a brief foreground paper strip. 6–9 seconds: it emerges as a folded-paper sphere with stable faceted geometry and no loose pieces. At three quarters it crosses a shallow transparent screen. 9–12 seconds: it emerges as a surface-tension water sphere that retains the same diameter and rolling path, then passes behind the black post and returns to glass for a frame-perfect loop.\n\nMap Audio 1 impacts to each occlusion. Fixed overhead three-quarter camera, neutral studio, no splashes outside the track. Avoid extra spheres, size drift, teleporting, backward motion, mixed materials between transitions, impossible reflections, text, logos, or watermark."
+  },
+  {
+    "id": "VER-001",
+    "title": "Honest Modular Lunch-Jar Live Demo",
+    "category": "Vertical Series and Live-Creator Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo",
+    "prompt": "Create a vertical live-demo clip for the exact unbranded kit in Image 1: one sage-green jar, one brushed-steel inner cup, one cream screw lid, one dark-green folding spoon, and one woven carrying loop. Preserve all five components, threads, nesting geometry, colors, finishes, and presenter identity. Use only claims explicitly present in Text 1.\n\n0–4 seconds: overhead view. The presenter points to each separated component once while saying with Audio 1, “Five parts, shown separately.” No generated captions. 4–9 seconds: medium close-up as the presenter places the inner cup into the jar, folds the spoon, and sets it inside without forcing or clipping. 9–13 seconds: the presenter screws the lid on until hand-tight, attaches the carrying loop to its actual anchor, then lifts the closed jar five centimeters above the table and returns it. 13–15 seconds: stable hero view with presenter behind the table and blank upper space for approved pricing or captions added later.\n\nSound intent: clear authorized speech, metal nesting, thread contact, quiet kitchen room tone, no music. Do not add food, steam, leak tests, temperature claims, capacity, certifications, discounts, urgency, extra components, generated text, logos, or watermark."
+  },
+  {
+    "id": "VER-002",
+    "title": "The Wrong Parcel, the Right Neighbor",
+    "category": "Vertical Series and Live-Creator Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/24-vertical-series-live-creator.md#ver-002-the-wrong-parcel-the-right-neighbor",
+    "prompt": "Create a 15-second vertical micro-drama in the exact corridor from Image 3. Preserve Neighbor A at the blue door on screen left, Neighbor B at the orange door on screen right, both adult identities, wardrobe, two parcel sizes, sticker colors, door numbers represented only by shapes, and the open center path. No addresses or private data.\n\n0–4 seconds, hook: both doors open at once. Each neighbor looks down and picks up the parcel outside the wrong door—A takes the orange-sticker parcel, B takes the blue-sticker parcel. Insert close-up clearly shows the swapped colors. 4–9 seconds: they turn inward, notice each other's parcel, and freeze. A uses Audio 1: “I think our morning got crossed.” B listens, checks the sticker, then smiles. 9–13 seconds: they walk to center and exchange parcels hand to hand once; B uses Audio 2: “Good thing the hallway is short.” 13–15 seconds: each holds the correct parcel, nods, and returns toward the correct colored door.\n\nNatural corridor ambience, two door sounds, no music or subtitles. Keep one blue parcel, one orange parcel, exact hand ownership, speaker turns, eyelines, and screen geography. Avoid romance cues, conflict, surveillance imagery, readable labels, extra neighbors, duplicate boxes, thrown parcels, logos, or watermark."
+  },
+  {
+    "id": "VER-003",
+    "title": "One Tool, Three Bicycle Fixes",
+    "category": "Vertical Series and Live-Creator Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/24-vertical-series-live-creator.md#ver-003-one-tool-three-bicycle-fixes",
+    "prompt": "Create a vertical series opener titled only in post-production; generate no on-screen text. Preserve the adult mechanic, green apron, bench, blue repair mat, one hex key, one cloth, three display parts, camera height, and clean hand ownership. These are demonstration parts off the bicycle; no riding or safety guarantee is shown.\n\n0–2 seconds: direct-to-camera medium shot. The mechanic places one hex key on the mat and says, “One tool, three checks.” 2–6 seconds: close-up of the loose display brake lever; the mechanic indicates the approved fastener from Text 1 but stops before tightening. 6–10 seconds: match cut to the dry chain sample; the mechanic wipes one link with the cloth according to Text 2, with no liquid added. 10–14 seconds: match cut to the display bell; the mechanic rotates it to the approved neutral position from Text 3 and rings it once. 14–15 seconds: return to the same medium shot; the mechanic points to three blank side areas reserved for episode labels added later.\n\nSound intent: exact dialogue, metal touch, cloth, one bell ring, quiet workshop, no music. Avoid implying a complete safety inspection, torque values, lubrication claims, road use, extra tools, spinning wheels, generated captions, logos, or watermark."
+  },
+  {
+    "id": "VER-004",
+    "title": "Ceramic Creator Answers One Real Question",
+    "category": "Vertical Series and Live-Creator Video Prompts",
+    "task": "see-recipe",
+    "origin": "upstream",
+    "status": "not-tested-by-flyne",
+    "path": "prompts/upstream/24-vertical-series-live-creator.md#ver-004-ceramic-creator-answers-one-real-question",
+    "prompt": "Create a vertical answer video in the ceramic studio. Preserve the adult ceramicist, indigo apron, mug body, handle, scoring tool, slip brush, worktable, clay moisture state, camera, and hands. Use the approved script in Text 1 word for word; the source question will be typeset later, so leave a blank upper-left area and generate no comment interface.\n\n0–3 seconds: medium shot. The creator looks into camera and says with Audio 1, “Why can a mug handle separate at the join?” 3–8 seconds: macro demonstration on two disposable clay samples, not a finished usable mug. The creator shows one smooth dry contact surface, then the approved scored-and-slipped sample from Image 4. Voice continues: “A weak join can start with mismatched moisture or too little surface preparation.” 8–12 seconds: side view as the creator presses the prepared sample together once with even support; no claim that this guarantees success. 12–15 seconds: return to medium shot. The creator says, “Use your studio’s process, then test before firing.” Hold with blank caption space.\n\nSound intent: clear voice, light clay and tool sounds, Audio 1 room tone, no music. Avoid generated comments, universal guarantees, kiln instructions, sharp-tool misuse, real customer identity, extra hands, changing clay state, logos, or watermark."
+  },
+  {
+    "id": "FY-001",
+    "title": "Silent feature reveal",
+    "title_zh": "静音信息流功能展示",
+    "category": "social",
+    "task": "t2va",
+    "path": "prompts/flyne/fy-001.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a silent five-second vertical shot of a palm-sized coral desk lamp on a slate desk. In the first second a hand enters from the right. From seconds 1–3 one finger presses the single round button and a warm pool of light appears on a blank notebook. From seconds 3–5 the hand leaves and the lamp holds still. Locked medium close-up, soft daylight, matte materials. Keep one button, one lamp and a stable hinge. The visible change must communicate the function without speech, captions or sound. Do not add logos, magical floating parts or a second light source."
+  },
+  {
+    "id": "FY-002",
+    "title": "SKU colorway comparison",
+    "title_zh": "同款商品配色对比",
+    "category": "commerce",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-002.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Generate one six-second studio shot of the bag in Image 1. Use Image 2 solely for its blue material color. A fixed three-quarter camera observes the bag rotate 20 degrees on a concealed turntable, then stop for the final two seconds. Preserve seams, buckle count, strap width and silhouette. Neutral gray backdrop and soft top light; quiet turntable sound only. No text, added accessories or color morphing. Generate the ochre version as a separate run, replacing only the color-reference role with Image 3. Do not combine both variants in one clip."
+  },
+  {
+    "id": "FY-003",
+    "title": "Customer support latch close-up",
+    "title_zh": "客服卡扣操作演示",
+    "category": "support",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-003.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Make a close-up instructional shot of the empty equipment case in Image 1. Reproduce only the verified opening sequence from Video 1. Show the initial closed state for two seconds, the latch action over four seconds, and the final open state for two seconds. Keep the camera fixed and the relevant contact point visible throughout. Preserve hinge location and opening direction. No extra steps, tools, forceful pulling or invented internal mechanisms. Use only soft mechanical clicks; add numbered callouts in postproduction."
+  },
+  {
+    "id": "FY-004",
+    "title": "Menu availability loop",
+    "title_zh": "餐饮菜单氛围循环",
+    "category": "hospitality",
+    "task": "fl2va",
+    "path": "prompts/flyne/fy-004.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Animate the supplied tabletop still as a five-second menu background. The ceramic bowl and all visible ingredients remain fixed. A narrow plume of steam rises behind the bowl while daylight gently shifts on the table. A locked camera and quiet room tone; no hands, pouring, changing portion sizes or new ingredients. Return to the original light state and steam position as closely as possible for a loop. Keep the upper third empty for menu text composited later."
+  },
+  {
+    "id": "FY-005",
+    "title": "SaaS empty-state onboarding",
+    "title_zh": "软件空状态引导",
+    "category": "software",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-005.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a restrained onboarding concept using the two supplied interface states. For two seconds show the empty dashboard from Image 1. Over the next four seconds, one cursor selects the existing create button; a single placeholder card appears in its designated panel. End for two seconds in the layout of Image 2. Preserve panel boundaries, type hierarchy and navigation location. No invented controls, user names, revenue numbers or testimonials. No dialogue. Use the shot as motion previsualization; exact text and cursor alignment will be rebuilt from the real UI."
+  },
+  {
+    "id": "FY-006",
+    "title": "Two-language service greeting",
+    "title_zh": "双语服务欢迎短片",
+    "category": "localization",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-006.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create one welcoming receptionist shot using the adult in Image 1 and the room in Image 2. One second of quiet eye contact, then the presenter says exactly: “Welcome. I can help you find your room.” Finish with a relaxed closed-mouth smile and a small gesture toward the desk. Fixed eye-level camera, restrained expression, soft room tone, no music or generated subtitles. Preserve face, clothing and furniture. Produce the Chinese-language version in a separate run using only: “欢迎，我可以帮您找到房间。” Keep every visual instruction unchanged."
+  },
+  {
+    "id": "FY-007",
+    "title": "Branching museum guide",
+    "title_zh": "博物馆分支导览",
+    "category": "interactive",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-007.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Produce the left-branch response for an interactive museum prototype. The guide from Image 2 stands centered in the gallery from Image 1. Start with one second of neutral posture. The guide turns slightly to their right, which is screen left, and gestures toward the left doorway. The camera moves half a meter toward that doorway and settles with it centered. No historical claims, dialogue or text. Preserve the guide and all exhibits; do not invent objects behind the doorway. The application, not this clip, stores the visitor choice."
+  },
+  {
+    "id": "FY-008",
+    "title": "Packaging assembly previsualization",
+    "title_zh": "包装组装预演",
+    "category": "design",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-008.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a top-down packaging assembly previsualization on a clean white surface. Follow the fold order from Video 1 with the exact panel colors and proportions of Image 1. Hold the flat sheet for two seconds, show the verified folds for six seconds, and hold the assembled package for two seconds. Keep tabs attached to their original panels and avoid impossible intersections. No labels, added glue, disappearing flaps or floating construction. Paper movement and fold sounds only."
+  },
+  {
+    "id": "FY-009",
+    "title": "Accessible caption-safe event backdrop",
+    "title_zh": "字幕友好的活动背景",
+    "category": "accessibility",
+    "task": "t2va",
+    "path": "prompts/flyne/fy-009.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Make a six-second calm event-screen background: two translucent teal fabric ribbons drift slowly across the far left and right margins of a dark blue frame. Keep the central 60 percent visually quiet with stable low-detail shading. No flashes, sudden cuts, camera movement, letters or high-frequency patterns. Slow smooth motion returns close to its initial arrangement. Silence. The empty center is reserved for high-contrast captions added during editing."
+  },
+  {
+    "id": "FY-010",
+    "title": "Warehouse exception training",
+    "title_zh": "仓储异常识别培训",
+    "category": "training",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-010.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Produce an eight-second training vignette of a stationary parcel on a warehouse inspection table. Use Image 1 for the setup and Image 2 only for the clearly visible crushed upper corner. A gloved hand slowly turns the parcel a quarter turn, pauses at the damaged corner and withdraws. Maintain the same damage throughout. Fixed medium close-up, steady lighting, no forklifts or unsafe activity. No addresses, barcodes, personal data, repair instructions or claims about internal damage. Room tone only."
+  },
+  {
+    "id": "FY-011",
+    "title": "Pet accessory scale check",
+    "title_zh": "宠物配件尺寸展示",
+    "category": "pets",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-011.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Show the pet from Image 1 seated calmly on a rug, wearing the correctly fitted accessory from Image 2. Over six seconds the pet turns its head slightly toward an off-screen owner, blinks and returns to rest. Keep the camera fixed at the pet’s eye level. Preserve accessory width, buckle position and visible clearance from the fitted reference. Natural breathing and quiet indoor ambience. No pulling, jumping, eating, distress, size labels or claims that a generated image proves safe fit."
+  },
+  {
+    "id": "FY-012",
+    "title": "Seasonal storefront update",
+    "title_zh": "店铺季节视觉更新",
+    "category": "retail",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-012.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Edit the supplied storefront clip by replacing only the blank window display with the paper-leaf decoration from Image 1. Preserve the facade, opening hours sign, pedestrians, camera movement and original ambient audio. The decorations remain behind the glass and cast subtle consistent shadows. Keep the original clip timing. Do not alter the store name, road, accessibility ramp, weather or people. Do not add sales claims or prices."
+  },
+  {
+    "id": "FY-013",
+    "title": "Crowdfunding prototype disclosure",
+    "title_zh": "众筹原型概念说明",
+    "category": "prototype",
+    "task": "fl2va",
+    "path": "prompts/flyne/fy-013.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Animate the prototype render for a seven-second design-concept shot. A slow 15-degree camera arc reveals the enclosure and visible controls without activating the device. Maintain the exact seam positions and unfinished material. End on a stable three-quarter view with empty lower space for an editor-added “Concept visualization” disclosure. No simulated performance, working display, energy output, hidden components or hands using the product. Quiet studio ambience, no triumphant sound effects."
+  },
+  {
+    "id": "FY-014",
+    "title": "Local craft macro process",
+    "title_zh": "地方工艺微距记录概念",
+    "category": "craft",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-014.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a macro interpretation of the maker’s single verified brushstroke from Video 1 on the workpiece in Image 1. Begin with the brush just above the surface for one second, follow the stroke for five seconds, then hold the completed mark for two seconds. The tool angle, stroke direction and hand posture follow the demonstration. Keep the camera on the contact point with shallow but sufficient depth of field. Gentle brush sound only. No invented cultural symbols, extra strokes, finished artwork appearing instantly or claims of documentary authenticity."
+  },
+  {
+    "id": "FY-015",
+    "title": "Weather-contingency storyboard",
+    "title_zh": "天气备选分镜",
+    "category": "previsualization",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-015.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create an overcast-weather planning shot at the location in Image 1 with the adult cast styling in Image 2. One actor walks from the right doorway to the covered bench over six seconds, then stops for two seconds. Soft diffuse skylight, dry ground and no rain. Preserve the doorway, bench, walking direction and clothing. Use a fixed wide camera. Footsteps and distant wind only. This is a proposed blocking plan, not evidence of actual weather or an event that occurred."
+  },
+  {
+    "id": "FY-016",
+    "title": "Reference-role stress test",
+    "title_zh": "多参考角色隔离测试",
+    "category": "evaluation",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-016.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Generate a six-second controlled studio shot of the ceramic mug from Image 1. Borrow only the background stripe palette from Image 2, never its objects or text. Borrow only the slow clockwise camera orbit from Video 1, never its subject or sound. Keep the mug stationary and geometrically identical throughout. Stop the orbit for the final second. Neutral soft light and silence. Do not merge reference subjects, add stripes onto the mug, inherit a soundtrack or invent lettering."
+  }
+]

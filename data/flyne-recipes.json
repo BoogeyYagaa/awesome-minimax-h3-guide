@@ -1,0 +1,178 @@
+[
+  {
+    "id": "FY-001",
+    "title": "Silent feature reveal",
+    "title_zh": "静音信息流功能展示",
+    "category": "social",
+    "task": "t2va",
+    "path": "prompts/flyne/fy-001.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a silent five-second vertical shot of a palm-sized coral desk lamp on a slate desk. In the first second a hand enters from the right. From seconds 1–3 one finger presses the single round button and a warm pool of light appears on a blank notebook. From seconds 3–5 the hand leaves and the lamp holds still. Locked medium close-up, soft daylight, matte materials. Keep one button, one lamp and a stable hinge. The visible change must communicate the function without speech, captions or sound. Do not add logos, magical floating parts or a second light source."
+  },
+  {
+    "id": "FY-002",
+    "title": "SKU colorway comparison",
+    "title_zh": "同款商品配色对比",
+    "category": "commerce",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-002.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Generate one six-second studio shot of the bag in Image 1. Use Image 2 solely for its blue material color. A fixed three-quarter camera observes the bag rotate 20 degrees on a concealed turntable, then stop for the final two seconds. Preserve seams, buckle count, strap width and silhouette. Neutral gray backdrop and soft top light; quiet turntable sound only. No text, added accessories or color morphing. Generate the ochre version as a separate run, replacing only the color-reference role with Image 3. Do not combine both variants in one clip."
+  },
+  {
+    "id": "FY-003",
+    "title": "Customer support latch close-up",
+    "title_zh": "客服卡扣操作演示",
+    "category": "support",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-003.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Make a close-up instructional shot of the empty equipment case in Image 1. Reproduce only the verified opening sequence from Video 1. Show the initial closed state for two seconds, the latch action over four seconds, and the final open state for two seconds. Keep the camera fixed and the relevant contact point visible throughout. Preserve hinge location and opening direction. No extra steps, tools, forceful pulling or invented internal mechanisms. Use only soft mechanical clicks; add numbered callouts in postproduction."
+  },
+  {
+    "id": "FY-004",
+    "title": "Menu availability loop",
+    "title_zh": "餐饮菜单氛围循环",
+    "category": "hospitality",
+    "task": "fl2va",
+    "path": "prompts/flyne/fy-004.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Animate the supplied tabletop still as a five-second menu background. The ceramic bowl and all visible ingredients remain fixed. A narrow plume of steam rises behind the bowl while daylight gently shifts on the table. A locked camera and quiet room tone; no hands, pouring, changing portion sizes or new ingredients. Return to the original light state and steam position as closely as possible for a loop. Keep the upper third empty for menu text composited later."
+  },
+  {
+    "id": "FY-005",
+    "title": "SaaS empty-state onboarding",
+    "title_zh": "软件空状态引导",
+    "category": "software",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-005.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a restrained onboarding concept using the two supplied interface states. For two seconds show the empty dashboard from Image 1. Over the next four seconds, one cursor selects the existing create button; a single placeholder card appears in its designated panel. End for two seconds in the layout of Image 2. Preserve panel boundaries, type hierarchy and navigation location. No invented controls, user names, revenue numbers or testimonials. No dialogue. Use the shot as motion previsualization; exact text and cursor alignment will be rebuilt from the real UI."
+  },
+  {
+    "id": "FY-006",
+    "title": "Two-language service greeting",
+    "title_zh": "双语服务欢迎短片",
+    "category": "localization",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-006.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create one welcoming receptionist shot using the adult in Image 1 and the room in Image 2. One second of quiet eye contact, then the presenter says exactly: “Welcome. I can help you find your room.” Finish with a relaxed closed-mouth smile and a small gesture toward the desk. Fixed eye-level camera, restrained expression, soft room tone, no music or generated subtitles. Preserve face, clothing and furniture. Produce the Chinese-language version in a separate run using only: “欢迎，我可以帮您找到房间。” Keep every visual instruction unchanged."
+  },
+  {
+    "id": "FY-007",
+    "title": "Branching museum guide",
+    "title_zh": "博物馆分支导览",
+    "category": "interactive",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-007.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Produce the left-branch response for an interactive museum prototype. The guide from Image 2 stands centered in the gallery from Image 1. Start with one second of neutral posture. The guide turns slightly to their right, which is screen left, and gestures toward the left doorway. The camera moves half a meter toward that doorway and settles with it centered. No historical claims, dialogue or text. Preserve the guide and all exhibits; do not invent objects behind the doorway. The application, not this clip, stores the visitor choice."
+  },
+  {
+    "id": "FY-008",
+    "title": "Packaging assembly previsualization",
+    "title_zh": "包装组装预演",
+    "category": "design",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-008.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a top-down packaging assembly previsualization on a clean white surface. Follow the fold order from Video 1 with the exact panel colors and proportions of Image 1. Hold the flat sheet for two seconds, show the verified folds for six seconds, and hold the assembled package for two seconds. Keep tabs attached to their original panels and avoid impossible intersections. No labels, added glue, disappearing flaps or floating construction. Paper movement and fold sounds only."
+  },
+  {
+    "id": "FY-009",
+    "title": "Accessible caption-safe event backdrop",
+    "title_zh": "字幕友好的活动背景",
+    "category": "accessibility",
+    "task": "t2va",
+    "path": "prompts/flyne/fy-009.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Make a six-second calm event-screen background: two translucent teal fabric ribbons drift slowly across the far left and right margins of a dark blue frame. Keep the central 60 percent visually quiet with stable low-detail shading. No flashes, sudden cuts, camera movement, letters or high-frequency patterns. Slow smooth motion returns close to its initial arrangement. Silence. The empty center is reserved for high-contrast captions added during editing."
+  },
+  {
+    "id": "FY-010",
+    "title": "Warehouse exception training",
+    "title_zh": "仓储异常识别培训",
+    "category": "training",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-010.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Produce an eight-second training vignette of a stationary parcel on a warehouse inspection table. Use Image 1 for the setup and Image 2 only for the clearly visible crushed upper corner. A gloved hand slowly turns the parcel a quarter turn, pauses at the damaged corner and withdraws. Maintain the same damage throughout. Fixed medium close-up, steady lighting, no forklifts or unsafe activity. No addresses, barcodes, personal data, repair instructions or claims about internal damage. Room tone only."
+  },
+  {
+    "id": "FY-011",
+    "title": "Pet accessory scale check",
+    "title_zh": "宠物配件尺寸展示",
+    "category": "pets",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-011.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Show the pet from Image 1 seated calmly on a rug, wearing the correctly fitted accessory from Image 2. Over six seconds the pet turns its head slightly toward an off-screen owner, blinks and returns to rest. Keep the camera fixed at the pet’s eye level. Preserve accessory width, buckle position and visible clearance from the fitted reference. Natural breathing and quiet indoor ambience. No pulling, jumping, eating, distress, size labels or claims that a generated image proves safe fit."
+  },
+  {
+    "id": "FY-012",
+    "title": "Seasonal storefront update",
+    "title_zh": "店铺季节视觉更新",
+    "category": "retail",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-012.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Edit the supplied storefront clip by replacing only the blank window display with the paper-leaf decoration from Image 1. Preserve the facade, opening hours sign, pedestrians, camera movement and original ambient audio. The decorations remain behind the glass and cast subtle consistent shadows. Keep the original clip timing. Do not alter the store name, road, accessibility ramp, weather or people. Do not add sales claims or prices."
+  },
+  {
+    "id": "FY-013",
+    "title": "Crowdfunding prototype disclosure",
+    "title_zh": "众筹原型概念说明",
+    "category": "prototype",
+    "task": "fl2va",
+    "path": "prompts/flyne/fy-013.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Animate the prototype render for a seven-second design-concept shot. A slow 15-degree camera arc reveals the enclosure and visible controls without activating the device. Maintain the exact seam positions and unfinished material. End on a stable three-quarter view with empty lower space for an editor-added “Concept visualization” disclosure. No simulated performance, working display, energy output, hidden components or hands using the product. Quiet studio ambience, no triumphant sound effects."
+  },
+  {
+    "id": "FY-014",
+    "title": "Local craft macro process",
+    "title_zh": "地方工艺微距记录概念",
+    "category": "craft",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-014.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create a macro interpretation of the maker’s single verified brushstroke from Video 1 on the workpiece in Image 1. Begin with the brush just above the surface for one second, follow the stroke for five seconds, then hold the completed mark for two seconds. The tool angle, stroke direction and hand posture follow the demonstration. Keep the camera on the contact point with shallow but sufficient depth of field. Gentle brush sound only. No invented cultural symbols, extra strokes, finished artwork appearing instantly or claims of documentary authenticity."
+  },
+  {
+    "id": "FY-015",
+    "title": "Weather-contingency storyboard",
+    "title_zh": "天气备选分镜",
+    "category": "previsualization",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-015.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Create an overcast-weather planning shot at the location in Image 1 with the adult cast styling in Image 2. One actor walks from the right doorway to the covered bench over six seconds, then stops for two seconds. Soft diffuse skylight, dry ground and no rain. Preserve the doorway, bench, walking direction and clothing. Use a fixed wide camera. Footsteps and distant wind only. This is a proposed blocking plan, not evidence of actual weather or an event that occurred."
+  },
+  {
+    "id": "FY-016",
+    "title": "Reference-role stress test",
+    "title_zh": "多参考角色隔离测试",
+    "category": "evaluation",
+    "task": "ref2va",
+    "path": "prompts/flyne/fy-016.md",
+    "origin": "flyne",
+    "status": "conceptual",
+    "prompt": "Generate a six-second controlled studio shot of the ceramic mug from Image 1. Borrow only the background stripe palette from Image 2, never its objects or text. Borrow only the slow clockwise camera orbit from Video 1, never its subject or sound. Keep the mug stationary and geometrically identical throughout. Stop the orbit for the final second. Neutral soft light and silence. Do not merge reference subjects, add stripes onto the mug, inherit a soundtrack or invent lettering."
+  }
+]

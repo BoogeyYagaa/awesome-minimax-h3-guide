@@ -80,19 +80,19 @@
     ]
   },
   {
-    "source": "assets/gallery/clay-repair-robot.webp",
-    "preview": "assets/previews/clay-repair-robot.webp",
-    "source_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512",
-    "preview_sha256": "490e503f3798a00924491904cfb83de9f48fc07701c51c5676a2137a1c5b9d07",
-    "source_bytes": 142582,
-    "preview_bytes": 28826,
+    "source": "assets/gallery/honest-desk-lamp-demo.webp",
+    "preview": "assets/previews/honest-desk-lamp-demo.webp",
+    "source_sha256": "27d85385224bf1fe38072c3a0d067b35d9101664738e92626632225fe371f6b0",
+    "preview_sha256": "a8fdca5ba70df9bfbad014feacedc4c981905cadcfb685df4122887fce88a4e8",
+    "source_bytes": 185588,
+    "preview_bytes": 38752,
     "source_size": [
-      1448,
-      1086
+      1122,
+      1402
     ],
     "preview_size": [
-      640,
-      480
+      512,
+      640
     ]
   },
   {
@@ -109,6 +109,134 @@
     "preview_size": [
       640,
       360
+    ]
+  },
+  {
+    "source": "assets/gallery/clay-repair-robot.webp",
+    "preview": "assets/previews/clay-repair-robot.webp",
+    "source_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512",
+    "preview_sha256": "490e503f3798a00924491904cfb83de9f48fc07701c51c5676a2137a1c5b9d07",
+    "source_bytes": 142582,
+    "preview_bytes": 28826,
+    "source_size": [
+      1448,
+      1086
+    ],
+    "preview_size": [
+      640,
+      480
+    ]
+  },
+  {
+    "source": "assets/gallery/indoor-climbing-final-hold.webp",
+    "preview": "assets/previews/indoor-climbing-final-hold.webp",
+    "source_sha256": "1e0c85b9f12a08954d43fa348b3e36f632c8d68c5e81f8ceae3b06b1e030939c",
+    "preview_sha256": "adf08658c7f2df0f803bd63396e98b7b212a47fd06e4c8f9cf3e64a1975b0978",
+    "source_bytes": 150476,
+    "preview_bytes": 20428,
+    "source_size": [
+      1672,
+      941
+    ],
+    "preview_size": [
+      640,
+      360
+    ]
+  },
+  {
+    "source": "assets/gallery/radial-cork-speaker.webp",
+    "preview": "assets/previews/radial-cork-speaker.webp",
+    "source_sha256": "079f76ad15afe59eb7ddc54c071e01ccc806dd38212da0cf13b52695dc64a22f",
+    "preview_sha256": "c1ae7c1dad7a94d3bdce6b42e4e4621efb3156305caf484af4d1a7e1b879bd83",
+    "source_bytes": 88702,
+    "preview_bytes": 11126,
+    "source_size": [
+      1672,
+      941
+    ],
+    "preview_size": [
+      640,
+      360
+    ]
+  },
+  {
+    "source": "assets/gallery/paper-birds-storm-shelter.webp",
+    "preview": "assets/previews/paper-birds-storm-shelter.webp",
+    "source_sha256": "8ed7805a7e4783b65593e363c9a6d811dd07dfe0cbdcfa6e156992faf687d996",
+    "preview_sha256": "14b661762cb8eab9c0b26c713d0aded5c99607f6805b56df9d700e2258c1331a",
+    "source_bytes": 187684,
+    "preview_bytes": 36862,
+    "source_size": [
+      1536,
+      1024
+    ],
+    "preview_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "source": "assets/gallery/three-biome-museum-rail.webp",
+    "preview": "assets/previews/three-biome-museum-rail.webp",
+    "source_sha256": "121aae2040b678b61bb4311c20a4beca0362ef7acbbaa8de12d7f7eb673d8f89",
+    "preview_sha256": "34532d1b45b3b4b7b6a77a2564a15b1e74ecb9cf8e7833095fd833a060a6005c",
+    "source_bytes": 357018,
+    "preview_bytes": 54864,
+    "source_size": [
+      1672,
+      941
+    ],
+    "preview_size": [
+      640,
+      360
+    ]
+  },
+  {
+    "source": "assets/gallery/dynamic-night-market-poster.webp",
+    "preview": "assets/previews/dynamic-night-market-poster.webp",
+    "source_sha256": "19e952063c0d9c7d4a9c2ab20323e9f28bf3604dd826b45bf16d69f1cb990b7c",
+    "preview_sha256": "4b7215f2df2801677f5d2aa798159631bb8e4bb33972b5393e880ddd350c29a0",
+    "source_bytes": 273934,
+    "preview_bytes": 27226,
+    "source_size": [
+      941,
+      1672
+    ],
+    "preview_size": [
+      360,
+      640
+    ]
+  },
+  {
+    "source": "assets/gallery/topographic-map-archive.webp",
+    "preview": "assets/previews/topographic-map-archive.webp",
+    "source_sha256": "91c666a95aea903bcd8baf4429d4ea16100a2fa53aba70c08a261f548fe52451",
+    "preview_sha256": "bdbd5e388c978de879b5a308f03ececd30a1c92021c404a066136c56cc7ae914",
+    "source_bytes": 176622,
+    "preview_bytes": 29854,
+    "source_size": [
+      1672,
+      941
+    ],
+    "preview_size": [
+      640,
+      360
+    ]
+  },
+  {
+    "source": "assets/gallery/modular-lunch-jar-kit.webp",
+    "preview": "assets/previews/modular-lunch-jar-kit.webp",
+    "source_sha256": "085cd5b1094bb7848d628b7d6658ecb88aa3aeeebcabb1b8e63d317fd3c8e5c4",
+    "preview_sha256": "c36c3313ab8ea80d617851606714dabfa704886376b5126e5663cbc84a0c0d5b",
+    "source_bytes": 73636,
+    "preview_bytes": 13808,
+    "source_size": [
+      1122,
+      1402
+    ],
+    "preview_size": [
+      512,
+      640
     ]
   }
 ]

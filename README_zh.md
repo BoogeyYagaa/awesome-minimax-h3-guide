@@ -16,6 +16,8 @@
 
 [按交付目标选配方](docs/use-case-matrix.md) · [多语言提示词示例](docs/multilingual-prompting.md) · [API 接入流程](docs/api-workflow.md)
 
+**本页直达：** [学写提示词](#学会写自己的提示词) · [看视频案例](#看视频学提示词) · [找参考图](#为下一条镜头准备参考图) · [浏览全部分类](#全部-24-类提示词) · [查官方资源](#官方资源与下载)
+
 ## 在 Flyne AI 使用 MiniMax H3
 
 | 推荐的在线使用入口 | 免费在线入口 |
@@ -42,6 +44,33 @@
 ```
 
 [完整英文方案、验收标准与失败修复](prompts/flyne/fy-001.md)。时长与画幅是创作目标，具体以平台选项为准。
+
+## 学会写自己的提示词
+
+先复制上面的单镜头示例。需要更多控制时，按下面的结构填写，替换方括号，删掉不适用的项目。素材分工用于说明创作意图，实际上传类型以所用工具为准。
+
+```text
+素材分工：[每张图片、每段视频或音频分别控制什么；没有则填无]
+交付目标：[给谁看、表达什么、画幅和可用时长]
+场景：[主体、地点、光线和可观察的画面风格]
+时间顺序：[开场状态 → 一个动作 → 稳定结尾]
+镜头：[景别、移动方式、是否允许剪切]
+保持不变：[人物身份、产品结构、服装和环境]
+声音意图：[环境声、音效、经确认的对白或静音]
+修改范围：[哪些可以改、哪些必须保留]
+避免：[具体缺陷，例如多出物体、标签变化]
+```
+
+台灯示例对应的是：**无需参考图 → 五秒竖屏功能展示 → 按按钮 → 亮灯 → 静止结尾**。固定机位让动作更清楚，“只有一个按钮”和“灯体结构不变”用来约束产品变形。替换主体和一个可见动作，就能开始写自己的版本。
+
+| 第一次结果的问题 | 下一次如何改提示词 | 再检查什么 |
+|---|---|---|
+| 动作太多、结尾没做完 | 只留一个动作，最后一秒保持静止 | 动作是否完成 |
+| 产品或人物变了 | 写明必须保留的形状、颜色和特征 | 对比开头与结尾 |
+| 突然切镜头或乱运镜 | 明确一个连续镜头、一种移动方式 | 过程是否连贯 |
+| 标签或字幕不清楚 | 留出空白区域，后期添加确认过的文字 | 按最终展示尺寸阅读 |
+
+图生视频要写清**什么动、什么不动**。2026-09-21 观察到的免费入口需要同时上传首帧和尾帧；一张氛围图或一套多参考素材不能直接代替这两张图。两端需保持必要的产品部件、人物身份与构图关系一致。[完整写法指南](docs/prompting-guide.md) · [首尾帧模板](templates/README.md#t03-first-and-last-frame-transition)。
 
 ## 看视频，学提示词
 
@@ -74,6 +103,16 @@ These examples show why the output needs checking against the prompt. / 这些�
 
 XH3-008 只公开了部分提示词。视频由社区作者发布，未由 Flyne AI 重新生成；外部素材不适用本仓库 MIT 许可。
 
+### 看完案例，直接做一个简化练习
+
+从上面的耳机广告学习“材质特写 → 拉远展示”，先不用结构拆解和复杂剪辑。下面是独立编写的 **FX5-002 陶瓷杯练习**，不是作者原文，也不是上方视频的生成提示词。选择纯文字、1:1、五秒，图片输入留空。
+
+```text
+五秒棚拍。一只无品牌的象牙白陶瓷杯放在薄荷绿展台上。先拍带细小斑点的釉面，再缓慢拉远，到第四秒露出完整杯子，最后一秒静止。杯子全程不动，杯柄朝右。柔和侧光、稳定反射、安静室内环境声。不要剪切、蒸汽、文字或额外杯子。
+```
+
+检查杯柄、杯口和斑点在拉远时是否一致，第四秒是否露出完整杯子、最后一秒是否静止。此练习曾提交到队列，但尚未取得可评审的输出；[记录说明](docs/quick-start.md)。
+
 ## 官方视频示例
 
 Official MiniMax previews, linked to their original skills; not FlyneAI outputs. / MiniMax 官方预览，链接到原始教程，不是 FlyneAI 生成结果。
@@ -94,11 +133,28 @@ Official MiniMax previews, linked to their original skills; not FlyneAI outputs.
 
 AI-generated reference stills; not H3 outputs. / AI 生成参考图，不是 H3 视频结果。[使用说明 / Usage notes](assets/flyne-reference-briefs.md)
 
-| Product / 产品 | Character / 角色 | Travel / 旅行 |
+| BRD-001 · 观测站茶饮广告 | UGC-001 · 台灯体验演示 | TRV-001 · 雨后水乡旅行 |
 |---|---|---|
-| [![Product](assets/previews/midnight-observatory-tea.webp)](assets/gallery/midnight-observatory-tea.webp) | [![Character](assets/previews/clay-repair-robot.webp)](assets/gallery/clay-repair-robot.webp) | [![Travel](assets/previews/rain-washed-canal-morning.webp)](assets/gallery/rain-washed-canal-morning.webp) |
+| [![日出前观测站里的瓶装茶饮，产品广告首帧参考](assets/previews/midnight-observatory-tea.webp)](assets/gallery/midnight-observatory-tea.webp) | [![创作者在家庭工作室体验台灯，人物与产品首帧参考](assets/previews/honest-desk-lamp-demo.webp)](assets/gallery/honest-desk-lamp-demo.webp) | [![雨后水乡、自行车和石桥，旅行场景首帧参考](assets/previews/rain-washed-canal-morning.webp)](assets/gallery/rain-washed-canal-morning.webp) |
+| [Prompt / 提示词](prompts/upstream/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-002-brand-and-product-midnight-observatory-tea) | [Prompt / 提示词](prompts/upstream/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-003-ugc-and-lifestyle-honest-desk-lamp-demo) | [Prompt / 提示词](prompts/upstream/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-004-travel-rain-washed-canal-morning) |
 
-[全部参考图 / All reference images](docs/reference-gallery.md)
+| ANI-002 · 黏土维修机器人 | ACT-001 · 室内攀岩动作 | MRF-002 · 便携音箱运镜 |
+|---|---|---|
+| [![微缩工作台上的黄色黏土机器人，角色与环境参考](assets/previews/clay-repair-robot.webp)](assets/gallery/clay-repair-robot.webp) | [![室内攀岩者与黄色线路，运动动作参考](assets/previews/indoor-climbing-final-hold.webp)](assets/gallery/indoor-climbing-final-hold.webp) | [![石墨灰与软木便携音箱，产品外形与材质参考](assets/previews/radial-cork-speaker.webp)](assets/gallery/radial-cork-speaker.webp) |
+| [Prompt / 提示词](prompts/upstream/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-005-animation-clay-repair-robot-workshop) | [Prompt / 提示词](prompts/upstream/09-action-sports.md#act-001-indoor-climbing-final-move) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-006-sports-indoor-climbing-final-hold) | [Prompt / 提示词](prompts/upstream/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-007-product-radial-cork-speaker) |
+
+| CHR-001 · 纸艺角色对白 | MRF-001 · 微缩博物馆长镜头 | MOG-001 · 夜市动态海报 |
+|---|---|---|
+| [![暴雨温室里的纸艺鸟，角色与环境参考](assets/previews/paper-birds-storm-shelter.webp)](assets/gallery/paper-birds-storm-shelter.webp) | [![贯穿三种桌面生态的博物馆轨道，长镜头首帧参考](assets/previews/three-biome-museum-rail.webp)](assets/gallery/three-biome-museum-rail.webp) | [![留有空白文字区的纸艺夜市海报，动态海报尾帧参考](assets/previews/dynamic-night-market-poster.webp)](assets/gallery/dynamic-night-market-poster.webp) |
+| [Prompt / 提示词](prompts/upstream/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-008-character-paper-birds-in-a-storm-shelter) | [Prompt / 提示词](prompts/upstream/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-009-multi-reference-three-biome-museum-rail) | [Prompt / 提示词](prompts/upstream/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-010-motion-graphics-dynamic-night-market-poster) |
+
+| SRL-001 · 地图变成微缩地形 | VER-001 · 模块化午餐罐演示 |
+|---|---|
+| [![档案地图与微缩地形，超现实场景首帧参考](assets/previews/topographic-map-archive.webp)](assets/gallery/topographic-map-archive.webp) | [![五个部件组成的午餐罐，产品演示参考](assets/previews/modular-lunch-jar-kit.webp)](assets/gallery/modular-lunch-jar-kit.webp) |
+| [Prompt / 提示词](prompts/upstream/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-011-surreal-physics-topographic-map-archive) | [Prompt / 提示词](prompts/upstream/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) · [Image brief / 图片简报](assets/minimax-h3-reference-image-prompts.md#img-012-live-creator-modular-lunch-jar-kit) |
+
+
+[全部参考图及使用说明 / All reference images and usage notes](docs/reference-gallery.md)
 
 ## 按使用场景选择
 
@@ -115,11 +171,50 @@ AI-generated reference stills; not H3 outputs. / AI 生成参考图，不是 H3 
 
 引入库还覆盖旅游、餐饮、时尚、电影、动画、运动、特效、音乐、教育、建筑、交通、宠物、工业与竖屏短剧。[完整目录](prompts/README.md) · [使用条件](docs/recipe-usage.md)。
 
+## 全部 24 类提示词
+
+以下分类保留源库的 84 条配方；上面的用途表补充 Flyne 的实际场景。按自己要做的内容进入，无需先搜索编号。
+
+| 分类 | 数量 | 典型用途 |
+|---|---:|---|
+| [品牌广告](prompts/upstream/01-brand-advertising.md) | 3 | 产品发布、门店活动、跨画幅广告 |
+| [商品电商](prompts/upstream/02-product-ecommerce.md) | 3 | 商品细节、材质展示、旋转展示 |
+| [生活分享](prompts/upstream/03-ugc-lifestyle.md) | 3 | 开箱体验、日常使用、收纳测试 |
+| [旅行住宿](prompts/upstream/04-travel-hospitality.md) | 3 | 目的地介绍、住宿展示、市场漫游 |
+| [餐饮饮品](prompts/upstream/05-food-beverage.md) | 3 | 制作过程、上菜镜头、食物质感 |
+| [时尚美妆](prompts/upstream/06-fashion-beauty.md) | 3 | 服装展示、妆容特写、造型切换 |
+| [电影叙事](prompts/upstream/07-cinematic-storytelling.md) | 3 | 人物情绪、悬疑片段、故事转折 |
+| [风格动画](prompts/upstream/08-animation-stylized.md) | 3 | 纸艺、黏土角色、水墨场景 |
+| [动作运动](prompts/upstream/09-action-sports.md) | 3 | 攀岩、自行车、球类动作 |
+| [幻想与特效](prompts/upstream/10-fantasy-scifi-vfx.md) | 3 | 物体变化、幻想场景、视觉特效 |
+| [界面与游戏](prompts/upstream/11-ui-game-digital.md) | 3 | 软件引导、设备界面、游戏操作 |
+| [转场与喜剧](prompts/upstream/12-transitions-comedy-social.md) | 3 | 匹配剪辑、视觉笑点、循环短片 |
+| [音乐与表演](prompts/upstream/13-music-performance-audio.md) | 4 | 演唱、舞蹈、音乐节奏可视化 |
+| [教育与科普](prompts/upstream/14-education-documentary-science.md) | 4 | 科学解释、博物馆介绍、操作教学 |
+| [建筑与室内](prompts/upstream/15-architecture-interiors-real-estate.md) | 4 | 房屋参观、光照变化、装修预演 |
+| [交通与出行](prompts/upstream/16-automotive-mobility.md) | 4 | 汽车内饰、自行车、列车体验 |
+| [自然与宠物](prompts/upstream/17-nature-animals-pets.md) | 4 | 野生动物、宠物用品、植物观察 |
+| [工业与公共服务](prompts/upstream/18-industry-business-public-service.md) | 4 | 生产流程、物流、疏散与服务说明 |
+| [视频编辑与延续](prompts/upstream/19-editing-continuation-localization.md) | 4 | 背景清理、续拍、语言适配、重新打光 |
+| [多参考与运镜](prompts/upstream/20-multireference-camera-transfer.md) | 4 | 一镜到底、镜头运动迁移、动作衔接 |
+| [角色与对话](prompts/upstream/21-character-dialogue-performance.md) | 4 | 人物表演、双语对话、多人场景 |
+| [动态图形与海报](prompts/upstream/22-motion-graphics-dynamic-posters.md) | 4 | 海报组装、功能卡片、展览片头 |
+| [超现实与错觉](prompts/upstream/23-surreal-physics-optical-illusions.md) | 4 | 材质变化、时间错位、空间错觉 |
+| [竖屏连载与直播](prompts/upstream/24-vertical-series-live-creator.md) | 4 | 产品演示、短剧、维修连载、问答 |
+
 ## 先分清 H3 与 H3 Max
 
 截至 **2026-09-17**，官方 H3-Base 提供 FL2VA、Ref2VA 开放权重；H3 Max 是 fal 基于 H3 后训练的托管版本，本次核验未发现其公共权重。官方完整 2K 流程还包含托管组件。详见[模型指南及官方来源](docs/model-guide.md)。
 
 因此，“H3 开放权重”不等于“Max 已经开源”，也不等于完整产品链路都能离线运行。本仓库 MIT 许可不覆盖模型权重；部署及商用需核对 H3 Community License 与对应服务条款。
+
+## 官方资源与下载
+
+- [MiniMax H3 官方仓库](https://github.com/MiniMax-AI/MiniMax-H3)：发布说明、运行代码与请求示例。
+- [模型卡与权重下载](https://huggingface.co/MiniMaxAI/MiniMax-H3)：查看模型许可、版本与运行要求。
+- [官方能力与提示词示例](https://platform.minimaxi.com/docs/guides/video-prompt)：查看创作方式与示例。
+- [官方视频生成文档](https://platform.minimaxi.com/docs/guides/video-generation)：核对接口模式与请求字段。
+- [本地部署指南](docs/deployment-guide.md) · [接口接入说明](docs/api-workflow.md) · [官方请求脚本和视频对照](docs/official-h3-examples.md)。
 
 ## 让提示词变成可持续工作流
 

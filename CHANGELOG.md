@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-21 — learn and browse on the homepage
+
+- Restored all 24 source categories with counts and practical uses on the English and Chinese homepages.
+- Added an adaptable nine-field prompt structure, worked explanation, common fixes and endpoint-frame guidance.
+- Added a copyable five-second exercise beside the community examples, clearly separate from creator prompts.
+- Displayed all eleven attributed reference stills with direct recipe and image-brief links, using lightweight previews alongside the three Flyne illustrations.
+- Restored direct official repository, model download and API documentation entries.
+
 ## 2026-09-21 — reader-path review
 
 - Exposed the deliverable matrix, multilingual prompts and API guide from all eight homepages and the relevant library/workflow navigation.

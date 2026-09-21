@@ -16,6 +16,8 @@
 
 [按交付目标选配方](docs/use-case-matrix.md) · [多语言提示词示例](docs/multilingual-prompting.md) · [API 接入流程](docs/api-workflow.md)
 
+**本页直达：** [学写提示词](#学会写自己的提示词) · [看视频案例](#看视频学提示词) · [找参考图](#为下一条镜头准备参考图) · [浏览全部分类](#全部-24-类提示词) · [查官方资源](#官方资源与下载)
+
 ## 在 Flyne AI 使用 MiniMax H3
 
 | 推荐的在线使用入口 | 免费在线入口 |
@@ -43,6 +45,33 @@
 
 [完整英文方案、验收标准与失败修复](prompts/flyne/fy-001.md)。时长与画幅是创作目标，具体以平台选项为准。
 
+## 学会写自己的提示词
+
+先复制上面的单镜头示例。需要更多控制时，按下面的结构填写，替换方括号，删掉不适用的项目。素材分工用于说明创作意图，实际上传类型以所用工具为准。
+
+```text
+素材分工：[每张图片、每段视频或音频分别控制什么；没有则填无]
+交付目标：[给谁看、表达什么、画幅和可用时长]
+场景：[主体、地点、光线和可观察的画面风格]
+时间顺序：[开场状态 → 一个动作 → 稳定结尾]
+镜头：[景别、移动方式、是否允许剪切]
+保持不变：[人物身份、产品结构、服装和环境]
+声音意图：[环境声、音效、经确认的对白或静音]
+修改范围：[哪些可以改、哪些必须保留]
+避免：[具体缺陷，例如多出物体、标签变化]
+```
+
+台灯示例对应的是：**无需参考图 → 五秒竖屏功能展示 → 按按钮 → 亮灯 → 静止结尾**。固定机位让动作更清楚，“只有一个按钮”和“灯体结构不变”用来约束产品变形。替换主体和一个可见动作，就能开始写自己的版本。
+
+| 第一次结果的问题 | 下一次如何改提示词 | 再检查什么 |
+|---|---|---|
+| 动作太多、结尾没做完 | 只留一个动作，最后一秒保持静止 | 动作是否完成 |
+| 产品或人物变了 | 写明必须保留的形状、颜色和特征 | 对比开头与结尾 |
+| 突然切镜头或乱运镜 | 明确一个连续镜头、一种移动方式 | 过程是否连贯 |
+| 标签或字幕不清楚 | 留出空白区域，后期添加确认过的文字 | 按最终展示尺寸阅读 |
+
+图生视频要写清**什么动、什么不动**。2026-09-21 观察到的免费入口需要同时上传首帧和尾帧；一张氛围图或一套多参考素材不能直接代替这两张图。两端需保持必要的产品部件、人物身份与构图关系一致。[完整写法指南](docs/prompting-guide.md) · [首尾帧模板](templates/README.md#t03-first-and-last-frame-transition)。
+
 ## 看视频，学提示词
 
 {{community}} 条 X 社区案例，包含视频预览、作者原帖、提示词短节选与解读。下方展示精选的 {{featured}} 条；全部 {{community}} 条案例均附独立编写、可直接复制的 5 秒 Flyne 练习，尚未实测。
@@ -52,6 +81,16 @@
 {{featured_gallery}}
 
 XH3-008 只公开了部分提示词。视频由社区作者发布，未由 Flyne AI 重新生成；外部素材不适用本仓库 MIT 许可。
+
+### 看完案例，直接做一个简化练习
+
+从上面的耳机广告学习“材质特写 → 拉远展示”，先不用结构拆解和复杂剪辑。下面是独立编写的 **FX5-002 陶瓷杯练习**，不是作者原文，也不是上方视频的生成提示词。选择纯文字、1:1、五秒，图片输入留空。
+
+```text
+{{practice_zh}}
+```
+
+检查杯柄、杯口和斑点在拉远时是否一致，第四秒是否露出完整杯子、最后一秒是否静止。此练习曾提交到队列，但尚未取得可评审的输出；[记录说明](docs/quick-start.md)。
 
 ## 官方视频示例
 
@@ -73,11 +112,9 @@ Official MiniMax previews, linked to their original skills; not FlyneAI outputs.
 
 AI-generated reference stills; not H3 outputs. / AI 生成参考图，不是 H3 视频结果。[使用说明 / Usage notes](assets/flyne-reference-briefs.md)
 
-| Product / 产品 | Character / 角色 | Travel / 旅行 |
-|---|---|---|
-| [![Product](assets/previews/midnight-observatory-tea.webp)](assets/gallery/midnight-observatory-tea.webp) | [![Character](assets/previews/clay-repair-robot.webp)](assets/gallery/clay-repair-robot.webp) | [![Travel](assets/previews/rain-washed-canal-morning.webp)](assets/gallery/rain-washed-canal-morning.webp) |
+{{reference_gallery_zh}}
 
-[全部参考图 / All reference images](docs/reference-gallery.md)
+[全部参考图及使用说明 / All reference images and usage notes](docs/reference-gallery.md)
 
 ## 按使用场景选择
 
@@ -94,11 +131,25 @@ AI-generated reference stills; not H3 outputs. / AI 生成参考图，不是 H3 
 
 引入库还覆盖旅游、餐饮、时尚、电影、动画、运动、特效、音乐、教育、建筑、交通、宠物、工业与竖屏短剧。[完整目录](prompts/README.md) · [使用条件](docs/recipe-usage.md)。
 
+## 全部 24 类提示词
+
+以下分类保留源库的 {{upstream}} 条配方；上面的用途表补充 Flyne 的实际场景。按自己要做的内容进入，无需先搜索编号。
+
+{{categories_zh}}
+
 ## 先分清 H3 与 H3 Max
 
 截至 **2026-09-17**，官方 H3-Base 提供 FL2VA、Ref2VA 开放权重；H3 Max 是 fal 基于 H3 后训练的托管版本，本次核验未发现其公共权重。官方完整 2K 流程还包含托管组件。详见[模型指南及官方来源](docs/model-guide.md)。
 
 因此，“H3 开放权重”不等于“Max 已经开源”，也不等于完整产品链路都能离线运行。本仓库 MIT 许可不覆盖模型权重；部署及商用需核对 H3 Community License 与对应服务条款。
+
+## 官方资源与下载
+
+- [MiniMax H3 官方仓库](https://github.com/MiniMax-AI/MiniMax-H3)：发布说明、运行代码与请求示例。
+- [模型卡与权重下载](https://huggingface.co/MiniMaxAI/MiniMax-H3)：查看模型许可、版本与运行要求。
+- [官方能力与提示词示例](https://platform.minimaxi.com/docs/guides/video-prompt)：查看创作方式与示例。
+- [官方视频生成文档](https://platform.minimaxi.com/docs/guides/video-generation)：核对接口模式与请求字段。
+- [本地部署指南](docs/deployment-guide.md) · [接口接入说明](docs/api-workflow.md) · [官方请求脚本和视频对照](docs/official-h3-examples.md)。
 
 ## 让提示词变成可持续工作流
 

@@ -32,6 +32,30 @@ def case_links(entry):
             f"[{p['id']} / 复制五秒练习](docs/x-community-showcase.md#{practice})")
 
 
+
+def homepage_categories(records, language):
+    details = json.loads((ROOT / 'data/category-descriptions.json').read_text())
+    zh = language == 'zh'
+    lines = ['| 分类 | 数量 | 典型用途 |' if zh else '| Category | Recipes | Typical uses |', '|---|---:|---|']
+    for path, detail in details.items():
+        group = [r for r in records if r['origin'] == 'upstream' and r['path'].split('#')[0] == path]
+        name = detail['name_zh'] if zh else group[0]['category'].replace(' Video Prompts', '')
+        lines.append(f"| [{name}]({path}) | {len(group)} | {detail['use_' + language]} |")
+    return '\n'.join(lines)
+
+
+def homepage_references(language):
+    entries = json.loads((ROOT / 'data/homepage-reference-images.json').read_text())
+    lines = []
+    for start in range(0, len(entries), 3):
+        row = entries[start:start + 3]
+        lines += ['| ' + ' | '.join(e['id'] + ' · ' + (e['title_zh'] if language == 'zh' else e['alt']) for e in row) + ' |',
+                  '|' + '---|' * len(row),
+                  '| ' + ' | '.join(f"[![{e['alt_zh'] if language == 'zh' else e['alt']}](assets/previews/{e['image'].split('/')[-1]})]({e['image']})" for e in row) + ' |',
+                  '| ' + ' | '.join(f"[Prompt / 提示词]({e['recipe']}) · [Image brief / 图片简报]({e['brief']})" for e in row) + ' |', '']
+    return '\n'.join(lines)
+
+
 def outputs():
     records = collect()
     entries = json.loads((ROOT / 'data/community-sources.json').read_text())['entries']
@@ -48,7 +72,11 @@ def outputs():
     values = dict(recipes=len(records), upstream=sum(r['origin'] == 'upstream' for r in records),
                   flyne=sum(r['origin'] == 'flyne' for r in records), community=len(entries),
                   exercises=len(collect_exercises()), featured=len(selected),
-                  featured_gallery='\n'.join(sections))
+                  featured_gallery='\n'.join(sections),
+                  categories_en=homepage_categories(records, 'en'), categories_zh=homepage_categories(records, 'zh'),
+                  reference_gallery_en=homepage_references('en'), reference_gallery_zh=homepage_references('zh'),
+                  practice_en=by_id['XH3-002']['practice']['prompt'],
+                  practice_zh=by_id['XH3-002']['practice']['prompt_zh'])
     result = {'data/catalog.json': json.dumps(records, ensure_ascii=False, indent=2) + '\n',
               'prompts/README.md': render(records),
               'docs/x-community-showcase.md': render_community(entries)}

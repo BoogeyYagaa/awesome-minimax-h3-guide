@@ -8,8 +8,8 @@ from PIL import Image, ImageOps
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ['assets/flyne-h3-cover.png', 'assets/flyne/fy-001-lamp.png',
            'assets/flyne/fy-002-bag.png', 'assets/flyne/fy-009-backdrop.png',
-           'assets/gallery/midnight-observatory-tea.webp',
-           'assets/gallery/clay-repair-robot.webp', 'assets/gallery/rain-washed-canal-morning.webp']
+           *[e['image'] for e in json.loads((ROOT / 'data/homepage-reference-images.json').read_text())]]
+SOURCES = list(dict.fromkeys(SOURCES))
 
 
 def main():

@@ -25,6 +25,7 @@ Visual review records include method, sample count, video hash and observations.
 ## 一次更新，生成所有入口
 
 - 社区案例：修改 `data/community-sources.json`。
+- 首页引入参考图：修改 `data/homepage-reference-images.json` 的图片、配方和图片简报对应关系；图片预览由下方命令生成。中英文首页直接展示全部登记图片。
 - 首页精选：修改 `data/featured-examples.json` 的分组、案例编号和选择理由；区分方法学习与偏差分析。生成脚本自动补齐解读和独立练习的直达链接。
 - 八种语言首页：修改 `templates/readmes/*.md.tmpl`。`{{recipes}}`、`{{upstream}}`、`{{flyne}}`、`{{community}}` 等标记由生成脚本填入。
 - 新增配方：同时更新配方 Markdown 和 `data/flyne-recipes.json`；引入内容的固定版本、署名和哈希校验仍需保留。

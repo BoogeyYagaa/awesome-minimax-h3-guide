@@ -1,0 +1,101 @@
+[
+  {
+    "image": "assets/gallery/midnight-observatory-tea.webp",
+    "alt": "Brand/product first frame",
+    "id": "BRD-001",
+    "recipe": "prompts/upstream/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-002-brand-and-product-midnight-observatory-tea",
+    "title_zh": "观测站茶饮广告",
+    "alt_zh": "日出前观测站里的瓶装茶饮，产品广告首帧参考"
+  },
+  {
+    "image": "assets/gallery/honest-desk-lamp-demo.webp",
+    "alt": "UGC creator/product first frame",
+    "id": "UGC-001",
+    "recipe": "prompts/upstream/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-003-ugc-and-lifestyle-honest-desk-lamp-demo",
+    "title_zh": "台灯体验演示",
+    "alt_zh": "创作者在家庭工作室体验台灯，人物与产品首帧参考"
+  },
+  {
+    "image": "assets/gallery/rain-washed-canal-morning.webp",
+    "alt": "Travel/location first frame",
+    "id": "TRV-001",
+    "recipe": "prompts/upstream/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-004-travel-rain-washed-canal-morning",
+    "title_zh": "雨后水乡旅行",
+    "alt_zh": "雨后水乡、自行车和石桥，旅行场景首帧参考"
+  },
+  {
+    "image": "assets/gallery/clay-repair-robot.webp",
+    "alt": "Animation character/environment reference",
+    "id": "ANI-002",
+    "recipe": "prompts/upstream/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-005-animation-clay-repair-robot-workshop",
+    "title_zh": "黏土维修机器人",
+    "alt_zh": "微缩工作台上的黄色黏土机器人，角色与环境参考"
+  },
+  {
+    "image": "assets/gallery/indoor-climbing-final-hold.webp",
+    "alt": "Sports athlete/route reference",
+    "id": "ACT-001",
+    "recipe": "prompts/upstream/09-action-sports.md#act-001-indoor-climbing-final-move",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-006-sports-indoor-climbing-final-hold",
+    "title_zh": "室内攀岩动作",
+    "alt_zh": "室内攀岩者与黄色线路，运动动作参考"
+  },
+  {
+    "image": "assets/gallery/radial-cork-speaker.webp",
+    "alt": "Fictional product identity/material reference",
+    "id": "MRF-002",
+    "recipe": "prompts/upstream/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-007-product-radial-cork-speaker",
+    "title_zh": "便携音箱运镜",
+    "alt_zh": "石墨灰与软木便携音箱，产品外形与材质参考"
+  },
+  {
+    "image": "assets/gallery/paper-birds-storm-shelter.webp",
+    "alt": "Paper-craft character/environment reference",
+    "id": "CHR-001",
+    "recipe": "prompts/upstream/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-008-character-paper-birds-in-a-storm-shelter",
+    "title_zh": "纸艺角色对白",
+    "alt_zh": "暴雨温室里的纸艺鸟，角色与环境参考"
+  },
+  {
+    "image": "assets/gallery/three-biome-museum-rail.webp",
+    "alt": "Multi-reference one-take first frame",
+    "id": "MRF-001",
+    "recipe": "prompts/upstream/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-009-multi-reference-three-biome-museum-rail",
+    "title_zh": "微缩博物馆长镜头",
+    "alt_zh": "贯穿三种桌面生态的博物馆轨道，长镜头首帧参考"
+  },
+  {
+    "image": "assets/gallery/dynamic-night-market-poster.webp",
+    "alt": "Dynamic-poster final frame",
+    "id": "MOG-001",
+    "recipe": "prompts/upstream/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-010-motion-graphics-dynamic-night-market-poster",
+    "title_zh": "夜市动态海报",
+    "alt_zh": "留有空白文字区的纸艺夜市海报，动态海报尾帧参考"
+  },
+  {
+    "image": "assets/gallery/topographic-map-archive.webp",
+    "alt": "Practical-surreal first frame",
+    "id": "SRL-001",
+    "recipe": "prompts/upstream/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-011-surreal-physics-topographic-map-archive",
+    "title_zh": "地图变成微缩地形",
+    "alt_zh": "档案地图与微缩地形，超现实场景首帧参考"
+  },
+  {
+    "image": "assets/gallery/modular-lunch-jar-kit.webp",
+    "alt": "Live-creator product reference",
+    "id": "VER-001",
+    "recipe": "prompts/upstream/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo",
+    "brief": "assets/minimax-h3-reference-image-prompts.md#img-012-live-creator-modular-lunch-jar-kit",
+    "title_zh": "模块化午餐罐演示",
+    "alt_zh": "五个部件组成的午餐罐，产品演示参考"
+  }
+]

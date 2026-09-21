@@ -1,0 +1,502 @@
+{
+  "BRD-001": {
+    "route": "confirm-route",
+    "inputs": "Product image + location image + optional sound reference",
+    "target": "16:9, target 12–15 seconds"
+  },
+  "BRD-002": {
+    "route": "confirm-route",
+    "inputs": "Location image + cast reference image + optional ambient audio",
+    "target": "9:16, target 10–12 seconds"
+  },
+  "BRD-003": {
+    "route": "confirm-route",
+    "inputs": "Product image + visual system image + optional motion reference",
+    "target": "16:9, 4:5, and 9:16 variants"
+  },
+  "PRD-001": {
+    "route": "confirm-route",
+    "inputs": "Product images + optional hand-motion reference",
+    "target": "4:5, target 10 seconds"
+  },
+  "PRD-002": {
+    "route": "confirm-route",
+    "inputs": "Product image + material macro image",
+    "target": "1:1, target 8 seconds"
+  },
+  "PRD-003": {
+    "route": "confirm-route",
+    "inputs": "Multi-view product images",
+    "target": "1:1, target 6–8 seconds"
+  },
+  "UGC-001": {
+    "route": "confirm-route",
+    "inputs": "Creator reference + product image + optional room-tone audio",
+    "target": "9:16, target 12 seconds"
+  },
+  "UGC-002": {
+    "route": "confirm-route",
+    "inputs": "Location image + kit image + optional action reference video",
+    "target": "9:16, target 15 seconds"
+  },
+  "UGC-003": {
+    "route": "confirm-route",
+    "inputs": "Bag images + creator identity + item layout image",
+    "target": "4:5, target 10–12 seconds"
+  },
+  "TRV-001": {
+    "route": "confirm-route",
+    "inputs": "Location references + optional ambient audio",
+    "target": "16:9, target 12–15 seconds"
+  },
+  "TRV-002": {
+    "route": "confirm-route",
+    "inputs": "Room image + landscape image + optional floor-plan reference",
+    "target": "16:9, target 10 seconds"
+  },
+  "TRV-003": {
+    "route": "confirm-route",
+    "inputs": "Market images + route sketch + optional ambience",
+    "target": "9:16, target 12 seconds"
+  },
+  "FNB-001": {
+    "route": "confirm-route",
+    "inputs": "Kitchen image + baker identity + dough reference",
+    "target": "16:9, target 12 seconds"
+  },
+  "FNB-002": {
+    "route": "confirm-route",
+    "inputs": "Dish image + counter image + optional motion reference",
+    "target": "4:5, target 8–10 seconds"
+  },
+  "FNB-003": {
+    "route": "confirm-route",
+    "inputs": "Bottle image + ingredient reference image",
+    "target": "9:16, target 8 seconds"
+  },
+  "FSH-001": {
+    "route": "confirm-route",
+    "inputs": "Model reference + eyewear multi-view images + motion reference",
+    "target": "9:16, target 10 seconds"
+  },
+  "FSH-002": {
+    "route": "confirm-route",
+    "inputs": "Product image + texture swatch + adult model reference",
+    "target": "4:5, target 8 seconds"
+  },
+  "FSH-003": {
+    "route": "confirm-route",
+    "inputs": "Model reference + four outfit references + simple movement video",
+    "target": "9:16, target 12 seconds"
+  },
+  "CIN-001": {
+    "route": "confirm-route",
+    "inputs": "Two character references + location image + optional room-tone audio",
+    "target": "16:9, target 15 seconds"
+  },
+  "CIN-002": {
+    "route": "confirm-route",
+    "inputs": "Character references + station image + train motion reference",
+    "target": "2.39:1, target 12–15 seconds"
+  },
+  "CIN-003": {
+    "route": "confirm-route",
+    "inputs": "Character image + rooftop location + prop image + optional sound motif",
+    "target": "9:16, target 12 seconds"
+  },
+  "ANI-001": {
+    "route": "confirm-route",
+    "inputs": "Species reference sheet + layout sketch + optional narration rhythm",
+    "target": "16:9, target 12 seconds"
+  },
+  "ANI-002": {
+    "route": "confirm-route",
+    "inputs": "Character turntable + workshop image + movement reference",
+    "target": "4:3, target 12 seconds"
+  },
+  "ANI-003": {
+    "route": "confirm-route",
+    "inputs": "Ink style sheet + tram reference + optional rhythm audio",
+    "target": "16:9, target 10 seconds"
+  },
+  "ACT-001": {
+    "route": "confirm-route",
+    "inputs": "Athlete reference + route image + technique video",
+    "target": "16:9, target 10 seconds"
+  },
+  "ACT-002": {
+    "route": "confirm-route",
+    "inputs": "Rider/bicycle image + track image + cornering reference video",
+    "target": "2.39:1, target 8 seconds"
+  },
+  "ACT-003": {
+    "route": "confirm-route",
+    "inputs": "Two player references + court image + rally reference video",
+    "target": "9:16, target 10 seconds"
+  },
+  "VFX-001": {
+    "route": "confirm-route",
+    "inputs": "Glasshouse image + plant references + optional sound design reference",
+    "target": "16:9, target 12 seconds"
+  },
+  "VFX-002": {
+    "route": "confirm-route",
+    "inputs": "City model image + mechanism diagram + rain audio",
+    "target": "16:9, target 12 seconds"
+  },
+  "VFX-003": {
+    "route": "confirm-route",
+    "inputs": "Adult model reference + dress image + movement video + light motif image",
+    "target": "9:16, target 10 seconds"
+  },
+  "DIG-001": {
+    "route": "confirm-route",
+    "inputs": "UI screens + interaction map + optional cursor motion reference",
+    "target": "16:9, target 12 seconds"
+  },
+  "DIG-002": {
+    "route": "confirm-route",
+    "inputs": "Dashboard image + handlebar image + state diagram",
+    "target": "4:5, target 8 seconds"
+  },
+  "DIG-003": {
+    "route": "confirm-route",
+    "inputs": "Game art board + inventory layout + icon sheet + interaction reference",
+    "target": "16:9, target 10 seconds"
+  },
+  "SOC-001": {
+    "route": "confirm-route",
+    "inputs": "Three room images + object reference + camera-path sketch",
+    "target": "9:16, target 9 seconds"
+  },
+  "SOC-002": {
+    "route": "confirm-route",
+    "inputs": "Office image + plant reference + fictional employee reference",
+    "target": "4:5, target 12 seconds"
+  },
+  "SOC-003": {
+    "route": "confirm-route",
+    "inputs": "Creature design + laundromat image + appliance interaction sketch",
+    "target": "9:16, target 10 seconds"
+  },
+  "MUS-001": {
+    "route": "confirm-route",
+    "inputs": "Cast images + location image + rights-cleared music reference  \\",
+    "target": "16:9, target 12–15 seconds  \\"
+  },
+  "MUS-002": {
+    "route": "confirm-route",
+    "inputs": "Two cast references + location reference + optional voice references with consent  \\",
+    "target": "2.39:1, target 12 seconds  \\"
+  },
+  "MUS-003": {
+    "route": "confirm-route",
+    "inputs": "Cast image + rehearsal video + stage design image + rhythm reference  \\",
+    "target": "9:16, target 10–12 seconds  \\"
+  },
+  "MUS-004": {
+    "route": "confirm-route",
+    "inputs": "Text + audio reference + optional palette image  \\",
+    "target": "1:1, seamless 8-second loop  \\"
+  },
+  "EDU-001": {
+    "route": "confirm-route",
+    "inputs": "Diagram image + rights-cleared field footage + narration reference  \\",
+    "target": "16:9, target 15 seconds  \\"
+  },
+  "EDU-002": {
+    "route": "confirm-route",
+    "inputs": "Object turntable images + conservation notes + optional ambient reference  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "EDU-003": {
+    "route": "confirm-route",
+    "inputs": "Equipment images + approved procedure card + instructor reference  \\",
+    "target": "16:9, target 15 seconds  \\"
+  },
+  "EDU-004": {
+    "route": "confirm-route",
+    "inputs": "Verified micrograph + everyday-object image + narration script  \\",
+    "target": "9:16, target 10 seconds  \\"
+  },
+  "ARC-001": {
+    "route": "confirm-route",
+    "inputs": "Floor plan + room reference images + optional path video  \\",
+    "target": "9:16, target 15 seconds  \\"
+  },
+  "ARC-002": {
+    "route": "confirm-route",
+    "inputs": "Site images + material board + optional sun-path diagram  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "ARC-003": {
+    "route": "confirm-route",
+    "inputs": "Existing-room images + approved concept render + material references  \\",
+    "target": "4:5, target 10 seconds  \\"
+  },
+  "ARC-004": {
+    "route": "confirm-route",
+    "inputs": "Room images + device images + approved interaction map  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "MOB-001": {
+    "route": "confirm-route",
+    "inputs": "Vehicle interior images + UI state images + approved interaction map  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "MOB-002": {
+    "route": "confirm-route",
+    "inputs": "Bicycle reference images + adult rider image + closed-course location image  \\",
+    "target": "4:5, target 10–12 seconds  \\"
+  },
+  "MOB-003": {
+    "route": "confirm-route",
+    "inputs": "Carriage images + staff reference + service-object images + ambient audio  \\",
+    "target": "9:16, target 12 seconds  \\"
+  },
+  "MOB-004": {
+    "route": "confirm-route",
+    "inputs": "Robot design images + route map + recipient image + optional motion reference  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "NAT-001": {
+    "route": "confirm-route",
+    "inputs": "Rights-cleared habitat footage + species reference images + ambient audio  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "NAT-002": {
+    "route": "confirm-route",
+    "inputs": "Consented pet images + garment images + owner hands reference  \\",
+    "target": "9:16, target 10 seconds  \\"
+  },
+  "NAT-003": {
+    "route": "confirm-route",
+    "inputs": "Same-plant weekly images + balcony reference + optional date record  \\",
+    "target": "4:5, target 12 seconds  \\"
+  },
+  "NAT-004": {
+    "route": "confirm-route",
+    "inputs": "Rights-cleared macro references + habitat image + verified species note  \\",
+    "target": "16:9, target 10–12 seconds  \\"
+  },
+  "IND-001": {
+    "route": "confirm-route",
+    "inputs": "Workstation images + product parts sheet + approved process sequence + worker reference  \\",
+    "target": "16:9, target 15 seconds  \\"
+  },
+  "IND-002": {
+    "route": "confirm-route",
+    "inputs": "Package images + facility references + approved route diagram + scanner UI states  \\",
+    "target": "16:9, target 15 seconds  \\"
+  },
+  "IND-003": {
+    "route": "confirm-route",
+    "inputs": "Verified floor plan + location images + approved route + diverse consenting cast  \\",
+    "target": "9:16, target 15 seconds  \\"
+  },
+  "IND-004": {
+    "route": "confirm-route",
+    "inputs": "Staff and visitor references + service-desk location + authorized voices  \\",
+    "target": "16:9, target 12 seconds  \\"
+  },
+  "EDT-001": {
+    "route": "confirm-route",
+    "inputs": "Source video + optional clean location plate + lead identity reference",
+    "target": "Preserve source aspect ratio, duration, frame rate, and audio sync"
+  },
+  "EDT-002": {
+    "route": "confirm-route",
+    "inputs": "Source video + character references + object detail images + approved continuation beats",
+    "target": "Match source ratio; generate an 8-second continuation clip beginning from the last source frame"
+  },
+  "EDT-003": {
+    "route": "confirm-route",
+    "inputs": "Source video + authorized voice reference + approved translated script + clean graphic plates",
+    "target": "Preserve source format and duration; target language selected at delivery"
+  },
+  "EDT-004": {
+    "route": "confirm-route",
+    "inputs": "Source video + approved evening lighting plate + device-state reference",
+    "target": "Preserve source ratio and duration, target 12 seconds"
+  },
+  "MRF-001": {
+    "route": "confirm-route",
+    "inputs": "First-frame image + biome detail references + optional mechanical sound reference",
+    "target": "16:9, target 15 seconds, one continuous take"
+  },
+  "MRF-002": {
+    "route": "confirm-route",
+    "inputs": "Product image + rights-cleared camera reference video + original beat track + material detail images",
+    "target": "16:9, target 12 seconds"
+  },
+  "MRF-003": {
+    "route": "confirm-route",
+    "inputs": "Four location/hand references + one material reference + optional original music",
+    "target": "16:9, target 15 seconds"
+  },
+  "MRF-004": {
+    "route": "confirm-route",
+    "inputs": "Product images + verified step sheet + consenting demonstrator + location reference",
+    "target": "9:16, target 15 seconds"
+  },
+  "CHR-001": {
+    "route": "confirm-route",
+    "inputs": "Character/environment image + two authorized voice references + storm ambience",
+    "target": "16:9, target 15 seconds"
+  },
+  "CHR-002": {
+    "route": "confirm-route",
+    "inputs": "Consenting adult identity + greenhouse location + exact plant cutting reference",
+    "target": "4:5, target 12 seconds"
+  },
+  "CHR-003": {
+    "route": "confirm-route",
+    "inputs": "Two consenting adult references + repair-shop image + authorized voices + approved dialogue",
+    "target": "16:9, target 15 seconds"
+  },
+  "CHR-004": {
+    "route": "confirm-route",
+    "inputs": "Three consenting adult references + community-kitchen location + prop sheet + optional room tone",
+    "target": "2.39:1, target 15 seconds"
+  },
+  "MOG-001": {
+    "route": "confirm-route",
+    "inputs": "Last-frame image + optional original music reference",
+    "target": "9:16, target 15 seconds"
+  },
+  "MOG-002": {
+    "route": "confirm-route",
+    "inputs": "Product views + component sheet + approved color tokens + optional beat track",
+    "target": "1:1, target 12 seconds"
+  },
+  "MOG-003": {
+    "route": "confirm-route",
+    "inputs": "Four object silhouettes + approved palette + original percussion",
+    "target": "16:9, target 10 seconds"
+  },
+  "MOG-004": {
+    "route": "confirm-route",
+    "inputs": "Four original material swatches + approved abstract end mark + original sonic sting",
+    "target": "16:9 and center-safe for 1:1 crop, target 8 seconds"
+  },
+  "SRL-001": {
+    "route": "confirm-route",
+    "inputs": "First-frame image + terrain detail images + room tone",
+    "target": "16:9, target 15 seconds"
+  },
+  "SRL-002": {
+    "route": "confirm-route",
+    "inputs": "Character and workshop references + fixed light diagram + optional room tone",
+    "target": "4:5, target 12 seconds"
+  },
+  "SRL-003": {
+    "route": "confirm-route",
+    "inputs": "Location image + consenting adult identity + approved weather states",
+    "target": "9:16, target 12 seconds"
+  },
+  "SRL-004": {
+    "route": "confirm-route",
+    "inputs": "Four object references + motion path + original sound events",
+    "target": "1:1, target 12 seconds, seamless loop"
+  },
+  "VER-001": {
+    "route": "confirm-route",
+    "inputs": "Product image + consenting presenter + approved feature sheet + authorized voice",
+    "target": "9:16, target 15 seconds"
+  },
+  "VER-002": {
+    "route": "confirm-route",
+    "inputs": "Two adult identities + apartment corridor + two parcel references + authorized dialogue",
+    "target": "9:16, target 15 seconds"
+  },
+  "VER-003": {
+    "route": "confirm-route",
+    "inputs": "Consenting creator + exact workshop + rights-cleared bicycle parts + approved procedure cards",
+    "target": "9:16, target 15 seconds"
+  },
+  "VER-004": {
+    "route": "confirm-route",
+    "inputs": "Consenting creator + approved question/script + clay demonstration references + workshop ambience",
+    "target": "9:16, target 15 seconds"
+  },
+  "FY-001": {
+    "route": "free-text",
+    "inputs": "No references required; fictional unbranded product.",
+    "target": "5 seconds, 9:16"
+  },
+  "FY-002": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = exact bag geometry; Image 2 = approved blue swatch; Image 3 = approved ochre swatch.",
+    "target": "6 seconds, 1:1"
+  },
+  "FY-003": {
+    "route": "confirm-route",
+    "inputs": "Video 1 = approved latch procedure; Image 1 = exact case and latch; no customer data.",
+    "target": "8 seconds, 16:9"
+  },
+  "FY-004": {
+    "route": "free-frames",
+    "inputs": "First and last frames = the same approved tabletop still.",
+    "target": "5 seconds, 9:16"
+  },
+  "FY-005": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = approved blank dashboard; Image 2 = approved populated state; synthetic data only.",
+    "target": "8 seconds, 16:9"
+  },
+  "FY-006": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = consenting adult presenter; Image 2 = approved reception background.",
+    "target": "8 seconds, 9:16"
+  },
+  "FY-007": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = approved gallery; Image 2 = licensed fictional guide; branch chosen outside generation.",
+    "target": "6 seconds, 16:9"
+  },
+  "FY-008": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = approved dieline mockup; Video 1 = designer-verified fold order.",
+    "target": "10 seconds, 16:9"
+  },
+  "FY-009": {
+    "route": "adapt-duration",
+    "inputs": "No references; approved caption text is added later.",
+    "target": "6 seconds, 16:9"
+  },
+  "FY-010": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = staged fictional carton scene; Image 2 = approved crushed-corner example.",
+    "target": "8 seconds, 16:9"
+  },
+  "FY-011": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = consenting owner’s pet photo; Image 2 = correctly fitted accessory photo.",
+    "target": "6 seconds, 9:16"
+  },
+  "FY-012": {
+    "route": "confirm-route",
+    "inputs": "Video 1 = authorized storefront shot; Image 1 = seasonal window decoration design.",
+    "target": "6 seconds, 16:9"
+  },
+  "FY-013": {
+    "route": "confirm-route",
+    "inputs": "First frame = approved nonfunctional prototype render.",
+    "target": "7 seconds, 16:9"
+  },
+  "FY-014": {
+    "route": "confirm-route",
+    "inputs": "Video 1 = maker-approved actual hand technique; Image 1 = licensed workpiece.",
+    "target": "8 seconds, 1:1"
+  },
+  "FY-015": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = permitted location; Image 2 = cast wardrobe reference.",
+    "target": "8 seconds, 16:9"
+  },
+  "FY-016": {
+    "route": "confirm-route",
+    "inputs": "Image 1 = ceramic mug geometry; Image 2 = striped wall style only; Video 1 = camera orbit only.",
+    "target": "6 seconds, 16:9"
+  }
+}

@@ -1,0 +1,57 @@
+name: Prompt or tested result / 提示词与生成记录
+description: Propose a recipe or document a result with its inputs and limitations.
+title: "[Prompt] "
+body:
+  - type: input
+    id: recipe
+    attributes:
+      label: Recipe ID or title / 配方编号或标题
+      placeholder: FY-001, FX5-002, or a new title
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal and audience / 用途与读者
+      description: What should the clip show, and where will it be used?
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Exact prompt / 完整提示词
+      description: Share your original or licensed prompt. For third-party work without permission, link to the author instead of copying the full text.
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Inputs and rights / 输入素材与来源
+      description: List each image, video or audio input and its role. State ownership or permission; omit private inputs and account details.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Actual status / 实际状态
+      options:
+        - Not run / 未运行
+        - Submitted or queued, no result / 已提交或排队，尚无结果
+        - Output received, not reviewed / 已有结果，尚未评估
+        - Output reviewed, defects recorded / 已评估并记录问题
+    validations:
+      required: true
+  - type: textarea
+    id: settings
+    attributes:
+      label: Route and settings / 使用入口与设置
+      description: Provider or page, date, model if shown, duration, ratio, resolution and input mode. Write not run if conceptual. Do not include keys, cookies or private links.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result and shortcomings / 结果与不足
+      description: Link a public output or run record if available. Explain what matched the prompt and what failed. Write no output if still queued.
+    validations:
+      required: true

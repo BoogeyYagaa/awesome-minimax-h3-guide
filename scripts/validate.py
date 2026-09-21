@@ -5,7 +5,7 @@ import json
 import re
 from pathlib import Path
 from urllib.parse import unquote
-from catalog import ROOT, collect, collect_exercises, search_records, render
+from catalog import ROOT, collect, collect_exercises, search_records, render, ROUTE_LABELS
 from community import render as render_community
 from build import outputs
 
@@ -35,7 +35,17 @@ def main():
     require(sum(r['origin'] == 'upstream' for r in records) == 84, 'Expected 84 upstream recipes')
     require(json.loads((ROOT / 'data/catalog.json').read_text()) == records, 'Run catalog.py build')
     require((ROOT / 'prompts/README.md').read_text() == render(records), 'Stale prompt index')
+    usage = json.loads((ROOT / 'data/recipe-usage.json').read_text())
+    require(set(usage) == {r['id'] for r in records}, 'Usage coverage differs from catalog')
     for r in records:
+        require(r['usage']['route'] in ROUTE_LABELS and r['usage']['inputs'] and r['usage']['target'], f"Missing use conditions: {r['id']}")
+        body = (ROOT / r['path'].split('#')[0]).read_text()
+        if r['origin'] == 'upstream':
+            body = re.search(r'^## ' + re.escape(r['id']) + r' [^\n]+\n(.*?)(?=^## |\Z)', body, re.M | re.S)[1]
+        input_label = 'Reference map' if r['origin'] == 'flyne' else 'Mode'
+        target_label = 'Target' if r['origin'] == 'flyne' else 'Format'
+        require(re.search(r'\*\*' + input_label + r':\*\* (.+)', body)[1].strip() == r['usage']['inputs'], f"Input metadata differs: {r['id']}")
+        require(re.search(r'\*\*' + target_label + r':\*\* (.+)', body)[1].strip() == r['usage']['target'], f"Target metadata differs: {r['id']}")
         if r['origin'] == 'flyne':
             body = (ROOT / r['path']).read_text()
             require(re.search(r'```text\n(.*?)```', body, re.S).group(1).strip() == r['prompt'], f"Prompt mismatch: {r['id']}")
@@ -67,6 +77,9 @@ def main():
         review = e.get('visual_review', {})
         require(review.get('sample_count', 0) > 0 and re.fullmatch(r'[0-9a-f]{64}', review.get('video_sha256', '')), 'Missing visual-review provenance')
     require(len({e['practice']['id'] for e in community}) == len(community), 'Duplicate exercise IDs')
+    for visual in json.loads((ROOT / 'data/flyne-visuals.json').read_text()):
+        require(hashlib.sha256((ROOT / visual['path']).read_bytes()).hexdigest() == visual['sha256'], 'Reference illustration changed without provenance update')
+        require(visual['recipe_id'] in usage and visual['prompt'] and visual['usage_note'], 'Incomplete image provenance')
     imports = json.loads((ROOT / 'data/supplemental-imports.json').read_text())
     for entry in imports['files']:
         require(hashlib.sha256((ROOT / entry['local_path']).read_bytes()).hexdigest() == entry['local_sha256'], f"Supplemental import changed: {entry['local_path']}")

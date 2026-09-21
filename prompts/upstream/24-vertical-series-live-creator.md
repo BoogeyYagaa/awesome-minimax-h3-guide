@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/24-vertical-series-live-creator.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/24-vertical-series-live-creator.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Vertical Series and Live-Creator Video Prompts
 
 Original MiniMax H3 prompts for responsible live-commerce demonstrations, short episodic drama, recurring creator formats, and direct audience answers. Prioritize truthful claims, clear hand-object contact, readable hooks, and continuity that can survive a series.
 
 ## VER-001 Honest Modular Lunch-Jar Live Demo
+
+![VER-001 reference still](../../assets/gallery/modular-lunch-jar-kit.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 
 **Use it for:** A compact live-commerce demonstration that shows verified assembly and fit without inventing performance, health, or certification claims.
@@ -25,6 +31,8 @@ Sound intent: clear authorized speech, metal nesting, thread contact, quiet kitc
 
 ## VER-002 The Wrong Parcel, the Right Neighbor
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A warm vertical micro-drama with a fast hook, clear prop logic, two consenting adults, and a non-exploitative reversal.
 
 **Mode:** Two adult identities + apartment corridor + two parcel references + authorized dialogue  
@@ -43,6 +51,8 @@ Natural corridor ambience, two door sounds, no music or subtitles. Keep one blue
 
 ## VER-003 One Tool, Three Bicycle Fixes
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A repeatable creator-series opener that establishes an expert, one workbench, and three visually distinct maintenance topics without unsafe instruction.
 
 **Mode:** Consenting creator + exact workshop + rights-cleared bicycle parts + approved procedure cards  
@@ -60,6 +70,8 @@ Sound intent: exact dialogue, metal touch, cloth, one bell ring, quiet workshop,
 **Review:** Creator continuity, tool count, part separation, approved boundaries, match cuts, dialogue, blank label zones, and no unsafe completeness claim.
 
 ## VER-004 Ceramic Creator Answers One Real Question
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A direct audience-answer format that turns one verified craft question into a concise visual explanation with transparent limits.
 

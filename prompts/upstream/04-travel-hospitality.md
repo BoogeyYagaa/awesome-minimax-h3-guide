@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/04-travel-hospitality.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/04-travel-hospitality.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Travel and Hospitality Video Prompts
 
 Original MiniMax H3 prompts for destination films, hotel stories, local experiences, and travel-native social content without fabricated geography or claims.
 
 ## TRV-001 Rain-Washed Canal Town Morning
+
+![TRV-001 reference still](../../assets/gallery/rain-washed-canal-morning.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A slow destination film that sells atmosphere through a believable local routine.
 
@@ -24,6 +30,8 @@ Use soft overcast light, damp stone texture, muted green reflections, and natura
 
 ## TRV-002 Volcanic Island Guesthouse Reveal
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A hospitality video that connects room design to the surrounding landscape.
 
 **Mode:** Room image + landscape image + optional floor-plan reference  
@@ -41,6 +49,8 @@ Lighting transitions naturally from warm interior bounce to cool exterior daylig
 **Review:** Floor-plan coherence, indoor/outdoor exposure, furnishing persistence, and truthful amenity depiction.
 
 ## TRV-003 First-Person Night Market Wayfinding
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A mobile travel clip focused on navigation, food discovery, and accessible pacing.
 

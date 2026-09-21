@@ -1,0 +1,29 @@
+name: Documentation or translation / 文档与翻译纠错
+description: Report a stale source, unclear instruction, broken link or translation problem.
+title: "[Docs] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Affected page / 对应页面
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and original wording / 问题与原文
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction / 建议修改
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and checked date / 依据与核对日期
+      description: For technical or product claims, provide an official source. For a translation, name the language and explain the wording.
+    validations:
+      required: true

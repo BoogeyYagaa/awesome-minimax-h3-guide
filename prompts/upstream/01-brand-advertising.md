@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/01-brand-advertising.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/01-brand-advertising.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Brand and Advertising Video Prompts
 
 Original MiniMax H3 prompts for brand films, campaign launches, product storytelling, and channel adaptation.
 
 ## BRD-001 Midnight Observatory Tea Launch
+
+![BRD-001 reference still](../../assets/gallery/midnight-observatory-tea.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A premium launch film that makes a new bottled tea feel precise, calm, and contemporary.
 
@@ -24,6 +30,8 @@ Lighting is physically motivated, with glass refraction, soft metal reflections,
 
 ## BRD-002 Community Cinema Opening Night
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A warm local-business campaign film with real people and a clear event feeling.
 
 **Mode:** Location image + cast reference image + optional ambient audio  
@@ -41,6 +49,8 @@ Keep the feeling candid, inclusive, and local rather than luxury advertising. Us
 **Review:** Identity consistency, crowd duplication, facade geometry, platform-safe framing, and absence of fabricated claims.
 
 ## BRD-003 One Campaign, Three Aspect Ratios
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** Adapting a single outdoor campaign into landscape, feed, and vertical compositions without hard cropping.
 

@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/16-automotive-mobility.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/16-automotive-mobility.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Automotive and Mobility Video Prompts
 
 Original MiniMax H3 prompts for vehicles, micromobility, transit, and delivery systems. Use closed or controlled environments for risky movement and never present generated footage as safety evidence.
 
 ## MOB-001 Electric City Car Interior Demo
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A premium interior feature film with exact control-to-state causality and no unsupported performance claims.
 
@@ -24,6 +26,8 @@ Keep hand anatomy, reflections, control locations, UI text, screen brightness, a
 
 ## MOB-002 Cargo Bicycle Rain-Test Film
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A practical mobility product story showing weather handling without implying certification.
 
 **Mode:** Bicycle reference images + adult rider image + closed-course location image  \
@@ -42,6 +46,8 @@ Sound intent: rainfall, tire hiss, chain, brake contact, no music. Do not claim 
 
 ## MOB-003 Night Train Sleeper Service
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A hospitality-focused rail film that keeps cabin geography, staff identity, and service sequence consistent.
 
 **Mode:** Carriage images + staff reference + service-object images + ambient audio  \
@@ -59,6 +65,8 @@ Sound intent: steady rail rhythm, door slide, fabric, cup contact, no announceme
 **Review:** Spatial continuity, rail-motion direction, service sequence, object persistence, and brand neutrality.
 
 ## MOB-004 Sidewalk Delivery Robot Handoff
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A friendly last-mile concept video with readable robot behavior and pedestrian priority.
 

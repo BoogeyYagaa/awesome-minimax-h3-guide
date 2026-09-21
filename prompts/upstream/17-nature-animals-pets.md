@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/17-nature-animals-pets.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/17-nature-animals-pets.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Nature, Animals and Pet Video Prompts
 
 Original MiniMax H3 prompts for ethical wildlife observation, pet content, plant studies, and macro nature films. Never stage distress, disturb wildlife, or imply veterinary conclusions from generated media.
 
 ## NAT-001 Urban Fox Dawn Observation
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A documentary-style wildlife moment with restrained camera behavior and no baiting narrative.
 
@@ -24,6 +26,8 @@ Sound intent: early birds, distant bicycle, leaves, no dramatic music or growls.
 
 ## NAT-002 Senior Dog Raincoat Fit Check
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A warm pet-care social clip that demonstrates garment fit without making health claims.
 
 **Mode:** Consented pet images + garment images + owner hands reference  \
@@ -42,6 +46,8 @@ Sound intent: fabric fastening, light paw steps, home ambience, no speech. Do no
 
 ## NAT-003 Balcony Tomato Growth Diary
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A compact seasonal growth story with consistent plant structure and honest time compression.
 
 **Mode:** Same-plant weekly images + balcony reference + optional date record  \
@@ -59,6 +65,8 @@ Sound intent: evolving balcony ambience from spring breeze to summer insects, no
 **Review:** Chronology, stem topology, fruit count, environmental continuity, honest time compression, and date accuracy.
 
 ## NAT-004 Tide-Pool Macro Field Note
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** An educational macro sequence showing small marine life without handling or relocating it.
 

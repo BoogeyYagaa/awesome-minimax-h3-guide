@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/05-food-beverage.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/05-food-beverage.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Food and Beverage Video Prompts
 
 Original MiniMax H3 prompts for preparation, texture, service, restaurant storytelling, and physically credible food motion.
 
 ## FNB-001 Dawn Bakery Lamination Sequence
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A craft-focused bakery film showing process rather than generic beauty shots.
 
@@ -24,6 +26,8 @@ Natural mixed pre-dawn blue window light and warm oven light. Sound intent: roll
 
 ## FNB-002 Clear Broth Noodle Service
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A restaurant hero clip where liquid, noodles, and garnish remain controlled.
 
 **Mode:** Dish image + counter image + optional motion reference  
@@ -41,6 +45,8 @@ Sound intent: broth pour, ceramic contact, quiet kitchen ambience. Avoid extra t
 **Review:** Ingredient count, liquid level, hand continuity, garnish placement, and realistic steam.
 
 ## FNB-003 Sparkling Botanical Tea Macro Ad
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A beverage ad built around bubbles, glass, and an original flavor identity.
 

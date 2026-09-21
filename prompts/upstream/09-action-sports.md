@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/09-action-sports.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/09-action-sports.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Action and Sports Video Prompts
 
 Original MiniMax H3 prompts for readable athletic performance, plausible physics, spatial continuity, and safe commercial energy.
 
 ## ACT-001 Indoor Climbing Final Move
+
+![ACT-001 reference still](../../assets/gallery/indoor-climbing-final-hold.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A sports commercial centered on technique and one decisive movement.
 
@@ -24,6 +30,8 @@ Sound intent: breath, shoe rubber, chalk, room reverb, one quiet crowd reaction.
 
 ## ACT-002 Rain Circuit Bicycle Corner
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A fast cycling shot with readable line choice, wheel contact, and weather physics.
 
 **Mode:** Rider/bicycle image + track image + cornering reference video  
@@ -41,6 +49,8 @@ Overcast light, wet asphalt reflections, realistic wheel rotation and fabric mov
 **Review:** Wheel contact, cornering sequence, bicycle geometry, screen direction, spray scale, and safe framing.
 
 ## ACT-003 Table Tennis Rally in One Take
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A compact indoor sports piece where ball trajectory and player positions stay legible.
 

@@ -24,6 +24,9 @@ def collect():
                                 path=str(path.relative_to(ROOT)) + '#' + anchor,
                                 prompt=prompt.group(1).strip()))
     records.extend(json.loads((ROOT / 'data/flyne-recipes.json').read_text()))
+    usage = json.loads((ROOT / 'data/recipe-usage.json').read_text())
+    for record in records:
+        record['usage'] = usage[record['id']]
     return records
 
 
@@ -45,6 +48,28 @@ def search_records(query, origin=None):
             and query.casefold() in json.dumps(r, ensure_ascii=False).casefold()]
 
 
+ROUTE_LABELS = {
+    'free-text': 'Free text / 免费文字',
+    'free-frames': 'Both frames / 准备首尾图',
+    'adapt-duration': 'Shorten first / 先缩短时长',
+    'confirm-route': 'Confirm support / 确认平台支持',
+}
+
+
+def category_navigation(records):
+    categories = {}
+    for r in records:
+        if r['origin'] == 'upstream':
+            path = r['path'].split('#')[0]
+            categories.setdefault(path, {'name': r['category'], 'count': 0})['count'] += 1
+    lines = ['## Browse by category / 按分类浏览', '',
+             '| Category / 分类 | Recipes / 数量 |', '|---|---:|',
+             f"| [Flyne original scenarios / Flyne 原创场景](#flyne-ai-additions--新增场景) | {sum(r['origin'] == 'flyne' for r in records)} |"]
+    for path, group in categories.items():
+        lines.append(f"| [{group['name']}](../{path}) | {group['count']} |")
+    return lines + ['', '[Use conditions / 选择使用入口](../docs/recipe-usage.md): matching a form does not establish generation quality.', '']
+
+
 def render(records):
     upstream = sum(r['origin'] == 'upstream' for r in records)
     flyne = len(records) - upstream
@@ -56,17 +81,18 @@ def render(records):
              'Search offline: `python3 scripts/catalog.py search "product"` from the repository root.', '',
              f'Search includes the {len(records)} recipes plus {exercises} separate, untested five-second exercises: `python3 scripts/catalog.py search "FX5-002" --origin exercise --show-prompt`. Exercises are stored in [community-sources.json](../data/community-sources.json); they did not produce the linked creator videos.', '',
              f'搜索覆盖 {len(records)} 条配方和另列的 {exercises} 条五秒练习；练习尚未实测，不是社区视频的原始提示词。', '',
+             *category_navigation(records),
              '## Flyne AI additions / 新增场景', '',
-             '| ID | Recipe | Task | Category |', '|---|---|---|---|']
+             '| ID | Recipe | Task | Category | Use conditions / 使用条件 |', '|---|---|---|---|---|']
     for r in records:
         if r['origin'] == 'flyne':
-            lines.append(f"| {r['id']} | [{r['title']} · {r['title_zh']}](../{r['path']}) | {r['task']} | {r['category']} |")
+            lines.append(f"| {r['id']} | [{r['title']} · {r['title_zh']}](../{r['path']}) | {r['task']} | {r['category']} | {ROUTE_LABELS[r['usage']['route']]} |")
     lines += ['', '## Attributed upstream library / 引入内容', '',
               'Copyright © 2026 Flaq AI. [MIT license](../licenses/Flaq-AI-MIT.txt). Source revisions are linked in each file.', '',
-              '| ID | Recipe | Category |', '|---|---|---|']
+              '| ID | Recipe | Category | Use conditions / 使用条件 |', '|---|---|---|---|']
     for r in records:
         if r['origin'] == 'upstream':
-            lines.append(f"| {r['id']} | [{r['title']}](../{r['path']}) | {r['category']} |")
+            lines.append(f"| {r['id']} | [{r['title']}](../{r['path']}) | {r['category']} | {ROUTE_LABELS[r['usage']['route']]} |")
     return '\n'.join(lines) + '\n'
 
 
@@ -77,6 +103,7 @@ def main():
     search = sub.add_parser('search')
     search.add_argument('query')
     search.add_argument('--origin', choices=['upstream', 'flyne', 'exercise'])
+    search.add_argument('--route', choices=list(ROUTE_LABELS))
     search.add_argument('--show-prompt', action='store_true')
     args = parser.parse_args()
     records = collect()
@@ -86,9 +113,14 @@ def main():
         print(f'Built {len(records)} recipes')
         return
     matches = search_records(args.query, args.origin)
+    if args.route:
+        matches = [r for r in matches if r.get('usage', {}).get('route') == args.route]
     for r in matches:
         print(f"{r['id']} | {r['title']} | {r['origin']} | {r['path']}")
         print(f"Status: {r['status']}")
+        if r.get('usage'):
+            print(f"Use: {ROUTE_LABELS[r['usage']['route']]} | Target: {r['usage']['target']}")
+            print(f"Inputs: {r['usage']['inputs']}")
         if args.show_prompt:
             print(r['prompt'] + '\n')
             if r.get('prompt_zh'):

@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/13-music-performance-audio.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/13-music-performance-audio.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Music, Performance and Audio-Driven Video Prompts
 
 Original MiniMax H3 prompts for live sessions, choreography, music-led visuals, and multilingual performance. Use only music, voices, likenesses, and venues for which you hold the necessary rights.
 
 ## MUS-001 Rooftop Trio Live Session
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A believable one-take performance film with synchronized playing, camera rhythm, and environmental sound.
 
@@ -24,6 +26,8 @@ Sound intent: preserve the timing and dynamic contour of Audio 1, add only subtl
 
 ## MUS-002 Multilingual Station Duet
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A short dramatic duet in two languages with clear speaker ownership and natural turn-taking.
 
 **Mode:** Two cast references + location reference + optional voice references with consent  \
@@ -42,6 +46,8 @@ Keep exact voice-to-face ownership, natural breathing, intelligible pronunciatio
 
 ## MUS-003 Dance Rehearsal to Stage Match Cut
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A choreography teaser that transfers one exact movement from rehearsal to finished stage.
 
 **Mode:** Cast image + rehearsal video + stage design image + rhythm reference  \
@@ -59,6 +65,8 @@ Maintain choreography timing, facing direction, floor contact, body anatomy, and
 **Review:** Movement fidelity, cut alignment, anatomical realism, rhythm lock, costume transition, and safe crop.
 
 ## MUS-004 Sound-to-Shape Album Loop
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** An abstract looping visualizer built from a rights-cleared audio motif without copying album art.
 

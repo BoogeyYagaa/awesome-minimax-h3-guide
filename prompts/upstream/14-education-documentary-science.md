@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/14-education-documentary-science.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/14-education-documentary-science.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Education, Documentary and Science Video Prompts
 
 Original MiniMax H3 prompts for explainers, museum media, field documentation, and procedural education. Verify all facts with qualified sources before publication.
 
 ## EDU-001 Tidal Marsh Carbon Explainer
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A short science explainer that keeps process order and visual evidence separate from narration.
 
@@ -24,6 +26,8 @@ Narration intent: plain language, one idea per sentence, no unverified percentag
 
 ## EDU-002 Museum Object Story Without Reconstruction Claims
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A museum-screen vignette that distinguishes documented object detail from interpretive atmosphere.
 
 **Mode:** Object turntable images + conservation notes + optional ambient reference  \
@@ -42,6 +46,8 @@ Sound intent: quiet gallery air, soft wood creak, no dialogue or dramatic score.
 
 ## EDU-003 Safe Workshop Procedure: Drill-Press Setup
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A visual training insert that demonstrates preparation steps without replacing qualified instruction.
 
 **Mode:** Equipment images + approved procedure card + instructor reference  \
@@ -59,6 +65,8 @@ Sound intent: natural room tone and four subtle confirmation clicks; no spoken c
 **Review:** Approved step order, hand safety, machine state, PPE, disclaimers, and local policy alignment.
 
 ## EDU-004 Microscopic World to Everyday Scale
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A visually engaging classroom transition that clearly separates illustrative scale from literal footage.
 

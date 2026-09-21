@@ -11,3 +11,7 @@ Create a polished wide 3:1 editorial cover image for the open-source GitHub repo
 ## Attributed reference-image collection
 
 Eleven unbranded reference stills are reused unchanged from Flaq AI under MIT, with recipe links and creation briefs in the [reference gallery](../docs/reference-gallery.md). [Import hashes](../data/supplemental-imports.json) preserve their provenance. These are not new Flyne generations or H3 results. The source repository reports generation with the built-in image tool and WebP quality-88 conversion; the full attribution is retained in [third-party notices](../THIRD_PARTY_NOTICES.md).
+
+## Flyne recipe illustrations
+
+Three additional AI-generated reference stills for FY-001, FY-002 and FY-009 are stored in `assets/flyne/`. See [exact prompts and usage notes](flyne-reference-briefs.md) and [provenance hashes](../data/flyne-visuals.json). They are separate from the eleven attributed source images, are not H3 outputs, and do not establish video quality.

@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/12-transitions-comedy-social.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/12-transitions-comedy-social.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Transitions, Comedy and Social Video Prompts
 
 Original MiniMax H3 prompts for match cuts, loops, deadpan visual jokes, social hooks, and safe viral-format experimentation.
 
 ## SOC-001 Three Rooms, One Rolling Orange
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A seamless match-cut transition demonstrating location continuity through one object.
 
@@ -24,6 +26,8 @@ Sound intent: surface-specific rolling sound in each room, one soft transition c
 
 ## SOC-002 Office Plant Quietly Takes Over
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A deadpan workplace comedy with progressive environmental change.
 
 **Mode:** Office image + plant reference + fictional employee reference  
@@ -41,6 +45,8 @@ Use ordinary fluorescent daylight, progressive continuity, and deadpan timing. S
 **Review:** Growth progression, plant physics, locked framing, performer continuity, and safe comic tone.
 
 ## SOC-003 Alien at the Self-Service Laundry
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** An original social comedy built on one mundane misunderstanding.
 

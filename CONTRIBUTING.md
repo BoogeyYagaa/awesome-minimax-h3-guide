@@ -2,6 +2,8 @@
 
 Useful contributions improve reproducibility: test a recipe, document a failed result, add a missing workflow, correct a translation, or update a claim with a primary source.
 
+[Submit a prompt / 提交提示词](https://github.com/flyneai/awesome-minimax-h3-guide/issues/new?template=prompt.yml) · [Report a documentation issue / 文档纠错](https://github.com/flyneai/awesome-minimax-h3-guide/issues/new?template=documentation.yml)
+
 ## Propose a prompt
 
 1. Start from [the prompt template](templates/prompt.md). State the deliverable, reference roles, task family, timing, constraints, acceptance criteria and a recovery path.
@@ -12,7 +14,7 @@ Useful contributions improve reproducibility: test a recipe, document a failed r
 
 ## Change the catalog
 
-For FY entries, update both the Markdown recipe and its metadata/prompt in `data/flyne-recipes.json`. The validator checks that the prompt bodies agree. Run:
+For FY entries, update the Markdown recipe, its metadata/prompt in `data/flyne-recipes.json`, and its inputs/target/route in `data/recipe-usage.json`. The route is an editorial compatibility assessment, not proof of generation. The validator checks that the prompt bodies agree. Run:
 
 ```sh
 python3 scripts/build.py

@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/15-architecture-interiors-real-estate.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/15-architecture-interiors-real-estate.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Architecture, Interiors and Real-Estate Video Prompts
 
 Original MiniMax H3 prompts for spatial reveals, property walkthroughs, renovation concepts, and interior product stories. Do not fabricate amenities, dimensions, views, or regulatory claims.
 
 ## ARC-001 Honest Small-Apartment Walkthrough
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A continuous property tour that preserves the real floor plan and avoids deceptive wide-angle distortion.
 
@@ -24,6 +26,8 @@ Sound intent: room tone, soft footsteps, distant street ambience, no sales voice
 
 ## ARC-002 Courtyard Cafe Morning-to-Evening Study
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** An architecture mood film showing how one space changes with light and occupancy.
 
 **Mode:** Site images + material board + optional sun-path diagram  \
@@ -42,6 +46,8 @@ Sound intent: morning broom and birds evolving into low conversation and evening
 
 ## ARC-003 Renovation Concept With Before/After Boundary
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A design concept film that makes proposed changes visually clear without presenting them as completed work.
 
 **Mode:** Existing-room images + approved concept render + material references  \
@@ -59,6 +65,8 @@ Sound intent: quiet paper movement and one restrained transition sweep. Avoid de
 **Review:** Existing/proposed distinction, scope fidelity, fixed elements, material match, and disclosure space.
 
 ## ARC-004 Smart-Home Evening Sequence
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A connected-home demonstration where each physical action produces one visible, verifiable state change.
 

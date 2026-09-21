@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/08-animation-stylized.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/08-animation-stylized.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Animation and Stylized Video Prompts
 
 Original MiniMax H3 prompts for paper craft, clay animation, graphic motion, and hand-rendered worlds with locked materials and readable action.
 
 ## ANI-001 Paper-Cut Wetland Food Web
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** An educational animation with a clear ecological relationship and tactile craft style.
 
@@ -24,6 +26,12 @@ No statistics or generated labels; reserve a clean lower strip for human-added c
 
 ## ANI-002 Clay Repair Robot Finds a Button
 
+![ANI-002 reference still](../../assets/gallery/clay-repair-robot.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A charming stop-motion character short with clear object scale and personality.
 
 **Mode:** Character turntable + workshop image + movement reference  
@@ -41,6 +49,8 @@ Keep visible fingerprints, small pose-to-pose motion, stable scale, and warm pra
 **Review:** Character model, stop-motion cadence, object scale, two-hand interaction, and tactile materials.
 
 ## ANI-003 Ink Fish Becomes a City Tram
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A graphic transition film combining brushwork, transport, and urban rhythm.
 

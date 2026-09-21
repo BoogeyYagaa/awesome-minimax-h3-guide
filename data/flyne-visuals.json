@@ -1,0 +1,32 @@
+[
+  {
+    "recipe_id": "FY-001",
+    "path": "assets/flyne/fy-001-lamp.png",
+    "created_at": "2026-09-21",
+    "tool": "built-in image_gen",
+    "kind": "AI-generated reference still; not H3 output",
+    "prompt": "Generate a single portrait 9:16 photorealistic product reference still for Flyne AI's original learning recipe FY-001. A palm-sized unbranded matte coral desk lamp with one round button, one clear stable hinge, on a dark slate desk beside a blank cream notebook. Lamp switched off, no person or hand in frame, soft window daylight from the left, restrained mint-gray background. Medium close-up shows the entire lamp and notebook, ample room on the right for a hand to enter later. Realistic physical structure, calm premium editorial lighting. No text, logos, watermark, interface or collage. This is a still illustration for a future video exercise, not a model performance demonstration.",
+    "sha256": "c9a19e83313aec88e143a4258a8281bef4ba812305b2e27b08900a7e74e4680f",
+    "usage_note": "构图参考；原配方为纯文字，不必上传此图。图中笔记本是合上的；需要页面被照亮时应在实际生成中检查。 / Composition reference only; the recipe needs no image. The notebook is closed in this illustration; check the illuminated page in actual generation."
+  },
+  {
+    "recipe_id": "FY-002",
+    "path": "assets/flyne/fy-002-bag.png",
+    "created_at": "2026-09-21",
+    "tool": "built-in image_gen",
+    "kind": "AI-generated reference still; not H3 output",
+    "prompt": "Create one square 1:1 photorealistic product identity reference for Flyne AI learning recipe FY-002, not a video output. Single unbranded structured small blue canvas shoulder bag, front three-quarter view, two brushed silver rectangular buckles on the front, one wide fabric shoulder strap, neat visible stitching and simple stable rectangular geometry. Bag stands still on a seamless neutral gray studio background. Soft top light, accurate woven texture, gentle shadow. Entire bag including strap fits inside frame. No text, no logos, no color swatches, no extra objects, no split screen. The image will serve only as the bag identity reference; separate color swatches are supplied elsewhere.",
+    "sha256": "5cd7508eb098a10c1ceaef0364579fb732d70518777ab6daf10b0d894a0218f2",
+    "usage_note": "可作为 Image 1 的虚构包款参考；仍需自备蓝色与赭色色卡。不是完整输入包，也不是生成视频。 / Fictional bag identity reference for Image 1; supply separate approved blue and ochre swatches. Not a complete input pack or a generated video."
+  },
+  {
+    "recipe_id": "FY-009",
+    "path": "assets/flyne/fy-009-backdrop.png",
+    "created_at": "2026-09-21",
+    "tool": "built-in image_gen",
+    "kind": "AI-generated reference still; not H3 output",
+    "prompt": "Generate a single widescreen 16:9 editorial composition reference for Flyne AI's learning recipe FY-009: caption-safe event backdrop. Deep matte midnight navy blue background. Exactly two delicate translucent teal fabric ribbons hang in sculptural curves only within the far-left and far-right outer 20 percent of the frame. Central 60 percent must remain entirely empty, quiet, dark, low-detail and almost uniform, reserved for captions added later by a human. Soft restrained side lighting reveals fabric weave and gentle translucency at the edges; no sparkles, bright lights, text, letters, logos, UI, gradients crossing the middle, objects or collage. Sophisticated physical fabric photograph, not an animated output or accessibility certification.",
+    "sha256": "1ae2b07f39cf0d29f5aed5894d709dd549d664a6a4566e95f6c821a6a4a001ac",
+    "usage_note": "仅展示留白构图；原配方为纯文字，不必上传。字幕需后期添加；实际可读性仍需检查。 / Composition reference only; no upload required. Add captions in editing and check readability."
+  }
+]

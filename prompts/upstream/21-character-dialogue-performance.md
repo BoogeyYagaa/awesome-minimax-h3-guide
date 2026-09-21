@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/21-character-dialogue-performance.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/21-character-dialogue-performance.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Character, Dialogue and Performance Video Prompts
 
 Original MiniMax H3 prompts for character-led dialogue, restrained emotion, bilingual exchange, and ensemble performance. These recipes prioritize speaker ownership, micro-actions, eye lines, reaction timing, voice consent, and readable emotional change.
 
 ## CHR-001 Paper Birds Plan for the Storm
+
+![CHR-001 reference still](../../assets/gallery/paper-birds-storm-shelter.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 
 **Use it for:** A compact two-character scene with exact voices, clear staging, tactile animation, and a complete emotional turn.
@@ -25,6 +31,8 @@ Use slight stop-motion cadence, consistent eye lines, and one speaker at a time.
 
 ## CHR-002 The First New Root
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A quiet live-action performance driven by a small physical discovery rather than melodramatic expression.
 
 **Mode:** Consenting adult identity + greenhouse location + exact plant cutting reference  
@@ -43,6 +51,8 @@ Sound intent: rain on glass, stool creak, jar contact, one soft exhale, no dialo
 
 ## CHR-003 Bilingual Radio-Repair Handoff
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A respectful bilingual exchange where exact speaker turns, prop continuity, pronunciation, and listening behavior matter.
 
 **Mode:** Two consenting adult references + repair-shop image + authorized voices + approved dialogue  
@@ -60,6 +70,8 @@ Keep exact language, speaker ownership, lip sync, pauses, action causality, and 
 **Review:** Japanese accuracy, English delivery, voice consent, turn-taking, listening faces, radio state, hand ownership, privacy, and no policy claims.
 
 ## CHR-004 One Extra Meal: Three-Person Ensemble
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A short ensemble scene where each adult has a distinct objective and the story resolves through reactions and blocking.
 

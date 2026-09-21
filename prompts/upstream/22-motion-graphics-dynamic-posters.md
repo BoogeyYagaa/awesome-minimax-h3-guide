@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/22-motion-graphics-dynamic-posters.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/22-motion-graphics-dynamic-posters.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Motion Graphics and Dynamic Poster Video Prompts
 
 Original MiniMax H3 prompts for poster assembly, product feature cards, exhibition openers, and modular motion identities. Keep typography out of generation when exact copy matters: reserve stable blank plates and composite approved text afterward.
 
 ## MOG-001 Night-Market Poster Builds on the Beat
+
+![MOG-001 reference still](../../assets/gallery/dynamic-night-market-poster.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 
 **Use it for:** Turning a finished key visual into a controlled vertical poster reveal with exact element order and a clean typography handoff.
@@ -25,6 +31,8 @@ Use Audio 1 only for rhythm; add restrained paper friction and soft wooden taps.
 
 ## MOG-002 Modular Product Feature Cards
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** Presenting a small product system as clean, reusable motion modules without fabricating specifications or on-screen copy.
 
 **Mode:** Product views + component sheet + approved color tokens + optional beat track  
@@ -43,6 +51,8 @@ Sound intent: Audio 1, wood contact, felt slide, no voiceover. Do not invent dim
 
 ## MOG-003 Museum Object Silhouette Opener
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A short exhibition opener that derives motion from rights-cleared object shapes while keeping interpretation and provenance outside the generated video.
 
 **Mode:** Four object silhouettes + approved palette + original percussion  
@@ -60,6 +70,8 @@ Map one action to each Audio 1 percussion event. Use only Image 5 colors, crisp 
 **Review:** Silhouette fidelity, relative scale, action-to-sound mapping, interpretive restraint, title safe area, and no invented cultural detail.
 
 ## MOG-004 Material-Swatch Motion Identity
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** Creating a reusable, logo-safe motion bumper from an original set of materials rather than imitating an existing brand package.
 

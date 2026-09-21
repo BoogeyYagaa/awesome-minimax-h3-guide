@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/23-surreal-physics-optical-illusions.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/23-surreal-physics-optical-illusions.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Surreal Physics and Optical-Illusion Video Prompts
 
 Original MiniMax H3 prompts for practical surrealism, temporal displacement, reflection logic, and controlled material transformation. Each scene defines one impossible rule and keeps ordinary physics stable everywhere else.
 
 ## SRL-001 The Map Rises into a Landscape
+
+![SRL-001 reference still](../../assets/gallery/topographic-map-archive.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 
 **Use it for:** A practical-effects transformation where a flat reference becomes a miniature world without losing geography or object count.
@@ -25,6 +31,8 @@ Sound intent: Audio 1, paper creases, clay settling, task-lamp hum, no music or 
 
 ## SRL-002 The Shadow Finishes First
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A subtle temporal illusion in which a character's shadow anticipates one harmless action while the physical room remains unchanged.
 
 **Mode:** Character and workshop references + fixed light diagram + optional room tone  
@@ -43,6 +51,8 @@ Sound intent: Audio 1, paper contact during the real action only, one quiet brea
 
 ## SRL-003 The Puddle Sees the Rain First
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A temporal-reflection effect with a simple cause-and-effect payoff and no dangerous street action.
 
 **Mode:** Location image + consenting adult identity + approved weather states  
@@ -60,6 +70,8 @@ Sound intent: dry footsteps, first drops, umbrella click, soft rain, no dialogue
 **Review:** Puddle mask, three-second temporal rule, reflection perspective, umbrella continuity, rainfall transition, subject identity, and safe blocking.
 
 ## SRL-004 One Sphere, Four Materials
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A multi-reference material transformation where silhouette and motion stay continuous across visibly different physical media.
 

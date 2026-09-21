@@ -1,12 +1,36 @@
 # Flyne AI 参考图目录 / Reference gallery
 
-11 张场景参考图与 FlyneAI 专属封面构成当前图片库。下列场景图引入自 Flaq AI 的 MIT 授权素材，原图没有公司品牌标志；这里保留图像内容和作者署名，按场景接入 FlyneAI 指南。它们是图像生成工具制作的参考素材，不是 MiniMax H3 视频成片，也没有改署为 Flyne 原创。
+图片库包含 3 张 FlyneAI 新增参考图、11 张引入场景图和 FlyneAI 封面。下方 Flaq AI 章节的场景图引入自其 MIT 授权素材，原图没有公司品牌标志；这里保留图像内容和作者署名，按场景接入 FlyneAI 指南。它们是图像生成工具制作的参考素材，不是 MiniMax H3 视频成片，也没有改署为 Flyne 原创。
 
 [先做 5 秒视频](quick-start.md) · [100 条配方](../prompts/README.md) · [来源与许可](../THIRD_PARTY_NOTICES.md)
 
 **如何使用：** 点击图片查看完整文件，再打开对应配方和图片制作说明。只使用当前工具支持的输入。免费入口使用图片引导时需要首尾两张，单独一张参考图并不构成完整输入；可以先使用纯文字练习。
 
 These attributed reference images are unchanged MIT-licensed imports. The Flyne cover is separate. They are not H3 outputs. Follow the linked recipe and brief; a single image does not satisfy the free tool’s two-frame input requirement.
+
+## Flyne AI 新增参考图 / New illustrations
+
+### FY-001
+
+[![FY-001](../assets/flyne/fy-001-lamp.png)](../prompts/flyne/fy-001.md)
+
+构图参考；原配方为纯文字，不必上传此图。图中笔记本是合上的；需要页面被照亮时应在实际生成中检查。 / Composition reference only; the recipe needs no image. The notebook is closed in this illustration; check the illuminated page in actual generation.
+
+### FY-002
+
+[![FY-002](../assets/flyne/fy-002-bag.png)](../prompts/flyne/fy-002.md)
+
+可作为 Image 1 的虚构包款参考；仍需自备蓝色与赭色色卡。不是完整输入包，也不是生成视频。 / Fictional bag identity reference for Image 1; supply separate approved blue and ochre swatches. Not a complete input pack or a generated video.
+
+### FY-009
+
+[![FY-009](../assets/flyne/fy-009-backdrop.png)](../prompts/flyne/fy-009.md)
+
+仅展示留白构图；原配方为纯文字，不必上传。字幕需后期添加；实际可读性仍需检查。 / Composition reference only; no upload required. Add captions in editing and check readability.
+
+[完整图片提示词与来源 / Image prompts](../assets/flyne-reference-briefs.md)
+
+## Flaq AI 引入参考图 / Attributed stills
 
 ## midnight-observatory-tea
 

@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/10-fantasy-scifi-vfx.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/10-fantasy-scifi-vfx.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Fantasy, Sci-fi and VFX Video Prompts
 
 Original MiniMax H3 prompts for controlled transformations, speculative worlds, practical visual-effects logic, and original genre imagery.
 
 ## VFX-001 Glasshouse Grows a Night Sky
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A poetic VFX film where a familiar room transforms through one consistent physical rule.
 
@@ -24,6 +26,8 @@ Sound intent: glass ticks, leaves, low airy resonance, no voice. Keep the transf
 
 ## VFX-002 Miniature Rain Collector City
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A sustainable-world concept film showing an understandable system at miniature scale.
 
 **Mode:** City model image + mechanism diagram + rain audio  
@@ -41,6 +45,8 @@ Use real surface tension, scale-appropriate droplets, wood darkening, and cerami
 **Review:** System mapping, scale cues, water direction, reservoir level, and no unsupported sustainability claim.
 
 ## VFX-003 Constellation Dress Performance
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A high-fashion fantasy piece with precise material transformation and performer continuity.
 

@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/07-cinematic-storytelling.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/07-cinematic-storytelling.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Cinematic Storytelling Video Prompts
 
 Original MiniMax H3 prompts for compact narrative arcs, character performance, relationship tension, mystery, and emotional continuity.
 
 ## CIN-001 The Unsent Library Letter
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A quiet relationship scene told through objects, eye lines, and one decision.
 
@@ -24,6 +26,8 @@ Use winter window light, quiet dust, minimal camera drift, natural breathing and
 
 ## CIN-002 Last Train Platform Farewell
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A compact emotional scene with strong screen direction and environmental timing.
 
 **Mode:** Character references + station image + train motion reference  
@@ -41,6 +45,8 @@ Sound intent: rain, electrical hum, door warning, rail movement, no dialogue or 
 **Review:** 180-degree continuity, train/door physics, reflective light, prop persistence, and emotional restraint.
 
 ## CIN-003 Rooftop Weather Signal Mystery
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A mystery teaser driven by practical clues rather than exposition.
 

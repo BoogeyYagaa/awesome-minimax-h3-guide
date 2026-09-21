@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/11-ui-game-digital.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/11-ui-game-digital.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # UI, Game and Digital Experience Video Prompts
 
 Original MiniMax H3 prompts for interface motion, product demonstrations, game UI, and screen-focused video with functional hierarchy.
 
 ## DIG-001 Focus Timer Product Walkthrough
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A clean landing-page motion demo of a productivity feature with realistic states.
 
@@ -24,6 +26,8 @@ Use crisp UI, no perspective distortion during interaction, and subtle screen re
 
 ## DIG-002 Electric Bicycle Dashboard Modes
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** Demonstrating a physical control and a screen response without unsafe riding.
 
 **Mode:** Dashboard image + handlebar image + state diagram  
@@ -41,6 +45,8 @@ Preserve button count, screen geometry, supplied labels, and one-to-one input re
 **Review:** Button-state mapping, label accuracy, hardware geometry, accessibility contrast, and safe stationary context.
 
 ## DIG-003 Tactical Garden Game Inventory
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A stylized game UI reveal that remains readable and mechanically coherent.
 

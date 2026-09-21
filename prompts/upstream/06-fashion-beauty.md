@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/06-fashion-beauty.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/06-fashion-beauty.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Fashion and Beauty Video Prompts
 
 Original MiniMax H3 prompts for editorial motion, product-focused beauty films, wardrobe continuity, and tasteful transformations.
 
 ## FSH-001 Wind-Study Eyewear Editorial
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A controlled fashion film that keeps eyewear geometry and model identity stable.
 
@@ -24,6 +26,8 @@ Use one large soft key, thin rim, natural pores, and honest lens reflections. No
 
 ## FSH-002 Mineral Lip Color Texture Study
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A beauty macro that emphasizes truthful material and restrained application.
 
 **Mode:** Product image + texture swatch + adult model reference  
@@ -41,6 +45,8 @@ Neutral daylight, true skin texture, accurate color management. Sound intent: me
 **Review:** Shade consistency, model identity, application anatomy, product mechanism, and no retouching distortion.
 
 ## FSH-003 Four-Look Textile Transition
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A fashion transformation where the transition is driven by material, not a copied social effect.
 

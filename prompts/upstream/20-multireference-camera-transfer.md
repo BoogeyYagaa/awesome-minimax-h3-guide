@@ -1,10 +1,16 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/20-multireference-camera-transfer.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/20-multireference-camera-transfer.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Multi-Reference and Camera-Transfer Video Prompts
 
 Original MiniMax H3 prompts for long takes, camera-grammar transfer, multi-image match actions, and reference-led tutorials. Each input receives one narrow role so that style, identity, motion, product, and factual instructions do not compete.
 
 ## MRF-001 Three-Biome Museum Rail in One Take
+
+![MRF-001 reference still](../../assets/gallery/three-biome-museum-rail.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 
 **Use it for:** A continuous macro journey through a handcrafted exhibition while keeping scale, route, and material transitions legible.
@@ -25,6 +31,12 @@ No cuts, teleports, speed ramps, hidden resets, or changes of scale. Sound inten
 
 ## MRF-002 Radial Cork Speaker: Transfer Motion Grammar, Not Content
 
+![MRF-002 reference still](../../assets/gallery/radial-cork-speaker.webp)
+
+<sub>Flaq AI · MIT · 参考图，不是 H3 视频结果 / Reference still, not H3 output. [Source / 来源](../../THIRD_PARTY_NOTICES.md).</sub>
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 
 **Use it for:** Reusing the pacing and camera grammar of a rights-cleared reference clip while building a wholly new product film.
 
@@ -44,6 +56,8 @@ Preserve the exact silhouette, circular grille, cork panels, seam placement, amb
 
 ## MRF-003 Four Workshops, One Copper Thread
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A multi-image craft film that connects independent makers through one continuous match action rather than a copied montage.
 
 **Mode:** Four location/hand references + one material reference + optional original music  
@@ -61,6 +75,8 @@ Keep screen direction, thread thickness, hand ownership, tool count, and step or
 **Review:** Reference ownership, match-action positions, screen direction, material change boundary, safe final interaction, and no false production claim.
 
 ## MRF-004 Field Water-Filter Setup from Verified References
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** Turning approved product and procedure references into a concise tutorial without inventing parts, steps, or purification claims.
 

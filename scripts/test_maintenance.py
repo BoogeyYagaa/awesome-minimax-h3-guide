@@ -2,7 +2,7 @@
 import unittest
 from unittest.mock import patch
 import build
-from catalog import collect
+from catalog import collect, category_navigation
 from check_external_links import check, classify, targets
 
 
@@ -16,6 +16,20 @@ class MaintenanceTests(unittest.TestCase):
         self.assertIn('17', result['README_ja.md'])
         self.assertIn('101 recipes', result['prompts/README.md'])
         self.assertNotIn('{{', ''.join(result.values()))
+
+    def test_category_counts_cover_all_imports(self):
+        records = collect()
+        rows = category_navigation(records)
+        counts = [int(row.split('|')[-2]) for row in rows if row.startswith('| [') and '../prompts/upstream/' in row]
+        self.assertEqual(len(counts), 24)
+        self.assertEqual(sum(counts), 84)
+
+    def test_reference_roles_are_not_confused_with_endpoint_frames(self):
+        rows = {r['id']: r for r in collect()}
+        self.assertEqual(rows['FY-001']['usage']['route'], 'free-text')
+        self.assertEqual(rows['FY-004']['usage']['route'], 'free-frames')
+        self.assertEqual(rows['FY-002']['usage']['route'], 'confirm-route')
+        self.assertEqual(rows['FY-009']['usage']['route'], 'adapt-duration')
 
     def test_featured_media_comes_from_records(self):
         entry = dict(id='TEST', title='Example', title_zh='示例', author='creator',

@@ -8,264 +8,288 @@
       "source_path": "prompts/01-brand-advertising.md",
       "local_path": "prompts/upstream/01-brand-advertising.md",
       "source_sha256": "392f5d48bb52d76c6a8e713b37b2836ee80df285bddb91f027b1b5a3492307c0",
-      "local_sha256": "ad0f1cb534a4049f433af18c6bab4d37bef07188c467bc02fb7923a679d56f59",
+      "local_sha256": "bad0c941410cf43a97ce375829b7a81f49f688e9fd490909814fa7ccf7094086",
       "prompt_blocks_sha256": "94c4f8f442220ed1cb02c8531ff03d5e76cbb6e15ea5ccea1d30125d9a9ba14f",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/02-product-ecommerce.md",
       "local_path": "prompts/upstream/02-product-ecommerce.md",
       "source_sha256": "2b640d397280a07dfc0ccfc3a0580667b11db60b4cb080a61f12e33fe8cbeb28",
-      "local_sha256": "6327ecc813be73f56cf65bac15ef6db904c385d56b15e5375ba33cdf3d08717e",
+      "local_sha256": "b850405e476d718c1650a4c7555d8961723a911bb5e56e0af88b8fa32800e45e",
       "prompt_blocks_sha256": "616d8c8f21614e7f9f81e73401b8e66e36ed7e3fbb7b6ba10d188439a7dac1de",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/03-ugc-lifestyle.md",
       "local_path": "prompts/upstream/03-ugc-lifestyle.md",
       "source_sha256": "a7b1954ffc5e7c88d715e1d2d8bb3ae1e7c770fe71d19e4fa82d4b342a1c8d90",
-      "local_sha256": "d5f19156e56014b30df6ebc1af7a03cb2e471a9f5682215ca837fccf0da42301",
+      "local_sha256": "1a50f7f8526afc332a755550a9ec4e0cb148fc5021096e09a27519f0f100e7e5",
       "prompt_blocks_sha256": "8050ccab37ac5f6cfaa07a106f54587296815741fbc5cb347d760610710e914a",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/04-travel-hospitality.md",
       "local_path": "prompts/upstream/04-travel-hospitality.md",
       "source_sha256": "db9e3ffe7f5d8c3cd9ba6d6681d143fe519f321bb469a51f3dd579a4d968b398",
-      "local_sha256": "8e888facfa526b60787d7dba3cf9dc60962c9ab9a9f967a7f10a27b554e16c92",
+      "local_sha256": "0abea77a4a7e7fc57be8ae2e74f06ce9a28a4d08794285d455e9ad24550ad385",
       "prompt_blocks_sha256": "9ca2e7bc5b58711b419576b23996d24f8190355af14dc279a98a9dca1f620553",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/05-food-beverage.md",
       "local_path": "prompts/upstream/05-food-beverage.md",
       "source_sha256": "f6ad2baff2392be450cc2f2262bbb9565e7bd1cbcc802bd20e7b87bd203de423",
-      "local_sha256": "c926b992ad54f9c9adb18df8c61a4e9f441b3ba932777600ac53e5ae9e9cf8d6",
+      "local_sha256": "3d4622ffcf9415e00a42ed621eaafaff9604a585675fdd5bf0ae74a65cdf063c",
       "prompt_blocks_sha256": "c3b06a81736216f97ca6588f0993bc3b37bcc3070bad5ac4743d7bc61964b2dd",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/06-fashion-beauty.md",
       "local_path": "prompts/upstream/06-fashion-beauty.md",
       "source_sha256": "587b8fbfe8b7ab39e2f532bd38202a32d1e7e5aa8ec686f5aaa15090efc71c37",
-      "local_sha256": "4612a9a32eababd9b2c7b87fdf75b8b8974310c2814cccaa2a285927111af15d",
+      "local_sha256": "e41af6620441141464d4b246c2650c433b63851cc81956c42d059edec42261b3",
       "prompt_blocks_sha256": "b2af12af5ae5010c0a66b0ddcef8b91335c3a26b949742d30e732ab44690c2e1",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/07-cinematic-storytelling.md",
       "local_path": "prompts/upstream/07-cinematic-storytelling.md",
       "source_sha256": "6573829f273c267a326161d6aa40b0080f99169e1c0ab67297d5d9d8481b1d82",
-      "local_sha256": "10000da1b359fbf714893185a7c254334b0d08c740ad8561dba86bf024c78429",
+      "local_sha256": "d323ee951e77e6b5696728d739d390b8ef2df047ebb29f83ed62f7eda515799b",
       "prompt_blocks_sha256": "500a6f840063865fcd5aa682f5a18f59b7eaa43782b6cba25ff28b956455da0a",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/08-animation-stylized.md",
       "local_path": "prompts/upstream/08-animation-stylized.md",
       "source_sha256": "25acd8564acba2f99c79c087ffcd132213660f99e2e066a643962da7f3ce1711",
-      "local_sha256": "c7305f77737c5975e1af5afbf9a87ef74aae0a4014ca65ed7e916f8250137ab7",
+      "local_sha256": "613b93cb6762fab619c92bb45ec735d06fdf14e5b7a1128e2169ae3b6c59fe8c",
       "prompt_blocks_sha256": "45a86dd52a10be39dfafc265949ff05c20e514b0d6f4faa542b4bec9562e1232",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/09-action-sports.md",
       "local_path": "prompts/upstream/09-action-sports.md",
       "source_sha256": "f957d274671b32db00942d0f69c5444140cb1f8977c56de291f0a72fe8078ba7",
-      "local_sha256": "24192d6993bacb5492f0970558e2cfabb2d8e139190fdf6cd068614a6006067a",
+      "local_sha256": "2656cb5219e8bc08f83493666c5a54bb6e6ddd7a91ee4dbb446ac9e9ae006122",
       "prompt_blocks_sha256": "e58f49141357d899145ee746e40f4f48b6261f64072fb6389e66c30d3bff4fe3",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/10-fantasy-scifi-vfx.md",
       "local_path": "prompts/upstream/10-fantasy-scifi-vfx.md",
       "source_sha256": "5cbf38e037a68d25fcb9cef0a36afad30f9c2b37126947243bed0504226f05b9",
-      "local_sha256": "2f0e026da04d015fc7f73f7b365070305b876439c0c49e092f301418f53aaf8a",
+      "local_sha256": "ed02e6ecf913ea06bf9ba8aed1ab96bca31f6426e1d26966d983a24244b535a5",
       "prompt_blocks_sha256": "9a471c1c5e787afbd84e24721c2300b91e24c306b510b1ced5cb1d98bd55ead5",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/11-ui-game-digital.md",
       "local_path": "prompts/upstream/11-ui-game-digital.md",
       "source_sha256": "964f8957c712556033427d2c4decfa37041a5956d46e29f5155a7aaf4dff5f54",
-      "local_sha256": "dacc1b1d2ac16b2ce62abb69ab4c1401a3e2daff31011c9175b83af36fd2a9f5",
+      "local_sha256": "035f2f24a93991a124114bd02942a2fb4897f9d16b3c64288eb8b6e44d78b926",
       "prompt_blocks_sha256": "1864f3aa67babf4ffae4c888fad5649af8524afa2188544b70374452e841f3c2",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/12-transitions-comedy-social.md",
       "local_path": "prompts/upstream/12-transitions-comedy-social.md",
       "source_sha256": "40824f9d5165381f556bbafcf3358897e28b926d8d79490ecea23c2919248512",
-      "local_sha256": "0e8bd3f6dbeef4299a6ee27906bcbc25fbaeee8d7a13be59e188a0074a2396da",
+      "local_sha256": "0c9a833be773c4528f43346ce265775650404ddd0ed12f3bffe3d5eb7ccd74e9",
       "prompt_blocks_sha256": "3fe4b8a2dbd0bbaf1ab34e03b54cba926b3dc26ab7b6dc5aa757eafec2a37cf7",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/13-music-performance-audio.md",
       "local_path": "prompts/upstream/13-music-performance-audio.md",
       "source_sha256": "8a578ead8f09eebf48dbee77980b8b290eed284a3e8a6937760fa26bc1309eb2",
-      "local_sha256": "26401e6be83c99dd9d3029cf0d110a6e329208e58ffc1a8ab23ceaafe3ea86d7",
+      "local_sha256": "1651ba7913ede5be37f72691fe2ac79742afe695dfbfc60e0e6c604b125958a2",
       "prompt_blocks_sha256": "b2eede76662f8312131e40bb9a645abdf5aaaf465c0f6cc30e5f11b3f825b84d",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/14-education-documentary-science.md",
       "local_path": "prompts/upstream/14-education-documentary-science.md",
       "source_sha256": "76f661e17f800a1079cec5157621297c6e8d7633c144319ec8c8e2c56a80957d",
-      "local_sha256": "82906d5747aec56c736ee9597ffaa6569bb841071d57b5456ac02661e35a7452",
+      "local_sha256": "f83f677106599694703dbc15f63e763c8c8844968f481c03bb3602e5955139c6",
       "prompt_blocks_sha256": "71f6eb4524e88e2168f6417c75ddccf068de1a2149f64b11e7444b5faac10db9",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/15-architecture-interiors-real-estate.md",
       "local_path": "prompts/upstream/15-architecture-interiors-real-estate.md",
       "source_sha256": "8e563448f449014946c5c3e94317685e1759d4002821543daaba638e9251b99a",
-      "local_sha256": "0ca898bd4472e52acf66e672d3fdcb0b8aa693d83a80e784f1ca3ecd5898449f",
+      "local_sha256": "a83fb4b4d8b89469954aaea4d4eb089a41fbffd5664ca28f983abe901d2d0671",
       "prompt_blocks_sha256": "86770f014d49353f4eec31154e0f59b0d78e5f57be7c5d2f8c0d8a6bafbcf885",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/16-automotive-mobility.md",
       "local_path": "prompts/upstream/16-automotive-mobility.md",
       "source_sha256": "d377d47b5d571947848386ea065c0c19f6520bee0d4e179f94fa2ebac2575c09",
-      "local_sha256": "18c79021c34b0ea495e774975e15f28c65b10d8e9991ca64c60a213ef9f9c1f5",
+      "local_sha256": "0da962fd04d2ed3c4401591dd17403977aceb790859aae72f6f0098cb7101315",
       "prompt_blocks_sha256": "ede1223b1ba43acd38c06851167474c52f7729734adfe5bbdd4f320ef7ce45fe",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/17-nature-animals-pets.md",
       "local_path": "prompts/upstream/17-nature-animals-pets.md",
       "source_sha256": "b3a64c25430b7ab77b2ca0427cf690a5dd0e3e2c134d76c0e8f802fa4aa3a5b5",
-      "local_sha256": "d0e2effc1850c3111900df2b6bde32d32cc552b2d6bff37509027d833f3e0b6b",
+      "local_sha256": "7731ff9dc9f89e65c7c0bce3b06f7a467ec356617ca3ed84a622532d5c9fb53f",
       "prompt_blocks_sha256": "a7797f4630a391f5b9599a099dc7f8693d7c250d092d66f7fece2256652f4b27",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/18-industry-business-public-service.md",
       "local_path": "prompts/upstream/18-industry-business-public-service.md",
       "source_sha256": "758f2821b341af0dbd3224b345a5a5afb08bde0ec9355dee678257ee9545b106",
-      "local_sha256": "d13ffacd1e99c37287c0dfb117b2883ed9b5ac24785a5544c5df157e2f56b2ec",
+      "local_sha256": "74371540cc50111cf681f8579ec125c0a31cb96268007c62e009205fadd43c6e",
       "prompt_blocks_sha256": "5c42d4c84a5ca3018be2c516e2abc1ed873311c6482b72e6c63086d0f3e49109",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/19-editing-continuation-localization.md",
       "local_path": "prompts/upstream/19-editing-continuation-localization.md",
       "source_sha256": "79884d488ca2330dfee159e1ecce8f8507b80e829cb6aa63bcd64340eff9062e",
-      "local_sha256": "5077a52d9fb5112abca2faac4d0fcbaa474c60ecb10f6399ac1ad232b0f31b1f",
+      "local_sha256": "274fe832d6b50c87abb655b101e0c23e7b0db50da2c7659b48eff1481d6f8a2f",
       "prompt_blocks_sha256": "8be7cbb20cc2eebbddb9d7dc1402e76d089244b03168cf2460c45aadc7da7e14",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/20-multireference-camera-transfer.md",
       "local_path": "prompts/upstream/20-multireference-camera-transfer.md",
       "source_sha256": "5d0627477085fbd0d5a35b35fcb9d415f78fdea56b0863ac100f3380733a51f4",
-      "local_sha256": "9cea19c3561e027871f09239c3c88a30d0db26e3731466db3baf530058ea5037",
+      "local_sha256": "e7b8e5a9f64b1fed9101c6f8a09ea8e805ca5649296fe2d92968cafa03778ed0",
       "prompt_blocks_sha256": "714b3268b1933ffc6fccb82f43eed55a3bc80e3fdcdebfbae578cc85de462191",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/21-character-dialogue-performance.md",
       "local_path": "prompts/upstream/21-character-dialogue-performance.md",
       "source_sha256": "af08758ee24989a5ba66ba6c45df28f4255c8ce4d7cb9043ae0f0bd6b56b2523",
-      "local_sha256": "f130db6e66e83c670c51a933755ce973fc95c9b955362f852682f4f181b4dd5d",
+      "local_sha256": "4a703f38ee580c0f6de61c65ecdbf69b40c454df6c1b9a3092aa184a84f8f92f",
       "prompt_blocks_sha256": "e385171f20e0fb4abec11bd66b74b5414905ced5a4d79cc50a93bdda79b7278b",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/22-motion-graphics-dynamic-posters.md",
       "local_path": "prompts/upstream/22-motion-graphics-dynamic-posters.md",
       "source_sha256": "04dae249419ecc2fd8d16affaa0df9bdf897a4c54484298d755bb36479406fce",
-      "local_sha256": "2e45d0d9bbd741c5a9d783e24d81e0a9446fa7cffce494687699ac2db8c6cee5",
+      "local_sha256": "ab4126147adec6005d23173da1ed188b0f9e21ac96f821cbd49c572408c9816f",
       "prompt_blocks_sha256": "099c30de79e2c25af65179610486a31398da6d018fcc52cea27a26dcc6746f5a",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/23-surreal-physics-optical-illusions.md",
       "local_path": "prompts/upstream/23-surreal-physics-optical-illusions.md",
       "source_sha256": "f639ce4809de36c9f12e6ab7a1e82eec5f4b7b38ab1c04afc5eed328538f79e3",
-      "local_sha256": "4234e0bf2f62bf08fa9265166a5edb0680ca9563cab47a6d409a833fcd076ffe",
+      "local_sha256": "af06c5fba99a43d0b4c6de0467154131e4b1def56ae0996224998130d86dd977",
       "prompt_blocks_sha256": "e6798d765817ebe761331b00b73975a011e2aab24f2aeca8d6e674d197c6fa1a",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     },
     {
       "source_path": "prompts/24-vertical-series-live-creator.md",
       "local_path": "prompts/upstream/24-vertical-series-live-creator.md",
       "source_sha256": "7d56704514dd37ec7a0e4069b94eb54f331237365fe5fc6b547e547e5a842d61",
-      "local_sha256": "76a7065df9a1c067cad9e8d444c4b225ac3ee80bd6e8d176bc5c99199836070f",
+      "local_sha256": "e89a52c1407a0caa2a671383c90500228a9995ad236426e4b8bbadd94e8f458e",
       "prompt_blocks_sha256": "4091451f487bbb2a2bcd1dcc870d6bde421357031b6eb1c8524cc393c92a1d41",
       "changes": [
         "Added attribution and untested status",
-        "Removed upstream preview image embeds; prompt blocks unchanged"
+        "Removed upstream preview image embeds; prompt blocks unchanged",
+        "2026-09-21: added separate usage conditions and linked attributed reference stills where mapped; original prompt blocks unchanged"
       ]
     }
   ]

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-21 — recipe navigation and reference visuals
+
+- Reconnected eleven attributed stills to their matching imported recipes. Added usage notes and updated local-file hashes while preserving original prompt-block hashes.
+- Added a counted category navigator and per-recipe input, target and route metadata; multi-reference recipes are not presented as ready for the free endpoint-frame tool.
+- Added three built-in-image-generated Flyne reference illustrations with exact prompts, hashes and material limitations; these are not H3 outputs.
+- Added three official animated previews to the English and Chinese homepages and guided prompt/documentation issue forms.
+- Left the GitHub repository description unchanged as requested.
+
 ## 2026-09-21 — localization and maintenance
 
 - Added native-language exercise steps, queue guidance and search instructions to Japanese, Korean, Spanish, French, German and Portuguese entry pages.

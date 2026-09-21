@@ -1,10 +1,12 @@
-> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/02-product-ecommerce.md). Prompt text is preserved; upstream preview images are omitted. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
+> Imported from Flaq AI under MIT at [`50ed3180e9de`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/50ed3180e9dec67741cde154ae7995a49c2bc8a1/prompts/02-product-ecommerce.md). Prompt text is preserved; reference previews and usage notes are added separately; original prompt blocks are unchanged. Original authorship remains with Flaq AI. See [attribution](../../THIRD_PARTY_NOTICES.md). Not independently tested by Flyne AI.
 
 # Product and E-commerce Video Prompts
 
 Original MiniMax H3 prompts for truthful feature demonstrations, marketplace clips, material studies, and conversion-oriented product video.
 
 ## PRD-001 Modular Hiking Lantern Feature Demo
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** Showing three real product functions without changing the product design.
 
@@ -24,6 +26,8 @@ Use real weight, hinge resistance, contact shadows, metal highlights, and warm l
 
 ## PRD-002 Ceramic Diffuser Material Film
 
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
+
 **Use it for:** A sensory e-commerce video focused on surface, vapor, and quiet motion.
 
 **Mode:** Product image + material macro image  
@@ -41,6 +45,8 @@ Palette: chalk, oat, walnut, soft gray. Sound intent: quiet button click, nearly
 **Review:** Ceramic texture, subtle vapor physics, control placement, product silhouette, and restrained styling.
 
 ## PRD-003 Marketplace Rotation Without Geometry Drift
+
+**Use conditions / 使用条件:** Confirm a compatible route / 需先确认平台支持。Prepare the listed references and verify duration and input roles; do not treat multiple references as a first/last-frame pair. This is not ready to paste unchanged into the free tool. [Guide / 说明](../../docs/recipe-usage.md).
 
 **Use it for:** A concise marketplace listing clip that reveals all sides of a reusable bottle.
 

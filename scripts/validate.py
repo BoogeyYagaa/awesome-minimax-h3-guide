@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 from urllib.parse import unquote
 from catalog import ROOT, collect, render
+from community import render as render_community
 
 
 def require(condition, message):
@@ -44,8 +45,20 @@ def main():
         prompts = '\n'.join(re.findall(r'```text\n(.*?)```', path.read_text(), re.S))
         require(hashlib.sha256(prompts.encode()).hexdigest() == entry['prompt_blocks_sha256'], f'Original prompts changed: {path}')
     require('Copyright (c) 2026 Flaq AI' in (ROOT / 'licenses/Flaq-AI-MIT.txt').read_text(), 'Missing upstream copyright')
+    community = json.loads((ROOT / 'data/community-sources.json').read_text())['entries']
+    require(len({e['id'] for e in community}) == len(community), 'Duplicate community IDs')
+    require(len({e['source_url'].split('/')[-1] for e in community}) == len(community), 'Duplicate X posts')
+    require((ROOT / 'docs/x-community-showcase.md').read_text() == render_community(community), 'Run community.py')
+    for e in community:
+        require(re.fullmatch(r'https://x.com/\w+/status/\d+', e['source_url']), 'Invalid X source')
+        require(e['video_url'].startswith('https://video.twimg.com/'), 'Missing original video')
+        require(e['thumbnail_url'].startswith('https://pbs.twimg.com/'), 'Missing original thumbnail')
+        require(len(e['prompt_excerpt'].split()) <= 25, 'Prompt excerpt exceeds 25 words')
+        require(all(e.get(k) for k in ['author', 'checked_at', 'rights', 'verification', 'prompt_status', 'lesson_zh']), 'Missing provenance')
     for suffix in ['', '_zh', '_ja', '_ko', '_es', '_fr', '_de', '_pt']:
         require((ROOT / f'README{suffix}.md').exists(), f'Missing language {suffix}')
+        readme = (ROOT / f'README{suffix}.md').read_text()
+        require(all(url in readme for url in ['https://flyne.ai/model/minimax-h3/', 'https://flyne.ai/free-minimax-h3/', 'docs/x-community-showcase.md', 'assets/flyne-h3-cover.png']), f'Missing Flyne entry or gallery in {suffix}')
     checked = 0
     for path in ROOT.rglob('*.md'):
         if '.git' in path.parts:
@@ -62,6 +75,7 @@ def main():
                 require(fragment in anchors(dest), f'Broken anchor in {path.relative_to(ROOT)}: {target}')
             checked += 1
     print(f'PASS: 100 recipes, 24 attributed imports, 8 languages, {checked} local links')
+    print(f'PASS: {len(community)} unique attributed community videos and current gallery')
     print('External URLs and model inference are not checked by this offline validator.')
 
 

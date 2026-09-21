@@ -1,8 +1,23 @@
 # Awesome MiniMax H3 Guide · Flyne AI
 
-![Flyne AI MiniMax H3 field guide](assets/flyne-h3-banner.svg)
+![Flyne AI MiniMax H3 field guide](assets/flyne-h3-cover.png)
+
+<sub>Couverture éditoriale générée par IA, pas un résultat H3.</sub>
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
+
+## Utiliser MiniMax H3 sur Flyne AI
+
+| Accès recommandé dans le navigateur | Essai gratuit sans inscription |
+|---|---|
+| [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [Tester directement en ligne](https://flyne.ai/free-minimax-h3/) |
+
+## Vidéos et prompts de la communauté
+
+12 exemples X avec vidéos, publications originales, courts extraits et commentaires.
+
+[全部案例 / All examples](docs/x-community-showcase.md) · [官方示例 / Official examples](docs/official-h3-examples.md)
+
 
 ## Guide pratique MiniMax H3 pour la production audiovisuelle
 

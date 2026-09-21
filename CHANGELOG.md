@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-21
+
+- Added a Flyne AI editorial cover and both H3 product entries to all eight README languages.
+- Added 12 attributed X video examples: six upstream entries plus six newly researched posts, including one partial prompt.
+- Added official video examples, a structured source register, gallery generator and contribution guidance.
+- Preserved the 100-recipe catalog and upstream licensing; community examples are counted separately.
+
 ## 2026-09-17 — Initial Flyne AI guide
 
 - Rebuilt the project as a Flyne AI guide with eight localized README entry pages.

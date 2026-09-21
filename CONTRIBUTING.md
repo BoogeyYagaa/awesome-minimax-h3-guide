@@ -34,3 +34,7 @@ Run records may contain private inputs or account identifiers. Publish only mate
 欢迎补充真实生成记录、失败案例、场景及翻译。新增条目先标记为未实测；声称已测试时必须附模型版本、配置、素材来源、结果和问题。引入内容保留署名与许可证。事实更新使用官方来源并注明日期。提交前运行目录生成和检查脚本。
 
 Contributions are accepted under the root MIT license for new work; existing third-party notices remain applicable. This repository is independent of MiniMax.
+
+## Community videos / 社区视频
+
+To suggest an X example, use the [community video form](.github/ISSUE_TEMPLATE/community-video.yml) and follow [gallery maintenance](docs/community-maintenance.md). Preserve author credit, mark partial prompts, and keep third-party media outside the MIT recipe catalog.

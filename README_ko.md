@@ -1,8 +1,23 @@
 # Awesome MiniMax H3 Guide · Flyne AI
 
-![Flyne AI MiniMax H3 field guide](assets/flyne-h3-banner.svg)
+![Flyne AI MiniMax H3 field guide](assets/flyne-h3-cover.png)
+
+<sub>표지는 AI로 만든 소개 이미지이며 H3 출력이 아닙니다.</sub>
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
+
+## Flyne AI에서 MiniMax H3 사용
+
+| 추천 온라인 이용 경로 | 가입 없이 무료 체험 |
+|---|---|
+| [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [온라인에서 바로 시험하기](https://flyne.ai/free-minimax-h3/) |
+
+## 영상과 프롬프트 보기
+
+X 사례 12개: 영상, 원문, 짧은 발췌와 해설.
+
+[全部案例 / All examples](docs/x-community-showcase.md) · [官方示例 / Official examples](docs/official-h3-examples.md)
+
 
 ## 실제 영상 제작을 위한 MiniMax H3 가이드
 

@@ -1,6 +1,8 @@
 # Awesome MiniMax H3 Guide · Flyne AI
 
-![Flyne AI MiniMax H3 field guide](assets/flyne-h3-banner.svg)
+![Flyne AI MiniMax H3 field guide](assets/flyne-h3-cover.png)
+
+<sub>封面为 AI 生成的展示配图，不是 H3 生成结果。</sub>
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
 
@@ -9,6 +11,31 @@
 **84 条为注明来源的 MIT 授权引入内容，16 条为 Flyne AI 新增方案。** 本项目为独立社区资源，所有提示词均尚未由本项目独立实测，不宣称已获得对应视频效果或性能成绩。
 
 [浏览全部 100 条](prompts/README.md) · [在 Flyne AI 使用 H3](https://flyne.ai/model/minimax-h3/) · [H3 与 H3 Max 区别](docs/model-guide.md) · [来源清单](docs/sources.md)
+
+## 在 Flyne AI 使用 MiniMax H3
+
+| 推荐的在线使用入口 | 免注册免费体验 |
+|---|---|
+| [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [直接在线尝试 MiniMax H3](https://flyne.ai/free-minimax-h3/) |
+
+## 看视频，学提示词
+
+12 条 X 社区案例，包含视频预览、作者原帖、提示词短节选与解读。下方展示此次新增的 6 条。
+
+[全部案例 / All examples](docs/x-community-showcase.md) · [官方示例 / Official examples](docs/official-h3-examples.md)
+
+| 踩点西部动画片头 | 赛博杂志风音乐短片 | 曼谷街头美食短片 |
+|---|---|---|
+| [![Beat-synced western title sequence — @doctorwasif](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | [![Cyber-grunge music-video texture — @Just_sharon7](https://pbs.twimg.com/amplify_video_thumb/2082710677236703232/img/vrShOLVqmbVPIngR.jpg)](https://x.com/Just_sharon7/status/2082711476347998615/video/1) | [![Bangkok street-food travel vlog — @nawalsehar](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
+| [@doctorwasif · 原帖与提示词](https://x.com/doctorwasif/status/2085599659326935100) · [MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) | [@Just_sharon7 · 原帖与提示词](https://x.com/Just_sharon7/status/2082711476347998615) · [MP4](https://video.twimg.com/amplify_video/2082710677236703232/vid/avc1/2560x1440/yMtktSF0xjjMkSvB.mp4?tag=29) | [@nawalsehar · 原帖与提示词](https://x.com/nawalsehar/status/2085233880353915217) · [MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) |
+
+| 参考图引导航拍路线 | 镜前护肤演示 | 海边晨间短片：延后自拍开场 |
+|---|---|---|
+| [![Reference-guided Barcelona drone route — @Diplomeme](https://pbs.twimg.com/amplify_video_thumb/2083056439854309376/img/DFzzmaMiGh2jLSVR.jpg)](https://x.com/Diplomeme/status/2083056488122380671/video/1) | [![Mirror-side skincare demonstration — @ZaraIrahh](https://pbs.twimg.com/amplify_video_thumb/2083010639748882432/img/l0l1V9NgcetYyhCQ.jpg)](https://x.com/ZaraIrahh/status/2083011066800242986/video/1) | [![Seaside morning with a delayed selfie reveal — @ayzalnooor24521](https://pbs.twimg.com/amplify_video_thumb/2086670800896266240/img/4IImBjQW816qaJPZ.jpg)](https://x.com/ayzalnooor24521/status/2086671141998059973/video/1) |
+| [@Diplomeme · 原帖与提示词](https://x.com/Diplomeme/status/2083056488122380671) · [MP4](https://video.twimg.com/amplify_video/2083056439854309376/vid/avc1/1078x1288/s-5o20hibEjMgXgq.mp4?tag=29) | [@ZaraIrahh · 原帖与提示词](https://x.com/ZaraIrahh/status/2083011066800242986) · [MP4](https://video.twimg.com/amplify_video/2083010639748882432/vid/avc1/2560x1440/aZjO-LgvvLJfiCUF.mp4?tag=29) | [@ayzalnooor24521 · 原帖与提示词](https://x.com/ayzalnooor24521/status/2086671141998059973) · [MP4](https://video.twimg.com/amplify_video/2086670800896266240/vid/avc1/1088x720/cuQvyUS43S25Vss3.mp4?tag=29) |
+
+XH3-008 只公开了部分提示词。视频由社区作者发布，未由 Flyne AI 重新生成；外部素材不适用本仓库 MIT 许可。
+
 
 ## 从一条可用镜头开始
 

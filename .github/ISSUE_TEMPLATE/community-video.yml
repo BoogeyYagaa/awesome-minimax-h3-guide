@@ -1,0 +1,33 @@
+name: Community video / 社区视频案例
+description: Suggest an attributed MiniMax H3 video and its available prompt.
+title: "[Video] "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Original X post / X 原帖
+      description: Include the original author post, not an index page.
+    validations:
+      required: true
+  - type: dropdown
+    id: prompt
+    attributes:
+      label: Prompt availability / 提示词公开情况
+      options:
+        - Full text in author post / 原帖有完整文字
+        - Partial text only / 只有部分文字
+        - No public prompt / 未公开提示词
+    validations:
+      required: true
+  - type: textarea
+    id: lesson
+    attributes:
+      label: Technique and evidence / 方法与核对情况
+      description: Explain the reference inputs, what you checked, and any prompt-output mismatch. Do not paste a full third-party prompt.
+    validations:
+      required: true
+  - type: input
+    id: checked
+    attributes:
+      label: Date checked / 核对日期
+      placeholder: YYYY-MM-DD

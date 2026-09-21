@@ -1,8 +1,23 @@
 # Awesome MiniMax H3 Guide · Flyne AI
 
-![Flyne AI MiniMax H3 field guide](assets/flyne-h3-banner.svg)
+![Flyne AI MiniMax H3 field guide](assets/flyne-h3-cover.png)
+
+<sub>表紙は AI 生成のイメージ画像で、H3 の出力ではありません。</sub>
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
+
+## Flyne AI で MiniMax H3 を使う
+
+| おすすめのブラウザー版 | 登録不要の無料体験 |
+|---|---|
+| [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [オンラインですぐに試す](https://flyne.ai/free-minimax-h3/) |
+
+## 動画とプロンプトを見る
+
+X の作例 12 件。動画、原投稿、短い抜粋と解説を掲載。
+
+[全部案例 / All examples](docs/x-community-showcase.md) · [官方示例 / Official examples](docs/official-h3-examples.md)
+
 
 ## 実用的な動画制作のための MiniMax H3 ガイド
 

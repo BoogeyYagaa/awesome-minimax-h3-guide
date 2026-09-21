@@ -14,13 +14,15 @@ A practical, source-backed library for making useful audiovisual clips with Mini
 
 [Five-second quick start](docs/quick-start.md) · [Reference images](docs/reference-gallery.md) · [Prompting guide](docs/prompting-guide.md) · [12 templates](templates/README.md) · [Deployment](docs/deployment-guide.md) · [Migration audit](docs/migration-audit.md)
 
+[Choose a recipe by deliverable](docs/use-case-matrix.md) · [Prompts in other languages](docs/multilingual-prompting.md) · [API integration](docs/api-workflow.md)
+
 ## Try MiniMax H3 on Flyne AI
 
-| Recommended browser access | Free trial — no sign-up |
+| Recommended browser access | Free browser trial |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [Start with a quick online experiment](https://flyne.ai/free-minimax-h3/) |
 
-The free interface inspected on 2026-09-21 offers **5-second, 480p** clips. Use the [five-second exercises](docs/quick-start.md); the longer X examples may require different settings and inputs.
+The page advertises no-sign-up access. On 2026-09-21 the free interface showed controls for **5-second, 480p** clips. Start with the [five-second exercises](docs/quick-start.md); longer X examples may require other settings and inputs.
 
 ## Start with one usable shot
 
@@ -143,7 +145,7 @@ python3 scripts/validate.py
 
 Search covers 100 recipes plus 12 separate five-second exercises. Use `--origin exercise` to filter exercises and `--show-prompt` to print both languages. Exercises remain untested and are distinct from the creator prompts.
 
-[data/catalog.json](data/catalog.json) is machine-readable. Validation checks counts, unique IDs, local links, language pages and prompt provenance; it does not run a video model. Eight README languages are provided; detailed guides are English with Chinese summaries, and canonical prompts are English.
+[data/catalog.json](data/catalog.json) is machine-readable. Validation checks counts, unique IDs, local links, language pages and prompt provenance; it does not run a video model. Eight README languages are provided; detailed guides are mainly English, with Chinese or multilingual sections in selected guides, and canonical prompts are English.
 
 ## Flyne AI, attribution and contributions
 

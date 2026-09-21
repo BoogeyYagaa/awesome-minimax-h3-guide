@@ -31,7 +31,8 @@
       "source_path": "docs/use-case-matrix.md",
       "local_path": "docs/use-case-matrix.md",
       "source_sha256": "e9f8b812933818d349c87ff755aa833525f6c3fdf11b8f5f576ba4dcc89d243c",
-      "local_sha256": "bf7cf79a9491b551cf4c24ed3b600412edf74733b570d359400c4d4a1166353c"
+      "local_sha256": "46899e13ffa564ae6078f8ad08ec44fdbf5411af2d5ef20bd3a976459b9a9b09",
+      "adaptation_note": "2026-09-21 reader review: clarified imported authorship; recipe mappings unchanged."
     },
     {
       "source_path": "docs/originality-policy.md",

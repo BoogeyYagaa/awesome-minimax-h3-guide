@@ -14,13 +14,15 @@
 
 [5 秒上手教程](docs/quick-start.md) · [参考图目录](docs/reference-gallery.md) · [提示词写法](docs/prompting-guide.md) · [12 种模板](templates/README.md) · [本地部署](docs/deployment-guide.md) · [迁移对照](docs/migration-audit.md)
 
+[按交付目标选配方](docs/use-case-matrix.md) · [多语言提示词示例](docs/multilingual-prompting.md) · [API 接入流程](docs/api-workflow.md)
+
 ## 在 Flyne AI 使用 MiniMax H3
 
-| 推荐的在线使用入口 | 免注册免费体验 |
+| 推荐的在线使用入口 | 免费在线入口 |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [直接在线尝试 MiniMax H3](https://flyne.ai/free-minimax-h3/) |
 
-2026-09-21 核对的免费界面提供 **5 秒、480p** 视频。建议从 [5 秒练习](docs/quick-start.md)开始；X 上的长视频可能使用不同设置与输入。
+页面注明无需注册。2026-09-21 核对的免费界面显示 **5 秒、480p** 选项。建议从[五秒练习](docs/quick-start.md)开始；X 上的长视频可能需要其他设置与输入。
 
 ## 从一条可用镜头开始
 
@@ -143,7 +145,7 @@ python3 scripts/validate.py
 
 搜索覆盖 100 条配方和另列的 12 条五秒练习。`--origin exercise` 只查练习，`--show-prompt` 显示中英文提示词；练习尚未实测，与社区视频的作者原文分开。
 
-[结构化目录](data/catalog.json)可用于后续网站或工具。校验脚本检查数量、唯一 ID、站内链接、8 种语言入口及引入内容一致性，不执行模型推理。README 支持英、中、日、韩、西、法、德、葡；详细指南为英文并附中文说明，提示词正文以英文为准。
+[结构化目录](data/catalog.json)可用于后续网站或工具。校验脚本检查数量、唯一 ID、站内链接、8 种语言入口及引入内容一致性，不执行模型推理。README 支持英、中、日、韩、西、法、德、葡；详细指南主要为英文，部分提供中文或多语言章节，提示词正文以英文为准。
 
 ## Flyne AI、来源与贡献
 

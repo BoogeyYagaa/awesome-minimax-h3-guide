@@ -8,13 +8,15 @@
 
 [5초 시작 안내](docs/quick-start.md) · [참고 이미지](docs/reference-gallery.md) · [프롬프트 작성](docs/prompting-guide.md) · [템플릿 12개](templates/README.md) · [로컬 실행](docs/deployment-guide.md)
 
+[용도별 프롬프트 선택](docs/use-case-matrix.md) · [다국어 프롬프트 예시](docs/multilingual-prompting.md) · [API 연동 절차](docs/api-workflow.md)
+
 ## Flyne AI에서 MiniMax H3 사용
 
-| 추천 온라인 이용 경로 | 가입 없이 무료 체험 |
+| 추천 온라인 이용 경로 | 무료 온라인 체험 |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [온라인에서 바로 시험하기](https://flyne.ai/free-minimax-h3/) |
 
-2026-09-21에 확인한 무료 도구는 **5초·480p** 영상을 제공합니다. [5초 연습](docs/quick-start.md)부터 시작하세요.
+페이지에는 가입이 필요 없다고 안내되어 있습니다. 2026-09-21에 확인한 무료 화면에는 **5초·480p** 설정이 표시되었습니다. [5초 연습](docs/quick-start.md)부터 시작하세요.
 
 ## 5초 연습 시작하기
 
@@ -85,7 +87,7 @@ python3 scripts/validate.py
 
 ## 출처 표시와 참여
 
-기존 84개 프롬프트의 저작권 표시와 MIT 라이선스는 Flaq AI에 귀속됩니다. 단순한 표현 변경을 독창적 제작으로 취급하지 않습니다. 신규 제안은 미검증 상태입니다. README는 8개 언어, 상세 가이드는 영어와 중국어 요약, 프롬프트 본문은 영어입니다. Flyne AI의 요금·입력 모드·접근 조건은 현재 제품 화면을 확인하세요.
+기존 84개 프롬프트의 저작권 표시와 MIT 라이선스는 Flaq AI에 귀속됩니다. 단순한 표현 변경을 독창적 제작으로 취급하지 않습니다. 신규 제안은 미검증 상태입니다. README는 8개 언어, 상세 가이드는 주로 영어이며 일부 문서에는 중국어나 다국어 설명이 포함됩니다. 프롬프트 본문은 영어입니다. Flyne AI의 요금·입력 모드·접근 조건은 현재 제품 화면을 확인하세요.
 
 [제3자 권리 표시](THIRD_PARTY_NOTICES.md) · [기여 안내](CONTRIBUTING.md) · [MIT](LICENSE) · [Flaq AI MIT](licenses/Flaq-AI-MIT.txt)
 

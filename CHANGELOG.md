@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-21 — reader-path review
+
+- Exposed the deliverable matrix, multilingual prompts and API guide from all eight homepages and the relevant library/workflow navigation.
+- Corrected language-coverage and imported-authorship wording; separated the free page’s no-signup claim from observed controls and the signed-in queue attempt.
+- Restored direct official-example-to-template links for text, endpoint frames, multimodal references, dialogue and local generation records.
+- Added navigation checks to keep the expanded guides discoverable.
+
 ## 2026-09-21 — lighter previews and direct case navigation
 
 - Added seven lightweight homepage previews: 8,455,627 bytes of original images become 251,798 bytes of previews; original files and provenance remain unchanged. This is a byte-size comparison, not a load-time benchmark.

@@ -3,7 +3,7 @@
 > Adapted from [Flaq AI, `9fed21c`](https://github.com/flaqai/awesome-minimax-h3-video-prompts/blob/9fed21c196ffa5495b8f6d8de29cc77ba71eb66d/docs/use-case-matrix.md), copyright 2026 Flaq AI, [MIT](../licenses/Flaq-AI-MIT.txt). Imported 2026-09-21; original technical review dates are retained. Navigation is adapted for Flyne AI.
 
 
-Choose a recipe by the final deliverable and its dominant production risk. The prompt IDs link to 84 original recipes.
+Choose a recipe by the final deliverable and its dominant production risk. The prompt IDs link to 84 attributed imported recipes.
 
 | Deliverable | Start with | Template | Primary review |
 |---|---|---|---|

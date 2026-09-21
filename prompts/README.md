@@ -4,7 +4,7 @@
 
 84 条引入内容保留原作者署名；16 条新增内容为概念方案，尚未实测。时长和画幅是创作目标，实际取决于所选平台。
 
-[Model selection](../docs/model-guide.md) · [Workflows](../docs/workflows.md) · [Evaluation](../docs/evaluation.md) · [Attribution](../THIRD_PARTY_NOTICES.md)
+[Choose by deliverable / 按目标选配方](../docs/use-case-matrix.md) · [Multilingual prompts / 多语言示例](../docs/multilingual-prompting.md) · [Model selection](../docs/model-guide.md) · [Workflows](../docs/workflows.md) · [Evaluation](../docs/evaluation.md) · [Attribution](../THIRD_PARTY_NOTICES.md)
 
 Search offline: `python3 scripts/catalog.py search "product"` from the repository root.
 

@@ -8,13 +8,15 @@
 
 [Inicio en cinco segundos](docs/quick-start.md) · [Imágenes de referencia](docs/reference-gallery.md) · [Guía de prompts](docs/prompting-guide.md) · [12 plantillas](templates/README.md) · [Instalación local](docs/deployment-guide.md)
 
+[Elegir por objetivo](docs/use-case-matrix.md) · [Prompts en otros idiomas](docs/multilingual-prompting.md) · [Integración de API](docs/api-workflow.md)
+
 ## Usar MiniMax H3 en Flyne AI
 
-| Acceso recomendado desde el navegador | Prueba gratuita sin registro |
+| Acceso recomendado desde el navegador | Prueba gratuita en línea |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [Experimenta directamente en línea](https://flyne.ai/free-minimax-h3/) |
 
-La interfaz gratuita revisada el 2026-09-21 ofrece vídeos de **5 segundos y 480p**. Empieza con los [ejercicios breves](docs/quick-start.md).
+La página anuncia acceso sin registro. El 2026-09-21, la interfaz gratuita mostraba ajustes de **5 segundos y 480p**. Empieza con los [ejercicios de cinco segundos](docs/quick-start.md).
 
 ## Prueba un ejercicio de cinco segundos
 
@@ -85,7 +87,7 @@ python3 scripts/validate.py
 
 ## Atribución y participación
 
-Las 84 recetas importadas conservan el aviso de copyright de Flaq AI y su licencia MIT. Una reformulación ligera no se presenta como autoría propia. Las nuevas propuestas no están probadas. Hay README en ocho idiomas; las guías detalladas están en inglés con resúmenes en chino y los prompts canónicos en inglés. Consulta precios, modos y acceso vigentes en Flyne AI.
+Las 84 recetas importadas conservan el aviso de copyright de Flaq AI y su licencia MIT. Una reformulación ligera no se presenta como autoría propia. Las nuevas propuestas no están probadas. Hay README en ocho idiomas; las guías detalladas están principalmente en inglés; algunas incluyen secciones en chino u otros idiomas. Los prompts canónicos están en inglés. Consulta precios, modos y acceso vigentes en Flyne AI.
 
 [Avisos de terceros](THIRD_PARTY_NOTICES.md) · [Cómo contribuir](CONTRIBUTING.md) · [MIT](LICENSE) · [Flaq AI MIT](licenses/Flaq-AI-MIT.txt)
 

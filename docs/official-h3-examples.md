@@ -43,6 +43,20 @@ These examples help separate local H3-Base output from the hybrid Context-IR and
 | I2VA | [768p base](https://github.com/MiniMax-AI/MiniMax-H3/blob/main/assets/i2va.mp4) | [Regenerate-2K](https://github.com/MiniMax-AI/MiniMax-H3/blob/main/assets/i2va_2k.mp4) · [Direct API 2K](https://github.com/MiniMax-AI/MiniMax-H3/blob/main/assets/i2va_direct_2k.mp4) | [I2VA workflow](https://github.com/MiniMax-AI/MiniMax-H3#case-i2va) |
 | Ref2VA | [768p base](https://github.com/MiniMax-AI/MiniMax-H3/blob/main/assets/r2va.mp4) | [Hybrid/API 2K](https://github.com/MiniMax-AI/MiniMax-H3/blob/main/assets/r2va_2k.mp4) · [Direct API 2K](https://github.com/MiniMax-AI/MiniMax-H3/blob/main/assets/r2va_direct_2k.mp4) | [Ref2VA workflow](https://github.com/MiniMax-AI/MiniMax-H3#case-ref2va) |
 
+## From official examples to your own prompt / 从官方示例到自己的提示词
+
+Use official examples as capability and workflow references, not as prompt text to copy.
+
+| Study | Observe in the official output | Apply in this repository |
+|---|---|---|
+| T2VA | Shot timing, native soundscape, subject continuity | Start with [T01](../templates/README.md#t01-text-to-video-single-readable-shot) and a matching recipe |
+| FL2VA | Whether the supplied image is preserved as an actual endpoint | Use [T03](../templates/README.md#t03-first-and-last-frame-transition) and specify start/end invariants |
+| Ref2VA | Which visual, motion, and sound properties transfer semantically | Use [T08](../templates/README.md#t08-multimodal-reference-map) to give each reference one role |
+| Dialogue | Voice ownership, mouth motion, silence and turn-taking | Use [T11](../templates/README.md#t11-multilingual-dialogue-and-speaker-contract) |
+| Local versus 2K | Detail changes between H3-Base and regenerated output | Record both stages with [T12](../templates/README.md#t12-open-weightlocal-generation-record) |
+
+Do not copy characters, branding, dialogue, shot design, music, or complete prompt expression from the official examples into a new “original” recipe. Create a new scene and use only the technical lesson being studied.
+
 ## Use with Flyne AI / 在 Flyne AI 中参考
 
 Start with [browser access](https://flyne.ai/model/minimax-h3/) or the [no-sign-up free trial](https://flyne.ai/free-minimax-h3/). Use these examples to study a technique, then choose a [recipe](../prompts/README.md) and supply your own references. Interface support may differ from the official scripts.

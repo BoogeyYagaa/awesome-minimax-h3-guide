@@ -2,6 +2,8 @@
 
 These are proposed production workflows, not measured H3 results. Start with [model selection](model-guide.md).
 
+Choose by task: [deliverable-to-recipe matrix](use-case-matrix.md) · [reusable production templates](../templates/README.md) · [localized prompt examples](multilingual-prompting.md). For implementation: [local deployment walkthrough](deployment-guide.md) · [API integration flow](api-workflow.md) · [official scripts and example outputs](official-h3-examples.md).
+
 ## 1. Browser workflow on Flyne AI
 
 1. Choose a recipe from the [catalog](../prompts/README.md). For a first attempt, use FY-001 without references or take one short beat from an imported recipe.
@@ -10,7 +12,7 @@ These are proposed production workflows, not measured H3 results. Start with [mo
 4. Generate a structural draft. Review product geometry and movement before adding dialogue, typography or transitions.
 5. Save the exact prompt, model label, settings, input rights and output in a [run record](../templates/run-record.json). Change one variable per retry.
 
-The unsigned-in [free H3 page](https://flyne.ai/free-minimax-h3/) was inspected in a browser on 2026-09-21. It showed five-second 480p output, three aspect ratios and optional two-frame guidance. Start with the [quick-start guide](quick-start.md) and a five-second exercise. No generation was performed. Interface visibility does not establish service reliability, API compatibility or H3 Max availability.
+The unsigned-in [free H3 page](https://flyne.ai/free-minimax-h3/) was inspected in a browser on 2026-09-21. It showed five-second 480p output, three aspect ratios and optional two-frame guidance. Start with the [quick-start guide](quick-start.md) and a five-second exercise. A separate signed-in attempt with FX5-002 reached the free queue after manual verification on 2026-09-21, as recorded in the [quick start](quick-start.md). No generated output was available for review at that observation. The unsigned-in interface check and signed-in submission are separate observations; neither establishes no-signup generation success, service reliability, API compatibility or H3 Max availability.
 
 ## 2. Local H3-Base
 

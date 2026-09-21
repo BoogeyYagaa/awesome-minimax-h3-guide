@@ -96,7 +96,7 @@ def main():
     for suffix in ['', '_zh', '_ja', '_ko', '_es', '_fr', '_de', '_pt']:
         require((ROOT / f'README{suffix}.md').exists(), f'Missing language {suffix}')
         readme = (ROOT / f'README{suffix}.md').read_text()
-        require(all(url in readme for url in ['https://flyne.ai/model/minimax-h3/', 'https://flyne.ai/free-minimax-h3/', 'docs/x-community-showcase.md', 'assets/flyne-h3-cover.png']), f'Missing Flyne entry or gallery in {suffix}')
+        require(all(url in readme for url in ['https://flyne.ai/model/minimax-h3/', 'https://flyne.ai/free-minimax-h3/', 'docs/x-community-showcase.md', 'assets/flyne-h3-cover.png', 'docs/use-case-matrix.md', 'docs/api-workflow.md', 'docs/multilingual-prompting.md']), f'Missing Flyne entry or gallery in {suffix}')
     exercises = collect_exercises()
     require(len(exercises) == len(community), 'Exercise search count differs from gallery')
     for r in exercises:

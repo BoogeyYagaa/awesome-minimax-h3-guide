@@ -8,13 +8,15 @@
 
 [Fünf-Sekunden-Einstieg](docs/quick-start.md) · [Referenzbilder](docs/reference-gallery.md) · [Prompt-Anleitung](docs/prompting-guide.md) · [12 Vorlagen](templates/README.md) · [Lokale Installation](docs/deployment-guide.md)
 
+[Nach Einsatzzweck wählen](docs/use-case-matrix.md) · [Mehrsprachige Prompts](docs/multilingual-prompting.md) · [API-Anbindung](docs/api-workflow.md)
+
 ## MiniMax H3 bei Flyne AI nutzen
 
-| Empfohlener Browserzugang | Kostenlos ohne Registrierung testen |
+| Empfohlener Browserzugang | Kostenlos online testen |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [Direkt online ausprobieren](https://flyne.ai/free-minimax-h3/) |
 
-Die am 2026-09-21 geprüfte Gratisoberfläche bietet **5 Sekunden in 480p**. Beginne mit den [kurzen Übungen](docs/quick-start.md).
+Die Seite wirbt mit Zugang ohne Registrierung. Am 2026-09-21 zeigte die kostenlose Oberfläche Einstellungen für **5 Sekunden und 480p**. Beginne mit den [Fünf-Sekunden-Übungen](docs/quick-start.md).
 
 ## Eine Fünf-Sekunden-Übung ausprobieren
 
@@ -85,7 +87,7 @@ python3 scripts/validate.py
 
 ## Urheberschaft und Mitarbeit
 
-Die 84 übernommenen Rezepte behalten den Copyright-Hinweis von Flaq AI und die ursprüngliche MIT-Lizenz. Leichtes Umformulieren wird nicht als eigene Urheberschaft ausgegeben. Neue Vorschläge sind ungetestet. README-Dateien gibt es in acht Sprachen; die ausführlichen Leitfäden sind Englisch mit chinesischen Zusammenfassungen, die maßgeblichen Prompts Englisch. Preise, Modi und Zugang richten sich nach der aktuellen Flyne-AI-Produktseite.
+Die 84 übernommenen Rezepte behalten den Copyright-Hinweis von Flaq AI und die ursprüngliche MIT-Lizenz. Leichtes Umformulieren wird nicht als eigene Urheberschaft ausgegeben. Neue Vorschläge sind ungetestet. README-Dateien gibt es in acht Sprachen; die ausführlichen Leitfäden sind überwiegend auf Englisch; einzelne enthalten auch chinesische oder mehrsprachige Abschnitte. Die maßgeblichen Prompts sind auf Englisch. Preise, Modi und Zugang richten sich nach der aktuellen Flyne-AI-Produktseite.
 
 [Drittanbieterhinweise](THIRD_PARTY_NOTICES.md) · [Mitwirken](CONTRIBUTING.md) · [MIT](LICENSE) · [Flaq AI MIT](licenses/Flaq-AI-MIT.txt)
 

@@ -13,7 +13,7 @@
 | `.github/ISSUE_TEMPLATE/config.yml` | [CONTRIBUTING.md](../CONTRIBUTING.md) | 源仓库配置不直接覆盖本项目，贡献入口保留在本地指南。 |
 | `.github/ISSUE_TEMPLATE/documentation.yml` | [CONTRIBUTING.md](../CONTRIBUTING.md) | 源仓库配置不直接覆盖本项目，贡献入口保留在本地指南。 |
 | `.github/ISSUE_TEMPLATE/prompt-proposal.yml` | [CONTRIBUTING.md](../CONTRIBUTING.md) | 使用现有贡献说明与提示词模板。 |
-| `.github/PULL_REQUEST_TEMPLATE.md` | [.github/PULL_REQUEST_TEMPLATE.md](../.github/PULL_REQUEST_TEMPLATE.md) | 保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。 |
+| `.github/PULL_REQUEST_TEMPLATE.md` | [.github/pull_request_template.md](../.github/pull_request_template.md) | 保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。 |
 | `.gitignore` | [.gitignore](../.gitignore) | 保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。 |
 | `CHANGELOG.md` | [CHANGELOG.md](../CHANGELOG.md) | 保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。 |
 | `CODE_OF_CONDUCT.md` | [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) | 保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。 |

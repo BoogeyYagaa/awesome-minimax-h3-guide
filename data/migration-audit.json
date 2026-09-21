@@ -26,7 +26,7 @@
     {
       "source_path": ".github/PULL_REQUEST_TEMPLATE.md",
       "source_sha256": "0536c86f59188c4f48c87901b9d07cb027304ad6b826ee9d55e77b9f01c2c760",
-      "destination": ".github/PULL_REQUEST_TEMPLATE.md",
+      "destination": ".github/pull_request_template.md",
       "disposition": "retained-local",
       "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
     },

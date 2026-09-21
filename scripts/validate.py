@@ -70,8 +70,9 @@ def main():
     audit = json.loads((ROOT / 'data/migration-audit.json').read_text())
     require(audit['source_commit'] == imports['source_commit'], 'Migration source revisions differ')
     require(len({e['source_path'] for e in audit['files']}) == len(audit['files']), 'Duplicate migration rows')
+    exact_paths = {path.relative_to(ROOT).as_posix() for path in ROOT.rglob('*')}
     for entry in audit['files']:
-        require((ROOT / entry['destination']).exists(), f"Missing migration destination: {entry['source_path']}")
+        require(entry['destination'] in exact_paths, f"Missing migration destination (case-sensitive): {entry['destination']}")
     for suffix in ['', '_zh', '_ja', '_ko', '_es', '_fr', '_de', '_pt']:
         require((ROOT / f'README{suffix}.md').exists(), f'Missing language {suffix}')
         readme = (ROOT / f'README{suffix}.md').read_text()

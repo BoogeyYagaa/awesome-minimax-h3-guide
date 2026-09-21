@@ -17,11 +17,13 @@
 
 1. 复制练习提示词。先保持单场景、单动作，不要直接塞入 15 秒的复杂分镜。
 2. 图片输入留空，在界面选择练习标明的画幅。
-3. 按页面提示完成验证，再生成视频。
+3. 提交后按页面提示完成验证。如果显示 `Queued: waiting to start generation.`，表示请求正在排队，还没有视频结果；保留当前页面等待，不要重复提交同一条。
 4. 检查主体是否改变、动作是否完成、结尾是否稳定；有声音要求时另行试听。
 5. 一次只改一个问题，把实际提示词、设置和结果记入[运行记录](../templates/run-record.json)。
 
-以上是界面核对，不是成功生成记录。服务设置以后可能变化，以实际界面为准。点击仓库链接不会自动填入提示词，也不会自动提交生成。
+2026-09-21 补充尝试：在已有登录状态的浏览器中提交了 FX5-002（陶瓷杯、纯文字、1:1），人工完成验证后页面显示排队。该观察不证明免注册生成成功，也不证明视频质量。
+
+以上是界面与提交状态核对，不是成功生成记录。服务设置以后可能变化，以实际界面为准。点击仓库链接不会自动填入提示词，也不会自动提交生成。
 
 ## 什么时候用进阶入口
 
@@ -39,4 +41,4 @@
 
 Choose an FX5 exercise in the [community gallery](x-community-showcase.md), copy either language version and open the [free tool](https://flyne.ai/free-minimax-h3/). Leave image inputs empty and select the stated ratio. The unsigned-in interface inspected on 2026-09-21 showed five-second, 480p output, a 2000-character prompt limit and ratios 16:9, 9:16 and 1:1. Optional frame guidance requires both endpoint images. Follow the page verification step.
 
-The exercises are original Flyne learning scenes, not author-prompt transcriptions or prompts that produced the linked community videos. No generation was run in this review. For other modes, check the [advanced H3 interface](https://flyne.ai/model/minimax-h3/) rather than assuming a community example fits the free tool.
+The exercises are original Flyne learning scenes, not author-prompt transcriptions or prompts that produced the linked community videos. A signed-in attempt with FX5-002 (text only, 1:1) reached the free queue after manual verification on 2026-09-21; no generated output had been reviewed at that observation. The unsigned-in interface check and this signed-in submission are separate observations. If the page says `Queued: waiting to start generation.`, keep the page open and wait; do not resubmit the same prompt. For other modes, check the [advanced H3 interface](https://flyne.ai/model/minimax-h3/) rather than assuming a community example fits the free tool.

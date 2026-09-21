@@ -4,6 +4,7 @@
 
 - Included all twelve bilingual five-second exercises in offline search, with an exercise-only filter and explicit test status; retained the separate 100-recipe catalog.
 - Moved the copyable starter prompt ahead of creator videos in the English and Chinese homepages, and moved reference images ahead of technical and affiliate sections.
+- Recorded a signed-in FX5-002 free-tool attempt reaching the queue after manual verification; no output quality or no-signup success is claimed.
 - Corrected two outdated full-library labels and added search checks for IDs, Chinese titles, filters and destination anchors.
 
 ## 2026-09-21 — follow-up quality pass

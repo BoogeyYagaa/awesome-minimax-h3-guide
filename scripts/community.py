@@ -3,6 +3,7 @@
 import json
 import re
 from pathlib import Path
+from catalog import collect
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -18,7 +19,7 @@ def render(entries):
              '## Evidence and reuse / 核验与引用', '',
              'Post text and attached video metadata were checked on **2026-09-21** through the public FxTwitter reader because direct X requests were restricted. Discovery used the [TapVid index](https://tapvid.ai/video-prompts/minimax-h3); entries were then checked by post ID. Model identity is an author statement. Flyne subsequently decoded each linked video and inspected one frame per one-second interval across its duration (180 frames total). This is sampled visual review, not continuous playback, audio review or regeneration. Dimensions describe uploaded files, not native model settings.', '',
              'XH3-001–006 reuse attributed editorial notes from [Flaq AI](https://github.com/flaqai/awesome-minimax-h3-video-prompts/tree/9fed21c196ffa5495b8f6d8de29cc77ba71eb66d); their frame observations are the upstream maintainer’s 2026-09-20 review, not a new Flyne review. XH3-007–012 are additional Flyne research.', '',
-             '作者保留视频、预览图和提示词的权利，外部素材不适用本仓库 MIT 许可。视频和图片保留原站地址，不重新上传；外链失效时仍可通过帖子 ID 查找。社区案例不计入 100 条可复制配方。', '',
+             f'作者保留视频、预览图和提示词的权利，外部素材不适用本仓库 MIT 许可。视频和图片保留原站地址，不重新上传；外链失效时仍可通过帖子 ID 查找。社区案例不计入 {len(collect())} 条可复制配方。', '',
              '## Browse / 浏览', '', '| ID | Example / 案例 | Creator |', '|---|---|---|']
     for e in entries:
         anchor=re.sub(r'[^\w\s-]', '', f"{e['id']} {e['title']}".lower()).replace(' ', '-')

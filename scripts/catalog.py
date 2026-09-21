@@ -46,13 +46,16 @@ def search_records(query, origin=None):
 
 
 def render(records):
+    upstream = sum(r['origin'] == 'upstream' for r in records)
+    flyne = len(records) - upstream
+    exercises = len(collect_exercises())
     lines = ['# Prompt catalog / 提示词目录', '',
-             f'**{len(records)} recipes**: 84 attributed MIT imports + 16 Flyne AI additions. All are untested by this project.', '',
-             '84 条引入内容保留原作者署名；16 条新增内容为概念方案，尚未实测。时长和画幅是创作目标，实际取决于所选平台。', '',
+             f'**{len(records)} recipes**: {upstream} attributed MIT imports + {flyne} Flyne AI additions. All are untested by this project.', '',
+             f'{upstream} 条引入内容保留原作者署名；{flyne} 条新增内容为概念方案，尚未实测。时长和画幅是创作目标，实际取决于所选平台。', '',
              '[Model selection](../docs/model-guide.md) · [Workflows](../docs/workflows.md) · [Evaluation](../docs/evaluation.md) · [Attribution](../THIRD_PARTY_NOTICES.md)', '',
              'Search offline: `python3 scripts/catalog.py search "product"` from the repository root.', '',
-             'Search includes the 100 recipes plus 12 separate, untested five-second exercises: `python3 scripts/catalog.py search "FX5-002" --origin exercise --show-prompt`. Exercises are stored in [community-sources.json](../data/community-sources.json); they did not produce the linked creator videos.', '',
-             '搜索覆盖 100 条配方和另列的 12 条五秒练习；练习尚未实测，不是社区视频的原始提示词。', '',
+             f'Search includes the {len(records)} recipes plus {exercises} separate, untested five-second exercises: `python3 scripts/catalog.py search "FX5-002" --origin exercise --show-prompt`. Exercises are stored in [community-sources.json](../data/community-sources.json); they did not produce the linked creator videos.', '',
+             f'搜索覆盖 {len(records)} 条配方和另列的 {exercises} 条五秒练习；练习尚未实测，不是社区视频的原始提示词。', '',
              '## Flyne AI additions / 新增场景', '',
              '| ID | Recipe | Task | Category |', '|---|---|---|---|']
     for r in records:

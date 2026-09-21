@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-21 — localization and maintenance
+
+- Added native-language exercise steps, queue guidance and search instructions to Japanese, Korean, Spanish, French, German and Portuguese entry pages.
+- Added one build command for catalog counts, all README pages, the community gallery and data-driven homepage selections.
+- Added weekly and manual external-link reports, distinguishing access restrictions from missing media; no automatic removal or reposting.
+- Added regression checks for new-recipe counts and HTTP classification.
+
 ## 2026-09-21 — search and reading order
 
 - Included all twelve bilingual five-second exercises in offline search, with an exercise-only filter and explicit test status; retained the separate 100-recipe catalog.

@@ -14,3 +14,5 @@ jobs:
           python-version: '3.11'
       - name: Validate checked-in catalog, links and provenance
         run: python3 scripts/validate.py
+      - name: Test maintenance behavior
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'

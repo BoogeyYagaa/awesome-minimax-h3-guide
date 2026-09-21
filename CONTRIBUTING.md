@@ -15,11 +15,11 @@ Useful contributions improve reproducibility: test a recipe, document a failed r
 For FY entries, update both the Markdown recipe and its metadata/prompt in `data/flyne-recipes.json`. The validator checks that the prompt bodies agree. Run:
 
 ```sh
-python3 scripts/catalog.py build
+python3 scripts/build.py
 python3 scripts/validate.py
 ```
 
-The current release expects 100 recipes (84 imported + 16 new). When adding a recipe, update documented counts, the banner and validator expectations together. Do not edit generated `data/catalog.json` or `prompts/README.md` by hand.
+Counts are derived from the source records. Edit README wording in `templates/readmes/*.md.tmpl` and homepage selections in `data/featured-examples.json`, then run the build command. Do not edit generated README pages, `data/catalog.json`, `prompts/README.md` or `docs/x-community-showcase.md` by hand. The pinned upstream import integrity checks remain fixed until a reviewed source migration. See [maintenance instructions](docs/community-maintenance.md).
 
 For upstream updates, review a fixed source revision, retain its license, compare each prompt, and update `data/upstream-manifest.json` deliberately. Never silently rewrite provenance hashes to hide a change. New source revisions should have a changelog entry.
 

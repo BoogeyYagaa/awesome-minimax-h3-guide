@@ -7,6 +7,7 @@ from pathlib import Path
 from urllib.parse import unquote
 from catalog import ROOT, collect, collect_exercises, search_records, render
 from community import render as render_community
+from build import outputs
 
 
 def require(condition, message):
@@ -27,8 +28,10 @@ def anchors(path):
 
 def main():
     records = collect()
-    require(len(records) == 100, 'Expected 100 recipes')
-    require(len({r['id'] for r in records}) == 100, 'Duplicate IDs')
+    require(bool(records), 'Empty catalog')
+    for relative, expected in outputs().items():
+        require((ROOT / relative).read_text() == expected, f'Generated content is stale: {relative}; run scripts/build.py')
+    require(len({r['id'] for r in records}) == len(records), 'Duplicate IDs')
     require(sum(r['origin'] == 'upstream' for r in records) == 84, 'Expected 84 upstream recipes')
     require(json.loads((ROOT / 'data/catalog.json').read_text()) == records, 'Run catalog.py build')
     require((ROOT / 'prompts/README.md').read_text() == render(records), 'Stale prompt index')
@@ -101,7 +104,7 @@ def main():
             if fragment and dest.suffix == '.md':
                 require(fragment in anchors(dest), f'Broken anchor in {path.relative_to(ROOT)}: {target}')
             checked += 1
-    print(f'PASS: 100 recipes, 24 attributed imports, 8 languages, {checked} local links')
+    print(f"PASS: {len(records)} recipes, {len(manifest['files'])} attributed imports, 8 languages, {checked} local links")
     print(f'PASS: {len(community)} unique attributed community videos and current gallery')
     print(f"PASS: {len(community)} five-second exercises, {len(imports['files'])} supplemental imports, {len(audit['files'])} migration rows")
     print('External URLs and model inference are not checked by this offline validator.')

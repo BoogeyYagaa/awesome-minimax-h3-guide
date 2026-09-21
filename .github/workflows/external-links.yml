@@ -1,0 +1,35 @@
+name: Check external links
+on:
+  schedule:
+    - cron: '23 1 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: external-links
+  cancel-in-progress: false
+jobs:
+  check:
+    if: github.repository == 'flyneai/awesome-minimax-h3-guide'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check registered links
+        run: python3 scripts/check_external_links.py --output-dir /tmp/flyne-link-report
+      - name: Show report
+        if: always()
+        run: |
+          if [ -f /tmp/flyne-link-report/links.md ]; then
+            cat /tmp/flyne-link-report/links.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: external-link-report
+          path: /tmp/flyne-link-report/
+          retention-days: 30
+          if-no-files-found: error

@@ -25,7 +25,7 @@ Visual review records include method, sample count, video hash and observations.
 ## 一次更新，生成所有入口
 
 - 社区案例：修改 `data/community-sources.json`。
-- 首页精选：修改 `data/featured-examples.json` 的案例编号，保持明确的编辑选择。
+- 首页精选：修改 `data/featured-examples.json` 的分组、案例编号和选择理由；区分方法学习与偏差分析。生成脚本自动补齐解读和独立练习的直达链接。
 - 八种语言首页：修改 `templates/readmes/*.md.tmpl`。`{{recipes}}`、`{{upstream}}`、`{{flyne}}`、`{{community}}` 等标记由生成脚本填入。
 - 新增配方：同时更新配方 Markdown 和 `data/flyne-recipes.json`；引入内容的固定版本、署名和哈希校验仍需保留。
 
@@ -57,3 +57,20 @@ python3 scripts/check_external_links.py --output-dir /tmp/flyne-link-report
 ```
 
 检查任务只生成报告；发现异常后，人工查看原帖，再决定更换地址或移除预览。生成检查和外链检查分别运行，外站限流不会阻止正常文档提交。
+
+
+## 首页图片与分类说明
+
+首页使用 `assets/previews/` 中的轻量 WebP 文件，点击图片打开原图。原文件、许可和生成记录保留不变。封面最长边 1600 像素，卡片图最长边 640 像素，保持比例、不裁剪。质量参数为 82；变换记录和源文件、预览文件哈希保存在 `data/image-previews.json`。
+
+仅重新生成图片时需要 Pillow，日常生成文档与自动检查不需要它：
+
+```sh
+python3 -m venv .venv
+.venv/bin/pip install Pillow
+.venv/bin/python scripts/preview_images.py
+python3 scripts/build.py
+python3 scripts/validate.py
+```
+
+分类中文名称与中英文用途维护在 `data/category-descriptions.json`；分类编号范围和数量由配方数据生成。新增分类时检查脚本会提示补齐说明。旧的 `catalog.py build` 和 `community.py` 命令仍可运行，但会转为完整生成；统一推荐 `python3 scripts/build.py`。

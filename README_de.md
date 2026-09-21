@@ -1,6 +1,6 @@
 # Awesome MiniMax H3 Guide · Flyne AI
 
-![Flyne AI MiniMax H3 field guide](assets/flyne-h3-cover.png)
+[![Flyne AI MiniMax H3 field guide](assets/previews/flyne-h3-cover.webp)](assets/flyne-h3-cover.png)
 
 <sub>KI-generiertes Titelbild; keine H3-Ausgabe.</sub>
 

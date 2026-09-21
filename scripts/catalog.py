@@ -61,12 +61,17 @@ def category_navigation(records):
     for r in records:
         if r['origin'] == 'upstream':
             path = r['path'].split('#')[0]
-            categories.setdefault(path, {'name': r['category'], 'count': 0})['count'] += 1
+            categories.setdefault(path, {'name': r['category'], 'ids': []})['ids'].append(r['id'])
+    descriptions = json.loads((ROOT / 'data/category-descriptions.json').read_text())
+    if set(categories) != set(descriptions):
+        raise ValueError('Update data/category-descriptions.json for the current categories')
+    flyne = [r['id'] for r in records if r['origin'] == 'flyne']
     lines = ['## Browse by category / 按分类浏览', '',
-             '| Category / 分类 | Recipes / 数量 |', '|---|---:|',
-             f"| [Flyne original scenarios / Flyne 原创场景](#flyne-ai-additions--新增场景) | {sum(r['origin'] == 'flyne' for r in records)} |"]
+             '| Category / 分类 | IDs / 编号 | Typical use / 常见用途 | Recipes / 数量 |', '|---|---|---|---:|',
+             f"| [Flyne original scenarios / Flyne 原创场景](#flyne-ai-additions--新增场景) | {flyne[0]}–{flyne[-1]} | Product, support and editing / 商品、客服与内容制作 | {len(flyne)} |"]
     for path, group in categories.items():
-        lines.append(f"| [{group['name']}](../{path}) | {group['count']} |")
+        detail = descriptions[path]
+        lines.append(f"| [{group['name']} / {detail['name_zh']}](../{path}) | {group['ids'][0]}–{group['ids'][-1]} | {detail['use_en']} / {detail['use_zh']} | {len(group['ids'])} |")
     return lines + ['', '[Use conditions / 选择使用入口](../docs/recipe-usage.md): matching a form does not establish generation quality.', '']
 
 
@@ -108,9 +113,10 @@ def main():
     args = parser.parse_args()
     records = collect()
     if args.command == 'build':
-        (ROOT / 'data/catalog.json').write_text(json.dumps(records, ensure_ascii=False, indent=2) + '\n')
-        (ROOT / 'prompts/README.md').write_text(render(records))
-        print(f'Built {len(records)} recipes')
+        from build import outputs
+        for relative, body in outputs().items():
+            (ROOT / relative).write_text(body)
+        print('Built all guide pages; preferred command: python3 scripts/build.py')
         return
     matches = search_records(args.query, args.origin)
     if args.route:

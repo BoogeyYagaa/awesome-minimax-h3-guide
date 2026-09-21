@@ -34,11 +34,14 @@ class MaintenanceTests(unittest.TestCase):
     def test_featured_media_comes_from_records(self):
         entry = dict(id='TEST', title='Example', title_zh='示例', author='creator',
                      thumbnail_url='https://example.org/new.jpg', source_url='https://x.com/creator/status/1',
-                     video_url='https://example.org/new.mp4')
+                     video_url='https://example.org/new.mp4',
+                     practice=dict(id='FX5-999', title='Test exercise', title_zh='测试练习'))
         output = build.featured_gallery([entry])
         self.assertIn(entry['thumbnail_url'], output)
         self.assertIn(entry['video_url'], output)
         self.assertIn('@creator', output)
+        self.assertIn('docs/x-community-showcase.md#test-example', output)
+        self.assertIn('docs/x-community-showcase.md#fx5-999--test-exercise--测试练习', output)
 
     def test_github_blob_links_are_pages(self):
         pages = [r for r in targets() if '/blob/' in r['url']]

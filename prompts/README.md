@@ -14,33 +14,33 @@ Search includes the 100 recipes plus 12 separate, untested five-second exercises
 
 ## Browse by category / 按分类浏览
 
-| Category / 分类 | Recipes / 数量 |
-|---|---:|
-| [Flyne original scenarios / Flyne 原创场景](#flyne-ai-additions--新增场景) | 16 |
-| [Brand and Advertising Video Prompts](../prompts/upstream/01-brand-advertising.md) | 3 |
-| [Product and E-commerce Video Prompts](../prompts/upstream/02-product-ecommerce.md) | 3 |
-| [UGC and Lifestyle Video Prompts](../prompts/upstream/03-ugc-lifestyle.md) | 3 |
-| [Travel and Hospitality Video Prompts](../prompts/upstream/04-travel-hospitality.md) | 3 |
-| [Food and Beverage Video Prompts](../prompts/upstream/05-food-beverage.md) | 3 |
-| [Fashion and Beauty Video Prompts](../prompts/upstream/06-fashion-beauty.md) | 3 |
-| [Cinematic Storytelling Video Prompts](../prompts/upstream/07-cinematic-storytelling.md) | 3 |
-| [Animation and Stylized Video Prompts](../prompts/upstream/08-animation-stylized.md) | 3 |
-| [Action and Sports Video Prompts](../prompts/upstream/09-action-sports.md) | 3 |
-| [Fantasy, Sci-fi and VFX Video Prompts](../prompts/upstream/10-fantasy-scifi-vfx.md) | 3 |
-| [UI, Game and Digital Experience Video Prompts](../prompts/upstream/11-ui-game-digital.md) | 3 |
-| [Transitions, Comedy and Social Video Prompts](../prompts/upstream/12-transitions-comedy-social.md) | 3 |
-| [Music, Performance and Audio-Driven Video Prompts](../prompts/upstream/13-music-performance-audio.md) | 4 |
-| [Education, Documentary and Science Video Prompts](../prompts/upstream/14-education-documentary-science.md) | 4 |
-| [Architecture, Interiors and Real-Estate Video Prompts](../prompts/upstream/15-architecture-interiors-real-estate.md) | 4 |
-| [Automotive and Mobility Video Prompts](../prompts/upstream/16-automotive-mobility.md) | 4 |
-| [Nature, Animals and Pet Video Prompts](../prompts/upstream/17-nature-animals-pets.md) | 4 |
-| [Industry, Business and Public-Service Video Prompts](../prompts/upstream/18-industry-business-public-service.md) | 4 |
-| [Editing, Continuation and Localization Video Prompts](../prompts/upstream/19-editing-continuation-localization.md) | 4 |
-| [Multi-Reference and Camera-Transfer Video Prompts](../prompts/upstream/20-multireference-camera-transfer.md) | 4 |
-| [Character, Dialogue and Performance Video Prompts](../prompts/upstream/21-character-dialogue-performance.md) | 4 |
-| [Motion Graphics and Dynamic Poster Video Prompts](../prompts/upstream/22-motion-graphics-dynamic-posters.md) | 4 |
-| [Surreal Physics and Optical-Illusion Video Prompts](../prompts/upstream/23-surreal-physics-optical-illusions.md) | 4 |
-| [Vertical Series and Live-Creator Video Prompts](../prompts/upstream/24-vertical-series-live-creator.md) | 4 |
+| Category / 分类 | IDs / 编号 | Typical use / 常见用途 | Recipes / 数量 |
+|---|---|---|---:|
+| [Flyne original scenarios / Flyne 原创场景](#flyne-ai-additions--新增场景) | FY-001–FY-016 | Product, support and editing / 商品、客服与内容制作 | 16 |
+| [Brand and Advertising Video Prompts / 品牌广告](../prompts/upstream/01-brand-advertising.md) | BRD-001–BRD-003 | Product launches, local campaigns and aspect-ratio variants / 产品发布、门店活动、跨画幅广告 | 3 |
+| [Product and E-commerce Video Prompts / 商品电商](../prompts/upstream/02-product-ecommerce.md) | PRD-001–PRD-003 | Product details, material studies and rotating packshots / 商品细节、材质展示、旋转展示 | 3 |
+| [UGC and Lifestyle Video Prompts / 生活分享](../prompts/upstream/03-ugc-lifestyle.md) | UGC-001–UGC-003 | First impressions, everyday use and packing tests / 开箱体验、日常使用、收纳测试 | 3 |
+| [Travel and Hospitality Video Prompts / 旅行住宿](../prompts/upstream/04-travel-hospitality.md) | TRV-001–TRV-003 | Destinations, accommodation and market walks / 目的地介绍、住宿展示、市场漫游 | 3 |
+| [Food and Beverage Video Prompts / 餐饮饮品](../prompts/upstream/05-food-beverage.md) | FNB-001–FNB-003 | Preparation, serving and food textures / 制作过程、上菜镜头、食物质感 | 3 |
+| [Fashion and Beauty Video Prompts / 时尚美妆](../prompts/upstream/06-fashion-beauty.md) | FSH-001–FSH-003 | Outfits, beauty details and styling transitions / 服装展示、妆容特写、造型切换 | 3 |
+| [Cinematic Storytelling Video Prompts / 电影叙事](../prompts/upstream/07-cinematic-storytelling.md) | CIN-001–CIN-003 | Character emotion, suspense and story beats / 人物情绪、悬疑片段、故事转折 | 3 |
+| [Animation and Stylized Video Prompts / 风格动画](../prompts/upstream/08-animation-stylized.md) | ANI-001–ANI-003 | Paper craft, clay characters and ink scenes / 纸艺、黏土角色、水墨场景 | 3 |
+| [Action and Sports Video Prompts / 动作运动](../prompts/upstream/09-action-sports.md) | ACT-001–ACT-003 | Climbing, cycling and ball sports / 攀岩、自行车、球类动作 | 3 |
+| [Fantasy, Sci-fi and VFX Video Prompts / 幻想与特效](../prompts/upstream/10-fantasy-scifi-vfx.md) | VFX-001–VFX-003 | Transformations, imagined environments and visual effects / 物体变化、幻想场景、视觉特效 | 3 |
+| [UI, Game and Digital Experience Video Prompts / 界面与游戏](../prompts/upstream/11-ui-game-digital.md) | DIG-001–DIG-003 | Software onboarding, device interfaces and game actions / 软件引导、设备界面、游戏操作 | 3 |
+| [Transitions, Comedy and Social Video Prompts / 转场与喜剧](../prompts/upstream/12-transitions-comedy-social.md) | SOC-001–SOC-003 | Match cuts, visual jokes and loops / 匹配剪辑、视觉笑点、循环短片 | 3 |
+| [Music, Performance and Audio-Driven Video Prompts / 音乐与表演](../prompts/upstream/13-music-performance-audio.md) | MUS-001–MUS-004 | Singing, dance and rhythm visualization / 演唱、舞蹈、音乐节奏可视化 | 4 |
+| [Education, Documentary and Science Video Prompts / 教育与科普](../prompts/upstream/14-education-documentary-science.md) | EDU-001–EDU-004 | Science explanations, museum stories and instruction / 科学解释、博物馆介绍、操作教学 | 4 |
+| [Architecture, Interiors and Real-Estate Video Prompts / 建筑与室内](../prompts/upstream/15-architecture-interiors-real-estate.md) | ARC-001–ARC-004 | Property tours, daylight and renovation previews / 房屋参观、光照变化、装修预演 | 4 |
+| [Automotive and Mobility Video Prompts / 交通与出行](../prompts/upstream/16-automotive-mobility.md) | MOB-001–MOB-004 | Vehicle interiors, cycling and rail journeys / 汽车内饰、自行车、列车体验 | 4 |
+| [Nature, Animals and Pet Video Prompts / 自然与宠物](../prompts/upstream/17-nature-animals-pets.md) | NAT-001–NAT-004 | Wildlife, pet accessories and plant observation / 野生动物、宠物用品、植物观察 | 4 |
+| [Industry, Business and Public-Service Video Prompts / 工业与公共服务](../prompts/upstream/18-industry-business-public-service.md) | IND-001–IND-004 | Production, logistics, evacuation and service guidance / 生产流程、物流、疏散与服务说明 | 4 |
+| [Editing, Continuation and Localization Video Prompts / 视频编辑与延续](../prompts/upstream/19-editing-continuation-localization.md) | EDT-001–EDT-004 | Cleanup, continuation, localization and relighting / 背景清理、续拍、语言适配、重新打光 | 4 |
+| [Multi-Reference and Camera-Transfer Video Prompts / 多参考与运镜](../prompts/upstream/20-multireference-camera-transfer.md) | MRF-001–MRF-004 | One-takes, camera-motion transfer and matched actions / 一镜到底、镜头运动迁移、动作衔接 | 4 |
+| [Character, Dialogue and Performance Video Prompts / 角色与对话](../prompts/upstream/21-character-dialogue-performance.md) | CHR-001–CHR-004 | Character acting, bilingual dialogue and ensemble scenes / 人物表演、双语对话、多人场景 | 4 |
+| [Motion Graphics and Dynamic Poster Video Prompts / 动态图形与海报](../prompts/upstream/22-motion-graphics-dynamic-posters.md) | MOG-001–MOG-004 | Poster assembly, feature cards and exhibition openings / 海报组装、功能卡片、展览片头 | 4 |
+| [Surreal Physics and Optical-Illusion Video Prompts / 超现实与错觉](../prompts/upstream/23-surreal-physics-optical-illusions.md) | SRL-001–SRL-004 | Material changes, time offsets and spatial illusions / 材质变化、时间错位、空间错觉 | 4 |
+| [Vertical Series and Live-Creator Video Prompts / 竖屏连载与直播](../prompts/upstream/24-vertical-series-live-creator.md) | VER-001–VER-004 | Product demonstrations, short drama, repair series and answers / 产品演示、短剧、维修连载、问答 | 4 |
 
 [Use conditions / 选择使用入口](../docs/recipe-usage.md): matching a form does not establish generation quality.
 

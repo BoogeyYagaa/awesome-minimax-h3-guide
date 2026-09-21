@@ -1,6 +1,6 @@
 # Awesome MiniMax H3 Guide · Flyne AI
 
-![Flyne AI MiniMax H3 field guide](assets/flyne-h3-cover.png)
+[![Flyne AI MiniMax H3 field guide](assets/previews/flyne-h3-cover.webp)](assets/flyne-h3-cover.png)
 
 <sub>表紙は AI 生成のイメージ画像で、H3 の出力ではありません。</sub>
 

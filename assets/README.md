@@ -15,3 +15,7 @@ Eleven unbranded reference stills are reused unchanged from Flaq AI under MIT, w
 ## Flyne recipe illustrations
 
 Three additional AI-generated reference stills for FY-001, FY-002 and FY-009 are stored in `assets/flyne/`. See [exact prompts and usage notes](flyne-reference-briefs.md) and [provenance hashes](../data/flyne-visuals.json). They are separate from the eleven attributed source images, are not H3 outputs, and do not establish video quality.
+
+## Lightweight homepage previews
+
+`assets/previews/` holds resized WebP display copies. Originals remain unchanged and are linked from each homepage image. [The manifest](../data/image-previews.json) records source and output hashes, dimensions and byte sizes. Regenerate with `scripts/preview_images.py` using Pillow; see [maintenance instructions](../docs/community-maintenance.md). These display copies do not change image authorship or evidence status.

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-21 — lighter previews and direct case navigation
+
+- Added seven lightweight homepage previews: 8,455,627 bytes of original images become 251,798 bytes of previews; original files and provenance remain unchanged. This is a byte-size comparison, not a load-time benchmark.
+- Split featured creator cases into technique study and mismatch analysis, with editorial reasons and direct links to notes and independent exercises.
+- Added Chinese category names, bilingual use summaries and generated ID ranges.
+- Unified maintenance instructions and made legacy build commands generate all pages.
+
 ## 2026-09-21 — recipe navigation and reference visuals
 
 - Reconnected eleven attributed stills to their matching imported recipes. Added usage notes and updated local-file hashes while preserving original prompt-block hashes.

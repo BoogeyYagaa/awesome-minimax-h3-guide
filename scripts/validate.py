@@ -33,7 +33,7 @@ def main():
         require((ROOT / relative).read_text() == expected, f'Generated content is stale: {relative}; run scripts/build.py')
     require(len({r['id'] for r in records}) == len(records), 'Duplicate IDs')
     require(sum(r['origin'] == 'upstream' for r in records) == 84, 'Expected 84 upstream recipes')
-    require(json.loads((ROOT / 'data/catalog.json').read_text()) == records, 'Run catalog.py build')
+    require(json.loads((ROOT / 'data/catalog.json').read_text()) == records, 'Run python3 scripts/build.py')
     require((ROOT / 'prompts/README.md').read_text() == render(records), 'Stale prompt index')
     usage = json.loads((ROOT / 'data/recipe-usage.json').read_text())
     require(set(usage) == {r['id'] for r in records}, 'Usage coverage differs from catalog')
@@ -61,7 +61,7 @@ def main():
     community = json.loads((ROOT / 'data/community-sources.json').read_text())['entries']
     require(len({e['id'] for e in community}) == len(community), 'Duplicate community IDs')
     require(len({e['source_url'].split('/')[-1] for e in community}) == len(community), 'Duplicate X posts')
-    require((ROOT / 'docs/x-community-showcase.md').read_text() == render_community(community), 'Run community.py')
+    require((ROOT / 'docs/x-community-showcase.md').read_text() == render_community(community), 'Run python3 scripts/build.py')
     for e in community:
         require(re.fullmatch(r'https://x.com/\w+/status/\d+', e['source_url']), 'Invalid X source')
         require(e['video_url'].startswith('https://video.twimg.com/'), 'Missing original video')
@@ -77,6 +77,10 @@ def main():
         review = e.get('visual_review', {})
         require(review.get('sample_count', 0) > 0 and re.fullmatch(r'[0-9a-f]{64}', review.get('video_sha256', '')), 'Missing visual-review provenance')
     require(len({e['practice']['id'] for e in community}) == len(community), 'Duplicate exercise IDs')
+    for preview in json.loads((ROOT / 'data/image-previews.json').read_text()):
+        for field in ('source', 'preview'):
+            require(hashlib.sha256((ROOT / preview[field]).read_bytes()).hexdigest() == preview[field + '_sha256'], 'Regenerate image previews after changing image files')
+        require(preview['preview_bytes'] < preview['source_bytes'], 'Preview must be smaller than original')
     for visual in json.loads((ROOT / 'data/flyne-visuals.json').read_text()):
         require(hashlib.sha256((ROOT / visual['path']).read_bytes()).hexdigest() == visual['sha256'], 'Reference illustration changed without provenance update')
         require(visual['recipe_id'] in usage and visual['prompt'] and visual['usage_note'], 'Incomplete image provenance')

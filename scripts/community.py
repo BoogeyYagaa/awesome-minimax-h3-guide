@@ -51,6 +51,7 @@ def render(entries):
 
 
 if __name__ == '__main__':
-    entries = json.loads((ROOT/'data/community-sources.json').read_text())['entries']
-    (ROOT/'docs/x-community-showcase.md').write_text(render(entries))
-    print(f'Built {len(entries)} community entries')
+    from build import outputs
+    for relative, body in outputs().items():
+        (ROOT / relative).write_text(body)
+    print('Built all guide pages; preferred command: python3 scripts/build.py')

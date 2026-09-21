@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-21 — follow-up quality pass
+
+- Accounted for all 69 upstream files; added eight supporting documents and eleven attributed reference stills.
+- Inspected 180 sampled frames across twelve videos; recorded visible mismatches without claiming audio or regeneration review.
+- Added twelve distinct, bilingual five-second exercises and a quick start matched to the free tool’s observed interface.
+- Added import integrity checks and connected all README languages to the expanded guides.
+
 ## 2026-09-21
 
 - Added a Flyne AI editorial cover and both H3 product entries to all eight README languages.

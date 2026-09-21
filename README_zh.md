@@ -12,15 +12,19 @@
 
 [浏览全部 100 条](prompts/README.md) · [在 Flyne AI 使用 H3](https://flyne.ai/model/minimax-h3/) · [H3 与 H3 Max 区别](docs/model-guide.md) · [来源清单](docs/sources.md)
 
+[5 秒上手教程](docs/quick-start.md) · [参考图目录](docs/reference-gallery.md) · [提示词写法](docs/prompting-guide.md) · [12 种模板](templates/README.md) · [本地部署](docs/deployment-guide.md) · [迁移对照](docs/migration-audit.md)
+
 ## 在 Flyne AI 使用 MiniMax H3
 
 | 推荐的在线使用入口 | 免注册免费体验 |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [直接在线尝试 MiniMax H3](https://flyne.ai/free-minimax-h3/) |
 
+2026-09-21 核对的免费界面提供 **5 秒、480p** 视频。建议从 [5 秒练习](docs/quick-start.md)开始；X 上的长视频可能使用不同设置与输入。
+
 ## 看视频，学提示词
 
-12 条 X 社区案例，包含视频预览、作者原帖、提示词短节选与解读。下方展示此次新增的 6 条。
+12 条 X 社区案例，包含视频预览、作者原帖、提示词短节选与解读。下方展示新增的 6 条；全部 12 条案例均附独立编写、可直接复制的 5 秒 Flyne 练习，尚未实测。
 
 [全部案例 / All examples](docs/x-community-showcase.md) · [官方示例 / Official examples](docs/official-h3-examples.md)
 
@@ -120,3 +124,13 @@ Flyne 新增内容采用 [MIT](LICENSE)，引入内容保留[上游 MIT](license
 [了解并加入 Flyne AI 联盟计划](https://flyne.ai/affiliate-program/)。订单资格、归因及佣金结算以当前联盟协议和审核结果为准。
 
 如有问题或合作意向，欢迎联系：[contact@flyne.ai](mailto:contact@flyne.ai)。
+
+## 为下一条镜头准备参考图
+
+11 张注明来源的参考图，每张对应提示词与制作说明。图片不是 H3 生成结果。
+
+| Product / 产品 | Character / 角色 | Travel / 旅行 |
+|---|---|---|
+| [![Product](assets/gallery/midnight-observatory-tea.webp)](docs/reference-gallery.md) | [![Character](assets/gallery/clay-repair-robot.webp)](docs/reference-gallery.md) | [![Travel](assets/gallery/rain-washed-canal-morning.webp)](docs/reference-gallery.md) |
+
+[全部参考图 / All reference images](docs/reference-gallery.md)

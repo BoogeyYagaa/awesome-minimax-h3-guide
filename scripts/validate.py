@@ -55,6 +55,23 @@ def main():
         require(e['thumbnail_url'].startswith('https://pbs.twimg.com/'), 'Missing original thumbnail')
         require(len(e['prompt_excerpt'].split()) <= 25, 'Prompt excerpt exceeds 25 words')
         require(all(e.get(k) for k in ['author', 'checked_at', 'rights', 'verification', 'prompt_status', 'lesson_zh']), 'Missing provenance')
+        practice = e.get('practice', {})
+        require(practice.get('duration_seconds') == 5, 'Exercise must fit the five-second free route')
+        require(practice.get('input_mode') == 'text-only', 'Exercise requires unsupported free-tool inputs')
+        require(practice.get('aspect_ratio') in ['16:9', '9:16', '1:1'], 'Unsupported exercise ratio')
+        require(practice.get('status') == 'not-tested', 'Exercise status requires independent evidence')
+        require(all(0 < len(practice.get(k, '')) <= 2000 for k in ['prompt', 'prompt_zh']), 'Exercise missing or over free-tool limit')
+        review = e.get('visual_review', {})
+        require(review.get('sample_count', 0) > 0 and re.fullmatch(r'[0-9a-f]{64}', review.get('video_sha256', '')), 'Missing visual-review provenance')
+    require(len({e['practice']['id'] for e in community}) == len(community), 'Duplicate exercise IDs')
+    imports = json.loads((ROOT / 'data/supplemental-imports.json').read_text())
+    for entry in imports['files']:
+        require(hashlib.sha256((ROOT / entry['local_path']).read_bytes()).hexdigest() == entry['local_sha256'], f"Supplemental import changed: {entry['local_path']}")
+    audit = json.loads((ROOT / 'data/migration-audit.json').read_text())
+    require(audit['source_commit'] == imports['source_commit'], 'Migration source revisions differ')
+    require(len({e['source_path'] for e in audit['files']}) == len(audit['files']), 'Duplicate migration rows')
+    for entry in audit['files']:
+        require((ROOT / entry['destination']).exists(), f"Missing migration destination: {entry['source_path']}")
     for suffix in ['', '_zh', '_ja', '_ko', '_es', '_fr', '_de', '_pt']:
         require((ROOT / f'README{suffix}.md').exists(), f'Missing language {suffix}')
         readme = (ROOT / f'README{suffix}.md').read_text()
@@ -76,6 +93,7 @@ def main():
             checked += 1
     print(f'PASS: 100 recipes, 24 attributed imports, 8 languages, {checked} local links')
     print(f'PASS: {len(community)} unique attributed community videos and current gallery')
+    print(f"PASS: {len(community)} five-second exercises, {len(imports['files'])} supplemental imports, {len(audit['files'])} migration rows")
     print('External URLs and model inference are not checked by this offline validator.')
 
 

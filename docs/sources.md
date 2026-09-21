@@ -24,7 +24,7 @@ The prompt library is pinned separately in [THIRD_PARTY_NOTICES.md](../THIRD_PAR
 
 - No public H3 Max checkpoint was found in the checked primary sources. Recheck before claiming availability; absence today is not a prediction.
 - Free-tool pages and pricing can change. No permanent free access or rate is promised.
-- On 2026-09-21 the free H3 page returned HTTP 403 to the research client. Its no-sign-up positioning was supplied by the Flyne project owner; no generation run or service-availability measurement was performed.
+- On 2026-09-21 command-line access to the free H3 page returned HTTP 403, but the unsigned-in browser rendered its input form and no-sign-up instructions. See [verified interface details](quick-start.md). No generation run or reliability measurement was performed.
 - Model licensing and service-specific commercial rights must be read for the intended route; this project does not collapse them into one universal grant.
 - All recipes remain untested by this project. No speed, quality, conversion or hardware claim is presented as our measurement.
 
@@ -32,9 +32,9 @@ The prompt library is pinned separately in [THIRD_PARTY_NOTICES.md](../THIRD_PAR
 
 ## Gallery and product-entry update — 2026-09-21
 
-- [X source register](../data/community-sources.json): 12 author posts and attached media checked using the public FxTwitter reader; discovery via TapVid. No playback or independent generation performed by Flyne.
+- [X source register](../data/community-sources.json): 12 author posts and attached media checked using the public FxTwitter reader; discovery via TapVid. Follow-up: all 12 videos decoded and visually sampled at one frame per second; no continuous playback, audio review or independent generation.
 - [Community gallery](x-community-showcase.md): short excerpts and available author-prompt links; XH3-008 is partial.
 - [Official examples](official-h3-examples.md): MiniMax-hosted examples, kept separate from Flyne recipes.
-- [Free MiniMax H3](https://flyne.ai/free-minimax-h3/): owner-provided no-sign-up trial entry. [Main model page](https://flyne.ai/model/minimax-h3/): recommended browser entry. Quotas and available controls follow the service interface.
+- [Free MiniMax H3](https://flyne.ai/free-minimax-h3/): no-sign-up trial entry subsequently confirmed from the rendered browser page. [Main model page](https://flyne.ai/model/minimax-h3/): recommended browser entry. Quotas and available controls follow the service interface.
 
 The original model-source review date above is unchanged; this update does not imply a full re-audit of model claims.

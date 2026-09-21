@@ -6,11 +6,15 @@
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
 
+[5초 시작 안내](docs/quick-start.md) · [참고 이미지](docs/reference-gallery.md) · [프롬프트 작성](docs/prompting-guide.md) · [템플릿 12개](templates/README.md) · [로컬 실행](docs/deployment-guide.md)
+
 ## Flyne AI에서 MiniMax H3 사용
 
 | 추천 온라인 이용 경로 | 가입 없이 무료 체험 |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [온라인에서 바로 시험하기](https://flyne.ai/free-minimax-h3/) |
+
+2026-09-21에 확인한 무료 도구는 **5초·480p** 영상을 제공합니다. [5초 연습](docs/quick-start.md)부터 시작하세요.
 
 ## 영상과 프롬프트 보기
 

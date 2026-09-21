@@ -32,7 +32,7 @@
       "upstream_review_date": "2026-09-20",
       "origin": "flaq-mit-editorial",
       "upstream_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
-      "verification": "Post text and attached video metadata rechecked through FxTwitter; no Flyne playback or regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "post_text_sha256": "6ce76983da2828ade012647337566e982cae38bd8e984b90cc2607dc06d142eb",
       "media_http_check": {
         "checked_at": "2026-09-21",
@@ -45,6 +45,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-001",
+        "title": "Word reveal",
+        "title_zh": "文字出现",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second graphic animation on a dark green background. One cream paper strip unfolds from left to right during the first three seconds, revealing the single word OPEN printed on it. Hold the fully opened strip still for the final two seconds. Locked camera, soft paper shadows, quiet paper rustle. Exactly four letters, no other text or objects.",
+        "prompt_zh": "五秒平面动画，深绿色背景。前三秒，一条奶油色纸条从左向右展开，露出印在纸条上的 OPEN 四个字母；最后两秒保持完全展开的纸条静止。固定机位，柔和纸张阴影，轻微纸张摩擦声。不要其他文字或物体。",
+        "check": "Check spelling and the final reading hold; add text in an editor if letters drift.",
+        "check_zh": "检查 OPEN 是否拼对、最后是否有阅读停顿；文字变形时改为后期加字。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "8bdf61e3e9c4b57b2e4d07f711e27e7b26ecb971f3918046ad29647ed285e0b2",
+        "observation_zh": "开头是逐段文字，中段转成大字和碎裂图形，后段留出静止整句。版式变化可见；过渡中的逐字可读性仍需原速播放核对。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -77,7 +100,7 @@
       "upstream_review_date": "2026-09-20",
       "origin": "flaq-mit-editorial",
       "upstream_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
-      "verification": "Post text and attached video metadata rechecked through FxTwitter; no Flyne playback or regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "post_text_sha256": "63d639af47445a9dae864f14463d20546eb0017dbc107a83f72b691ebc45a0df",
       "media_http_check": {
         "checked_at": "2026-09-21",
@@ -90,6 +113,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-002",
+        "title": "Ceramic cup reveal",
+        "title_zh": "陶瓷杯材质展示",
+        "aspect_ratio": "1:1",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second studio shot of one unbranded ivory ceramic cup on a mint pedestal. Begin close to its speckled glaze, then slowly pull back to reveal the whole cup by second four. Hold for one second. The cup stays still with its handle on the right. Soft side light, stable reflections, quiet room tone. No cuts, steam, text or extra cups.",
+        "prompt_zh": "五秒棚拍。一只无品牌的象牙白陶瓷杯放在薄荷绿展台上。先拍带细小斑点的釉面，再缓慢拉远，到第四秒露出完整杯子，最后一秒静止。杯子全程不动，杯柄朝右。柔和侧光、稳定反射、安静室内环境声。不要剪切、蒸汽、文字或额外杯子。",
+        "check": "The handle and rim should remain unchanged during the pull-back.",
+        "check_zh": "检查拉远过程中杯柄、杯口和斑点是否保持一致。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "0fd6ead902bb4726a7e4bb8307885adeee1c628cdd21bb925e552acddde575a5",
+        "observation_zh": "可见材质微距、完整耳机、零件拆解和重新组合四个阶段。拆解阶段内部结构属于生成表现，不能视为真实产品剖面。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -122,7 +168,7 @@
       "upstream_review_date": "2026-09-20",
       "origin": "flaq-mit-editorial",
       "upstream_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
-      "verification": "Post text and attached video metadata rechecked through FxTwitter; no Flyne playback or regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "post_text_sha256": "1c6304483ebf6059797c8ed7ffd0c850665151407eabb891b9006fbf5f2b3277",
       "media_http_check": {
         "checked_at": "2026-09-21",
@@ -135,6 +181,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-003",
+        "title": "Courier entrance",
+        "title_zh": "信使角色登场",
+        "aspect_ratio": "9:16",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second stop-motion style shot of a small felt courier in a teal coat carrying one yellow satchel. In a miniature train station, the camera tilts slowly from the courier’s shoes to a medium portrait. The courier looks up and holds a calm pose for the last second. Preserve the same felt face, coat and bag. Gentle cloth motion, no dialogue, no cuts or extra characters.",
+        "prompt_zh": "五秒定格动画风格镜头。一个穿青绿色外套的小毡布信使带着黄色挎包，站在微缩火车站内。镜头从鞋子缓慢向上摇至半身肖像。信使抬头，最后一秒安静站定。保持同一张毡布脸、同一件外套和同一个挎包。布料轻微摆动，无对白、无剪切、不增加角色。",
+        "check": "Check one identity throughout the tilt; no extra bag or duplicated limbs.",
+        "check_zh": "检查上摇时角色是否变脸，挎包是否复制，四肢是否多出。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "968633544312818e91493b2921e7f68083325064370a59c64b160dec8c1fe0ba",
+        "observation_zh": "上方视频依次展示鞋部、身体、面部和全身；下方始终附带人物设定图。画幅尺寸包括设定图条带，不能据此判断原始生成画幅。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -167,7 +236,7 @@
       "upstream_review_date": "2026-09-20",
       "origin": "flaq-mit-editorial",
       "upstream_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
-      "verification": "Post text and attached video metadata rechecked through FxTwitter; no Flyne playback or regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "post_text_sha256": "2f60885d3558db88ee755947a5637d0505d9064dddfe146b99ace4b2768e969b",
       "media_http_check": {
         "checked_at": "2026-09-21",
@@ -180,6 +249,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-004",
+        "title": "Single-outfit fabric motion",
+        "title_zh": "单套服装的衣料运动",
+        "aspect_ratio": "9:16",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second fashion study in a pale mint studio. One adult model wearing an unbranded rust-orange linen coat stands in a three-quarter pose. A light breeze lifts only the loose coat hem, then subsides. The model and camera stay still. Preserve the face, seams, sleeves and coat length. Soft daylight, faint fabric sound. No text, cuts, wardrobe changes or additional people.",
+        "prompt_zh": "五秒服装动态研究。浅薄荷绿摄影棚中，一位成年模特穿无品牌的铁锈橙亚麻外套，以侧前方角度站立。微风只轻轻吹起宽松衣摆，然后停下。人物和相机保持不动。面容、接缝、袖子与衣长不变。柔和日光、轻微布料声。不要文字、剪切、换装或额外人物。",
+        "check": "Check the hem moves without changing garment construction.",
+        "check_zh": "检查衣摆摆动时，外套结构和长度是否改变。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "4615d9e8271e41a7e274e8c77a2851de2a960bda895c9b9ddfdfca4286f2c575",
+        "observation_zh": "蓝色棚景里依次出现两名表演者与一匹马，大字叠加遮挡部分主体。适合学习多主体调度；精确文字和安全道具表现须另行检查。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -212,7 +304,7 @@
       "upstream_review_date": "2026-09-20",
       "origin": "flaq-mit-editorial",
       "upstream_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
-      "verification": "Post text and attached video metadata rechecked through FxTwitter; no Flyne playback or regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "post_text_sha256": "49bbd07d4765477532128f535efec34d290a68bc1802dd29694ceb0ef24a3bbc",
       "media_http_check": {
         "checked_at": "2026-09-21",
@@ -225,6 +317,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-005",
+        "title": "Rainy platform suspense",
+        "title_zh": "雨夜站台悬念",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second quiet suspense shot on a deserted rural station platform at night. One adult traveler in a gray raincoat notices a small brass key already resting on a bench and lowers their gaze toward it. Slow push-in from a medium shot, cool overhead light, rain beyond the canopy. Keep the key still and the traveler’s face unchanged. No dialogue, sudden cuts, new people or supernatural effects.",
+        "prompt_zh": "五秒安静的悬疑镜头。雨夜的乡间车站站台空无旁人。一位穿灰色雨衣的成年旅客注意到长椅上原本就放着的一把小铜钥匙，低头看向钥匙。镜头从中景缓慢推进，冷色顶灯照明，雨落在棚外。钥匙不动，人物面容不变。无对白、突然剪切、新人物或超自然效果。",
+        "check": "Check gaze direction and whether the key exists from the start.",
+        "check_zh": "检查视线是否指向钥匙，钥匙是否从第一帧就存在。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "1741af6b6881e8fb05bc893a18d1116f989c9f37c4d51c046d4b73c6a56e322e",
+        "observation_zh": "竹林冷光和飘雪贯穿全片，可见两名角色的近景正反打，结尾出现纸张线索。本轮未试听，不能判断对白内容、发音或口型同步。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -257,7 +372,7 @@
       "upstream_review_date": "2026-09-20",
       "origin": "flaq-mit-editorial",
       "upstream_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
-      "verification": "Post text and attached video metadata rechecked through FxTwitter; no Flyne playback or regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "post_text_sha256": "547594c8135ddbf35ddc173a7ff0ee6a615408259290da279f3b95e5311e48c9",
       "media_http_check": {
         "checked_at": "2026-09-21",
@@ -270,6 +385,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-006",
+        "title": "One controlled impossible event",
+        "title_zh": "只安排一个不可能事件",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second locked shot of a tidy garden table in ordinary daylight. A single unbranded red watering can rests on the table for two seconds, rises straight upward by ten centimeters, then stops and hovers until the end. The table, plants and camera remain completely still. Natural garden ambience. No clouds changing shape, camera shake, additional floating objects or scene changes.",
+        "prompt_zh": "五秒固定机位，普通日光下的一张整洁花园桌。一个无品牌红色浇水壶先在桌面停留两秒，再垂直上升十厘米，随后悬停到结束。桌子、植物和相机完全静止。自然花园环境声。不要云层变形、相机抖动、其他漂浮物或切换场景。",
+        "check": "Compare the requested vertical path against the output; a different effect is a failure.",
+        "check_zh": "核对是否只有水壶按垂直路线上升；换成别的特效不能算完成。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 14,
+        "video_sha256": "4ea50809afe686504bf99ee75d956e1b6a3a00dca63ed3c30e8d2e90c6110fa6",
+        "observation_zh": "画面从住宅街道转向巨大的云墙或浪墙逼近；并未呈现原文要求的后院和刚性天空整体坠落。作为提示词偏离案例保留。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -297,7 +435,7 @@
       "lesson_zh": "先用音轨确定剪切点、定格点和标题出现时刻，再统一角色剪影。",
       "review": "Audio-reference support must be checked in the selected interface; beat accuracy has not been reviewed.",
       "review_zh": "先确认工具支持音频参考；本项目尚未核对视频是否准确踩点。",
-      "verification": "Post text and attached video metadata retrieved; no playback, audio review or independent regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "rights": "Creator-owned external media and prompt excerpts; not covered by this repository MIT license.",
       "post_text_sha256": "8620ca629c11863c91ea010b4fed5db04ed3c08fd019346d5f22c561b3a1bc46",
       "media_http_check": {
@@ -311,6 +449,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-007",
+        "title": "Two-beat silhouette study",
+        "title_zh": "两拍剪影练习",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second flat graphic animation. A single navy silhouette of a cyclist and bicycle stands against a pale peach background. At second one, the cyclist raises one hand; at second three, the arm returns to its starting position. Hold still to the end. Fixed camera, crisp shapes, two soft percussive taps matching the two actions. No titles, extra limbs, cycling motion or cuts.",
+        "prompt_zh": "五秒平面图形动画，浅桃色背景上只有一位海军蓝剪影骑车者和自行车。第一秒，骑车者抬起一只手；第三秒，手臂回到原位；随后静止到结束。固定相机、清晰轮廓，两次轻柔打击声分别对应两个动作。不要标题、多余肢体、骑行动作或剪切。",
+        "check": "This uses written timing, not an uploaded soundtrack; precise beat synchronization still needs review.",
+        "check_zh": "这里使用文字指定时间点，没有上传音轨；声音是否对齐动作仍需试听。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 16,
+        "video_sha256": "7f17b6699041537c8f6957e063d996935c1e2513430c57299601943c82e875eb",
+        "observation_zh": "可见橙黑剪影、人物步行、点火与西部动作切换；画面中的英文标题出现明显异常字母组合。不能作为准确文字生成样例；是否踩准音轨未核对。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -338,7 +499,7 @@
       "lesson_zh": "将印刷质感和剪辑规则分开描述：颗粒与网点管画面，硬切管节奏。",
       "review": "The author explicitly labels this a partial prompt. Missing instructions cannot be reconstructed as author text.",
       "review_zh": "作者明确标注为部分提示词，缺失内容不能补写成作者原文。",
-      "verification": "Post text and attached video metadata retrieved; no playback, audio review or independent regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "rights": "Creator-owned external media and prompt excerpts; not covered by this repository MIT license.",
       "post_text_sha256": "4178c597ab938bcff6de3b5fc390af1537e5032817b8463ab844413543c5fc3c",
       "media_http_check": {
@@ -352,6 +513,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-008",
+        "title": "Printed-paper transition",
+        "title_zh": "印刷纸张转场",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second graphic sequence on warm off-white paper. Show one large navy circle with visible halftone dots. At second two, make one hard cut to a rust-orange square of the same size and position. Hold the square until the end. Locked composition, subtle paper grain and one dry click at the cut. No dissolves, camera motion, flashing, text or additional shapes.",
+        "prompt_zh": "五秒图形短片，暖白纸张背景。先显示一个带网点纹理的海军蓝大圆，第二秒硬切成同位置、同尺寸的铁锈橙方块，随后保持到结束。构图固定，有轻微纸张颗粒，剪切时响一声干脆的咔嗒声。不要叠化、运镜、闪烁、文字或多余图形。",
+        "check": "Verify one hard cut only and no morph between the two shapes.",
+        "check_zh": "检查是否只有一次硬切，两种形状之间不能出现变形过渡。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "296a8758efa1ebcf9bfd74b38041215e6c347cfd46ce896353c3ba8e60f7c5ee",
+        "observation_zh": "可见人像、大号排字、拼贴边框和多次构图切换，与杂志风方向一致。原帖仅公开部分提示词；抽帧不能验证每一次转场都只有硬切。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -379,7 +563,7 @@
       "lesson_zh": "按到场、制作、食物特写、试吃反应安排故事，并保持出镜人物一致。",
       "review": "Camera and 4K terms in the prompt are creative requests, not verified capture equipment or output resolution.",
       "review_zh": "原文中的相机、4K 是创作要求，不代表真实拍摄器材或已核实的输出规格。",
-      "verification": "Post text and attached video metadata retrieved; no playback, audio review or independent regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "rights": "Creator-owned external media and prompt excerpts; not covered by this repository MIT license.",
       "post_text_sha256": "0dbac0f016d4706f1b7450071f8eaaca9192a1f77c76542c7b9d388a82ef8eb3",
       "media_http_check": {
@@ -393,6 +577,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-009",
+        "title": "Market food detail",
+        "title_zh": "市集食物特写",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second close-up at an unbranded outdoor food stall in soft morning light. A cook’s hand uses wooden tongs to place one roasted mushroom on an already prepared bowl of rice, then withdraws. Locked camera, gentle steam, natural cooking and market sounds. Preserve the bowl, rice and existing ingredients. One placement only, no face, text, extra utensils or scene changes.",
+        "prompt_zh": "五秒特写，柔和晨光照着无品牌的露天食摊。一只厨师的手用木夹把一块烤蘑菇放到已盛好的米饭上，随后离开画面。固定机位、轻微蒸汽、自然烹饪声与市集声。碗、米饭和原有配料保持不变。只放一次，不出现脸、文字、额外餐具或场景切换。",
+        "check": "Check contact with the rice and whether the tongs release the mushroom cleanly.",
+        "check_zh": "检查蘑菇是否真正接触米饭，木夹是否自然松开。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "2e7b4acd698d5255363b5767e9b8a261acd56501479939dbcfd2618984bfcdda",
+        "observation_zh": "顺序为主持人介绍、锅中烹饪、食物特写、试吃反应，人物服装在采样画面中一致。未试听，因此不能验证自然口型、台词或环境声。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -420,7 +627,7 @@
       "lesson_zh": "说明路线标记只用于控制运动，不出现在成片中；再写清接近、爬升、环绕和拉远。",
       "review": "The reference image is required. This is a generated camera concept, not real drone footage or flight advice.",
       "review_zh": "复现需要参考图。这是生成的镜头概念，不是真实航拍记录或飞行建议。",
-      "verification": "Post text and attached video metadata retrieved; no playback, audio review or independent regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "rights": "Creator-owned external media and prompt excerpts; not covered by this repository MIT license.",
       "post_text_sha256": "8dbfb01f31cbbbc7474e9938c0743fd9dec91b7860ae4bacfcfa404f590f7f8f",
       "media_http_check": {
@@ -434,6 +641,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-010",
+        "title": "Simple aerial approach",
+        "title_zh": "简化航拍接近镜头",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second aerial-style shot of a fictional coastal lighthouse in warm evening light. Begin above the sea, facing the lighthouse. Move slowly forward toward it at constant height and speed, stopping while the whole tower remains visible. Keep the horizon level and coastline unchanged. Soft wind and waves. No orbit, abrupt climb, route lines, text or cuts.",
+        "prompt_zh": "五秒模拟航拍，暖色傍晚光线下的一座虚构海岸灯塔。开场位于海面上方，正对灯塔；保持高度与速度，缓慢向前接近，在灯塔仍完整可见时停下。地平线保持水平，海岸线不变。轻柔风声与海浪声。不要环绕、突然爬升、路线线条、文字或剪切。",
+        "check": "This text-only exercise does not reproduce the author’s marked reference route.",
+        "check_zh": "这是纯文字运镜练习，不会复现作者画在参考图上的航线。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "4bc910030a8cdacc65b10ba8b2ce6618133d1bea05d0e36609f16fa9979f6139",
+        "observation_zh": "上方为接近建筑、上升、环绕和拉远的动态片段，下方固定展示带红色路线的参考图。红线存在于对照排版中，不能误报为生成画面漏删路线。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -461,7 +691,7 @@
       "lesson_zh": "先确定单个产品、一次涂抹动作和自然窗光，再加入对镜交流。",
       "review": "The prompt requests vertical 9:16; attached file metadata is 2560 × 1440. Do not treat the request as measured output.",
       "review_zh": "提示词要求 9:16 竖屏，但附件元数据为 2560 × 1440；创作要求不等于实际输出。",
-      "verification": "Post text and attached video metadata retrieved; no playback, audio review or independent regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "rights": "Creator-owned external media and prompt excerpts; not covered by this repository MIT license.",
       "post_text_sha256": "ce45518c521b139a12117466ad7e6f72862fab313de7c14d1ab600cb8e42ac9f",
       "media_http_check": {
@@ -475,6 +705,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-011",
+        "title": "One product-hand action",
+        "title_zh": "单次产品手部动作",
+        "aspect_ratio": "9:16",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second close-up of an adult hand placing one unbranded amber pump bottle upright on a clean bathroom shelf beside a folded cream towel. After placing it, the hand leaves frame and the bottle stays still. Soft morning window light, ordinary phone-camera look, quiet room ambience. No faces, mirrors, product claims, text, extra fingers or additional bottles.",
+        "prompt_zh": "五秒近景。一只成年人的手把一个无品牌琥珀色按压瓶直立放在干净的浴室置物架上，旁边是一条叠好的奶油色毛巾。放好后，手离开画面，瓶子保持静止。柔和晨间窗光，普通手机拍摄质感，安静室内环境声。不要脸、镜面、功效宣称、文字、多余手指或额外瓶子。",
+        "check": "Check bottle contact with the shelf and finger separation.",
+        "check_zh": "检查瓶底是否接触置物架，手指是否与瓶身粘连。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "34cd4db185bce07b84f4988751e28aa96f1540ccaca2b68d0d53722ad7c3a0b1",
+        "observation_zh": "可见展示瓶子、取出滴管、额头使用与手部涂抹。上传视频为横屏，和提示词要求的 9:16 不一致；没有据此验证产品功效。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     },
     {
@@ -502,7 +755,7 @@
       "lesson_zh": "区分旁观机位与自拍机位，明确手机从哪一镜开始出现。",
       "review": "Fifteen one-second beats may be crowded. The attached file is landscape despite a vertical prompt; simplify before testing.",
       "review_zh": "每秒一镜可能过于拥挤；附件为横屏而原文要求竖屏。实际测试可先减少动作。",
-      "verification": "Post text and attached video metadata retrieved; no playback, audio review or independent regeneration.",
+      "verification": "Author text and metadata checked through FxTwitter; video decoded and visually sampled across its duration by Flyne. No continuous playback, audio review or regeneration.",
       "rights": "Creator-owned external media and prompt excerpts; not covered by this repository MIT license.",
       "post_text_sha256": "b8adcbcf62eae3d53ae43c304f8cdf3e1378656676958a10824b0f58fae650ab",
       "media_http_check": {
@@ -516,6 +769,29 @@
           "status": 200,
           "content_type": "image/jpeg"
         }
+      },
+      "practice": {
+        "id": "FX5-012",
+        "title": "Quiet seaside ending",
+        "title_zh": "安静的海边结尾",
+        "aspect_ratio": "16:9",
+        "duration_seconds": 5,
+        "input_mode": "text-only",
+        "status": "not-tested",
+        "authorship": "Flyne AI original learning exercise; not the author prompt and not the prompt used for the linked video.",
+        "prompt": "A five-second locked close-up of a clear glass of orange juice already resting on a wooden terrace table. A blue sea is softly blurred in the background. A light breeze moves one plain linen napkin beside the glass; the glass and camera remain still. Warm morning light, distant waves, no dialogue. No hands, phone, text, new objects or camera transitions.",
+        "prompt_zh": "五秒固定近景。一杯橙汁从开场就放在木质露台桌上，蓝色海面在背景中柔和虚化。微风轻轻吹动杯旁的一张素色亚麻餐巾，杯子和相机都不动。温暖晨光、远处海浪声，没有对白。不要手、手机、文字、新物体或机位切换。",
+        "check": "Use this as a single ending shot; it intentionally omits the original 15-beat vlog.",
+        "check_zh": "把它当作单独的结尾镜头使用，不包含原案例每秒一镜的长分镜。"
+      },
+      "visual_review": {
+        "checked_at": "2026-09-21",
+        "method": "One decoded frame per one-second interval across the clip; visual contact-sheet inspection",
+        "sample_count": 15,
+        "video_sha256": "96dab8e6439b0d186e987e722da48752126044d06bc4a637e3af5f89eacf8b0d",
+        "observation_zh": "可见起床、窗外海景、自拍、饮料和结尾海面；上传画面为横屏，并出现问候语和生活格言字幕。时间点与原文每秒一镜不宜直接视为一致。",
+        "audio_reviewed": false,
+        "regenerated": false
       }
     }
   ]

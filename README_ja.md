@@ -6,11 +6,15 @@
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
 
+[5秒のクイックスタート](docs/quick-start.md) · [参考画像](docs/reference-gallery.md) · [プロンプトの書き方](docs/prompting-guide.md) · [12のテンプレート](templates/README.md) · [ローカル実行](docs/deployment-guide.md)
+
 ## Flyne AI で MiniMax H3 を使う
 
 | おすすめのブラウザー版 | 登録不要の無料体験 |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [オンラインですぐに試す](https://flyne.ai/free-minimax-h3/) |
+
+2026-09-21 に確認した無料版は **5秒・480p**。まず[5秒の練習](docs/quick-start.md)から始めてください。
 
 ## 動画とプロンプトを見る
 

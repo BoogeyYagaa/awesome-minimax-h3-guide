@@ -14,3 +14,9 @@ The source of truth is [data/community-sources.json](../data/community-sources.j
 For a removed post, retain its ID and explain removal in the changelog; remove unavailable previews from the public gallery. Additions require human editorial review. The offline validator does not verify external availability or model performance.
 
 Use the [issue template](../.github/ISSUE_TEMPLATE/community-video.yml) to suggest a case. The repository has no automatic collection or reposting job.
+
+## Five-second exercises and visual review
+
+Each entry can contain a `practice` record with a unique FX5 ID, English and Chinese prompts, a five-second target, one of the observed free-tool ratios, and `not-tested` status. Keep it a new learning scene; do not paraphrase a third-party prompt into purported Flyne authorship. The generated gallery keeps the original author excerpt separate.
+
+Visual review records include method, sample count, video hash and observations. One-frame-per-second sampling cannot establish exact cuts, smooth motion or audio synchronization. Record those limits. Do not commit temporary third-party MP4s or contact sheets.

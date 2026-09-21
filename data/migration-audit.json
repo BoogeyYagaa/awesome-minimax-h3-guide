@@ -1,0 +1,489 @@
+{
+  "source_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
+  "checked_at": "2026-09-21",
+  "files": [
+    {
+      "source_path": ".github/ISSUE_TEMPLATE/config.yml",
+      "source_sha256": "b96121559cff31099d7751e972c779db11fe9d646cf9a049f68ec6461967511d",
+      "destination": "CONTRIBUTING.md",
+      "disposition": "covered-by-existing",
+      "note_zh": "源仓库配置不直接覆盖本项目，贡献入口保留在本地指南。"
+    },
+    {
+      "source_path": ".github/ISSUE_TEMPLATE/documentation.yml",
+      "source_sha256": "b3a98b1d291e86f63900e86ca5424f1b0f2469697b46ccfaedb42e9c9ed44611",
+      "destination": "CONTRIBUTING.md",
+      "disposition": "covered-by-existing",
+      "note_zh": "源仓库配置不直接覆盖本项目，贡献入口保留在本地指南。"
+    },
+    {
+      "source_path": ".github/ISSUE_TEMPLATE/prompt-proposal.yml",
+      "source_sha256": "248a216f6eb926d4657a699dd4a1a001ac0609b812f608b61af546872dd17fb3",
+      "destination": "CONTRIBUTING.md",
+      "disposition": "covered-by-existing",
+      "note_zh": "使用现有贡献说明与提示词模板。"
+    },
+    {
+      "source_path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "source_sha256": "0536c86f59188c4f48c87901b9d07cb027304ad6b826ee9d55e77b9f01c2c760",
+      "destination": ".github/PULL_REQUEST_TEMPLATE.md",
+      "disposition": "retained-local",
+      "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
+    },
+    {
+      "source_path": ".gitignore",
+      "source_sha256": "2ef767385125df7d546a79f251e267fab5c0e68a652128987a6982cb61d53584",
+      "destination": ".gitignore",
+      "disposition": "retained-local",
+      "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
+    },
+    {
+      "source_path": "CHANGELOG.md",
+      "source_sha256": "6cb4ebf144f54a34e5a16e6da10e99b1d4d6faaeda8b81fbec5147ce7617d1ae",
+      "destination": "CHANGELOG.md",
+      "disposition": "retained-local",
+      "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
+    },
+    {
+      "source_path": "CODE_OF_CONDUCT.md",
+      "source_sha256": "77c534990653b89bc755e617942f32634fe83901372dda055afc2131ef7c3e42",
+      "destination": "CODE_OF_CONDUCT.md",
+      "disposition": "retained-local",
+      "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
+    },
+    {
+      "source_path": "CONTRIBUTING.md",
+      "source_sha256": "274e5566b959a319599e6c1d350a0beaf9051f3b0abb31955a8f10fb6eabc61d",
+      "destination": "CONTRIBUTING.md",
+      "disposition": "retained-local",
+      "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
+    },
+    {
+      "source_path": "LICENSE",
+      "source_sha256": "25d37666f3031c6762c61ddfc6fd18bb8d3148b2453620bd40b9f13d1e9b7576",
+      "destination": "licenses/Flaq-AI-MIT.txt",
+      "disposition": "retained-license",
+      "note_zh": "上游许可全文保留；根目录许可覆盖 Flyne 新增内容。"
+    },
+    {
+      "source_path": "README.md",
+      "source_sha256": "d1abb651a02e295ebd676d3901ae64437b84e96b6fd7b028458b706c7d739bdb",
+      "destination": "README.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_de.md",
+      "source_sha256": "d99d9100e66f3cf824baf58299b8fca6b27f488628f809b9a00e3d92abefe647",
+      "destination": "README_de.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_es.md",
+      "source_sha256": "4c1628e98addfee18cac8abac5fe589cbc6a04a051bae9586be9a4610d237c1d",
+      "destination": "README_es.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_fr.md",
+      "source_sha256": "80c29531ddeceb14eb661e21541bf3113e41c56bc0f21fbda687274df69116b6",
+      "destination": "README_fr.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_ja.md",
+      "source_sha256": "7944fe97c42007d20025ac9398c1185dcc3509bd0bee4b3ba289b8c2fa250929",
+      "destination": "README_ja.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_ko.md",
+      "source_sha256": "007bf5366c1ef648ac439fe40cd9ac8f487e65b5723170c2e2b5d521c7accbaf",
+      "destination": "README_ko.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_pt.md",
+      "source_sha256": "f8077e9dc5009b5595576a42f9a49cc9ab9d3cf5a45c7d718747741675caf861",
+      "destination": "README_pt.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "README_zh.md",
+      "source_sha256": "fbb6215e7c564973b2cf1b45f84e37f71aee32659f7522d130e5e9a3c5be2d22",
+      "destination": "README_zh.md",
+      "disposition": "brand-adapted",
+      "note_zh": "使用 FlyneAI 八语言入口，保留现有内容，补齐教程与案例导航。"
+    },
+    {
+      "source_path": "ROADMAP.md",
+      "source_sha256": "d592d0567e65a43bb84a7ce61077c6e0c550ca2261f7b0575c152801f0932026",
+      "destination": "ROADMAP.md",
+      "disposition": "retained-local",
+      "note_zh": "保留 FlyneAI 现有管理文件，避免覆盖贡献规则或历史。"
+    },
+    {
+      "source_path": "assets/README.md",
+      "source_sha256": "29ef4cdfe6d9ae229e927c1e8a2f6a11e2731f16ba2c574e4af925631373a0d3",
+      "destination": "docs/reference-gallery.md",
+      "disposition": "adapted",
+      "note_zh": "图片用途、配方及制作说明映射到新的参考图目录。"
+    },
+    {
+      "source_path": "assets/gallery/clay-repair-robot.webp",
+      "source_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512",
+      "destination": "assets/gallery/clay-repair-robot.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/dynamic-night-market-poster.webp",
+      "source_sha256": "19e952063c0d9c7d4a9c2ab20323e9f28bf3604dd826b45bf16d69f1cb990b7c",
+      "destination": "assets/gallery/dynamic-night-market-poster.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/honest-desk-lamp-demo.webp",
+      "source_sha256": "27d85385224bf1fe38072c3a0d067b35d9101664738e92626632225fe371f6b0",
+      "destination": "assets/gallery/honest-desk-lamp-demo.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/indoor-climbing-final-hold.webp",
+      "source_sha256": "1e0c85b9f12a08954d43fa348b3e36f632c8d68c5e81f8ceae3b06b1e030939c",
+      "destination": "assets/gallery/indoor-climbing-final-hold.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/midnight-observatory-tea.webp",
+      "source_sha256": "e213d9072030191ec95f50e5572b9a4d72b3f07edc1f3d8fd43e26d7e7ace7c8",
+      "destination": "assets/gallery/midnight-observatory-tea.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/modular-lunch-jar-kit.webp",
+      "source_sha256": "085cd5b1094bb7848d628b7d6658ecb88aa3aeeebcabb1b8e63d317fd3c8e5c4",
+      "destination": "assets/gallery/modular-lunch-jar-kit.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/paper-birds-storm-shelter.webp",
+      "source_sha256": "8ed7805a7e4783b65593e363c9a6d811dd07dfe0cbdcfa6e156992faf687d996",
+      "destination": "assets/gallery/paper-birds-storm-shelter.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/radial-cork-speaker.webp",
+      "source_sha256": "079f76ad15afe59eb7ddc54c071e01ccc806dd38212da0cf13b52695dc64a22f",
+      "destination": "assets/gallery/radial-cork-speaker.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/rain-washed-canal-morning.webp",
+      "source_sha256": "1a040dab3444051e5d704be5947a480066feef5eadf23185a22632f8a1af6284",
+      "destination": "assets/gallery/rain-washed-canal-morning.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/three-biome-museum-rail.webp",
+      "source_sha256": "121aae2040b678b61bb4311c20a4beca0362ef7acbbaa8de12d7f7eb673d8f89",
+      "destination": "assets/gallery/three-biome-museum-rail.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/gallery/topographic-map-archive.webp",
+      "source_sha256": "91c666a95aea903bcd8baf4429d4ea16100a2fa53aba70c08a261f548fe52451",
+      "destination": "assets/gallery/topographic-map-archive.webp",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "assets/hero-minimax-h3-video-prompts.webp",
+      "source_sha256": "9ef6177b87264684fb4e7dd8ae9df39390e963729099119bee1504c0167a2eb1",
+      "destination": "assets/flyne-h3-cover.png",
+      "disposition": "replaced",
+      "note_zh": "由 FlyneAI 专属封面替代，不复制 Flaq 仓库封面。"
+    },
+    {
+      "source_path": "assets/minimax-h3-reference-image-prompts.md",
+      "source_sha256": "e52f28b3a636bb649a2debe94c25208c0221406b6fff4f7501d5625595e9ac16",
+      "destination": "assets/minimax-h3-reference-image-prompts.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/affiliate-program.md",
+      "source_sha256": "1aea3858fa0f496dc1e7b0c7ee246f525d858b4434b0f0eb951d8b9b5453c8f0",
+      "destination": "README.md",
+      "disposition": "brand-specific-replacement",
+      "note_zh": "保留既有 FlyneAI 合作入口；不迁移 Flaq 的商业条款。"
+    },
+    {
+      "source_path": "docs/api-workflow.md",
+      "source_sha256": "b653daf487d8486b627abe826cd294f4f7f6e3179f7a876b388d4df7364e5697",
+      "destination": "docs/api-workflow.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/deployment-guide.md",
+      "source_sha256": "fa91aaf41f1e6691e1015bb642758cfe2961200f7ec7b97374577f0ed01d607a",
+      "destination": "docs/deployment-guide.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/minimax-h3-overview.md",
+      "source_sha256": "a18addd8d0d34dcebbfdd0a7fdb4025b40a5afacf2b61306f7938bd9248f7989",
+      "destination": "docs/model-guide.md",
+      "disposition": "covered-by-existing",
+      "note_zh": "继续使用现有模型说明，不重复叠加概述页。"
+    },
+    {
+      "source_path": "docs/multilingual-prompting.md",
+      "source_sha256": "6b50e4f50be7e25245da30031e1ac841370c63f7848788ec7d1a8f09b251e7c3",
+      "destination": "docs/multilingual-prompting.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/official-h3-examples.md",
+      "source_sha256": "2fbb79586da116015a7f81b6322ca8faffde9d787573173a926c6d8cb8f45295",
+      "destination": "docs/official-h3-examples.md",
+      "disposition": "adapted",
+      "note_zh": "保留官方媒体链接，导航改为 FlyneAI。"
+    },
+    {
+      "source_path": "docs/originality-policy.md",
+      "source_sha256": "8e4b4a0ef3ef5cc0a6f55c645f97cb7eb62d6a8c2277645b2c6e4ea11d54c62c",
+      "destination": "docs/originality-policy.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/prompting-guide.md",
+      "source_sha256": "45cade089ab8512ffc71c2ac0d143c04a1259b0c493960ef4ef4b9f3af93c49c",
+      "destination": "docs/prompting-guide.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/use-case-matrix.md",
+      "source_sha256": "e9f8b812933818d349c87ff755aa833525f6c3fdf11b8f5f576ba4dcc89d243c",
+      "destination": "docs/use-case-matrix.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    },
+    {
+      "source_path": "docs/x-community-showcase.md",
+      "source_sha256": "03d24df46ed0495798c67aa1b16466bec6b238a6d453acb3416094a1ef1f8264",
+      "destination": "docs/x-community-showcase.md",
+      "disposition": "expanded",
+      "note_zh": "十二条视频与独立五秒练习，明确作者原文和练习区别。"
+    },
+    {
+      "source_path": "docs/x-community-sources.json",
+      "source_sha256": "fefa9457219eee8dcafd253cad1cafd51d2789357f19286c81b89bbc9d7e80f7",
+      "destination": "data/community-sources.json",
+      "disposition": "expanded",
+      "note_zh": "保留六条来源记录，扩展至十二条并添加视觉核对及练习。"
+    },
+    {
+      "source_path": "prompts/01-brand-advertising.md",
+      "source_sha256": "392f5d48bb52d76c6a8e713b37b2836ee80df285bddb91f027b1b5a3492307c0",
+      "destination": "prompts/upstream/01-brand-advertising.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/02-product-ecommerce.md",
+      "source_sha256": "2b640d397280a07dfc0ccfc3a0580667b11db60b4cb080a61f12e33fe8cbeb28",
+      "destination": "prompts/upstream/02-product-ecommerce.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/03-ugc-lifestyle.md",
+      "source_sha256": "a7b1954ffc5e7c88d715e1d2d8bb3ae1e7c770fe71d19e4fa82d4b342a1c8d90",
+      "destination": "prompts/upstream/03-ugc-lifestyle.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/04-travel-hospitality.md",
+      "source_sha256": "db9e3ffe7f5d8c3cd9ba6d6681d143fe519f321bb469a51f3dd579a4d968b398",
+      "destination": "prompts/upstream/04-travel-hospitality.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/05-food-beverage.md",
+      "source_sha256": "f6ad2baff2392be450cc2f2262bbb9565e7bd1cbcc802bd20e7b87bd203de423",
+      "destination": "prompts/upstream/05-food-beverage.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/06-fashion-beauty.md",
+      "source_sha256": "587b8fbfe8b7ab39e2f532bd38202a32d1e7e5aa8ec686f5aaa15090efc71c37",
+      "destination": "prompts/upstream/06-fashion-beauty.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/07-cinematic-storytelling.md",
+      "source_sha256": "6573829f273c267a326161d6aa40b0080f99169e1c0ab67297d5d9d8481b1d82",
+      "destination": "prompts/upstream/07-cinematic-storytelling.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/08-animation-stylized.md",
+      "source_sha256": "25acd8564acba2f99c79c087ffcd132213660f99e2e066a643962da7f3ce1711",
+      "destination": "prompts/upstream/08-animation-stylized.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/09-action-sports.md",
+      "source_sha256": "f957d274671b32db00942d0f69c5444140cb1f8977c56de291f0a72fe8078ba7",
+      "destination": "prompts/upstream/09-action-sports.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/10-fantasy-scifi-vfx.md",
+      "source_sha256": "5cbf38e037a68d25fcb9cef0a36afad30f9c2b37126947243bed0504226f05b9",
+      "destination": "prompts/upstream/10-fantasy-scifi-vfx.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/11-ui-game-digital.md",
+      "source_sha256": "964f8957c712556033427d2c4decfa37041a5956d46e29f5155a7aaf4dff5f54",
+      "destination": "prompts/upstream/11-ui-game-digital.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/12-transitions-comedy-social.md",
+      "source_sha256": "40824f9d5165381f556bbafcf3358897e28b926d8d79490ecea23c2919248512",
+      "destination": "prompts/upstream/12-transitions-comedy-social.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/13-music-performance-audio.md",
+      "source_sha256": "8a578ead8f09eebf48dbee77980b8b290eed284a3e8a6937760fa26bc1309eb2",
+      "destination": "prompts/upstream/13-music-performance-audio.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/14-education-documentary-science.md",
+      "source_sha256": "76f661e17f800a1079cec5157621297c6e8d7633c144319ec8c8e2c56a80957d",
+      "destination": "prompts/upstream/14-education-documentary-science.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/15-architecture-interiors-real-estate.md",
+      "source_sha256": "8e563448f449014946c5c3e94317685e1759d4002821543daaba638e9251b99a",
+      "destination": "prompts/upstream/15-architecture-interiors-real-estate.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/16-automotive-mobility.md",
+      "source_sha256": "d377d47b5d571947848386ea065c0c19f6520bee0d4e179f94fa2ebac2575c09",
+      "destination": "prompts/upstream/16-automotive-mobility.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/17-nature-animals-pets.md",
+      "source_sha256": "b3a64c25430b7ab77b2ca0427cf690a5dd0e3e2c134d76c0e8f802fa4aa3a5b5",
+      "destination": "prompts/upstream/17-nature-animals-pets.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/18-industry-business-public-service.md",
+      "source_sha256": "758f2821b341af0dbd3224b345a5a5afb08bde0ec9355dee678257ee9545b106",
+      "destination": "prompts/upstream/18-industry-business-public-service.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/19-editing-continuation-localization.md",
+      "source_sha256": "79884d488ca2330dfee159e1ecce8f8507b80e829cb6aa63bcd64340eff9062e",
+      "destination": "prompts/upstream/19-editing-continuation-localization.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/20-multireference-camera-transfer.md",
+      "source_sha256": "5d0627477085fbd0d5a35b35fcb9d415f78fdea56b0863ac100f3380733a51f4",
+      "destination": "prompts/upstream/20-multireference-camera-transfer.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/21-character-dialogue-performance.md",
+      "source_sha256": "af08758ee24989a5ba66ba6c45df28f4255c8ce4d7cb9043ae0f0bd6b56b2523",
+      "destination": "prompts/upstream/21-character-dialogue-performance.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/22-motion-graphics-dynamic-posters.md",
+      "source_sha256": "04dae249419ecc2fd8d16affaa0df9bdf897a4c54484298d755bb36479406fce",
+      "destination": "prompts/upstream/22-motion-graphics-dynamic-posters.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/23-surreal-physics-optical-illusions.md",
+      "source_sha256": "f639ce4809de36c9f12e6ab7a1e82eec5f4b7b38ab1c04afc5eed328538f79e3",
+      "destination": "prompts/upstream/23-surreal-physics-optical-illusions.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/24-vertical-series-live-creator.md",
+      "source_sha256": "7d56704514dd37ec7a0e4069b94eb54f331237365fe5fc6b547e547e5a842d61",
+      "destination": "prompts/upstream/24-vertical-series-live-creator.md",
+      "disposition": "verified-existing",
+      "note_zh": "与本次固定源版本逐块比较，提示词正文一致。"
+    },
+    {
+      "source_path": "prompts/README.md",
+      "source_sha256": "f8a0cc06723149fe8036fe591501c76f05ca5087c4271175583102e65535287e",
+      "destination": "prompts/README.md",
+      "disposition": "generated-replacement",
+      "note_zh": "继续使用本项目自动生成的 100 条目录。"
+    },
+    {
+      "source_path": "templates/README.md",
+      "source_sha256": "1af0e627b7c19b9d0d5ba912cd35cf9977b3de0656abdb7f0e96616d1fcf896d",
+      "destination": "templates/README.md",
+      "disposition": "imported",
+      "note_zh": "保留署名及 MIT 许可；文档调整站内链接，参考图原样复用。"
+    }
+  ]
+}

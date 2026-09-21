@@ -10,7 +10,7 @@ These are proposed production workflows, not measured H3 results. Start with [mo
 4. Generate a structural draft. Review product geometry and movement before adding dialogue, typography or transitions.
 5. Save the exact prompt, model label, settings, input rights and output in a [run record](../templates/run-record.json). Change one variable per retry.
 
-The page was inspected on 2026-09-17; no generation was run. This guide does not assert permanent free credits, signup-free access, Flyne API compatibility or H3 Max availability on Flyne. The [free H3 entry](https://flyne.ai/free-minimax-h3/) is linked from Flyne's homepage but was not independently executable in this research session. Use current product terms.
+The unsigned-in [free H3 page](https://flyne.ai/free-minimax-h3/) was inspected in a browser on 2026-09-21. It showed five-second 480p output, three aspect ratios and optional two-frame guidance. Start with the [quick-start guide](quick-start.md) and a five-second exercise. No generation was performed. Interface visibility does not establish service reliability, API compatibility or H3 Max availability.
 
 ## 2. Local H3-Base
 

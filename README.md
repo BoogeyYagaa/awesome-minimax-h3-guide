@@ -12,15 +12,19 @@ A practical, source-backed library for making useful audiovisual clips with Mini
 
 [Browse 100 prompts](prompts/README.md) · [Try H3 on Flyne AI](https://flyne.ai/model/minimax-h3/) · [H3 vs H3 Max](docs/model-guide.md) · [Sources](docs/sources.md)
 
+[Five-second quick start](docs/quick-start.md) · [Reference images](docs/reference-gallery.md) · [Prompting guide](docs/prompting-guide.md) · [12 templates](templates/README.md) · [Deployment](docs/deployment-guide.md) · [Migration audit](docs/migration-audit.md)
+
 ## Try MiniMax H3 on Flyne AI
 
 | Recommended browser access | Free trial — no sign-up |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [Start with a quick online experiment](https://flyne.ai/free-minimax-h3/) |
 
+The free interface inspected on 2026-09-21 offers **5-second, 480p** clips. Use the [five-second exercises](docs/quick-start.md); the longer X examples may require different settings and inputs.
+
 ## Watch creator videos and study the prompts
 
-12 X examples: video previews, original posts, short prompt excerpts and practical notes. The 6 newest additions appear below.
+12 X examples: video previews, original posts, short prompt excerpts and practical notes. The 6 newest additions appear below. Each of the 12 entries now includes a separate, copy-ready five-second Flyne exercise (untested).
 
 [全部案例 / All examples](docs/x-community-showcase.md) · [官方示例 / Official examples](docs/official-h3-examples.md)
 
@@ -120,3 +124,13 @@ We welcome creators, educators, reviewers and creative teams to become our partn
 [Join the Flyne AI Affiliate Program](https://flyne.ai/affiliate-program/). Commission eligibility, attribution and payouts follow the current program agreement and review process.
 
 Questions or partnership enquiries? Contact us at [contact@flyne.ai](mailto:contact@flyne.ai).
+
+## Reference images for your next shot
+
+Eleven attributed reference stills, each linked to a recipe and image brief. These are not H3 outputs.
+
+| Product / 产品 | Character / 角色 | Travel / 旅行 |
+|---|---|---|
+| [![Product](assets/gallery/midnight-observatory-tea.webp)](docs/reference-gallery.md) | [![Character](assets/gallery/clay-repair-robot.webp)](docs/reference-gallery.md) | [![Travel](assets/gallery/rain-washed-canal-morning.webp)](docs/reference-gallery.md) |
+
+[全部参考图 / All reference images](docs/reference-gallery.md)

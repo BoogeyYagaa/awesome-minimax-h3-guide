@@ -6,11 +6,15 @@
 
 [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português](README_pt.md)
 
+[Comece com cinco segundos](docs/quick-start.md) · [Imagens de referência](docs/reference-gallery.md) · [Guia de prompts](docs/prompting-guide.md) · [12 modelos](templates/README.md) · [Instalação local](docs/deployment-guide.md)
+
 ## Usar MiniMax H3 no Flyne AI
 
 | Acesso recomendado pelo navegador | Teste gratuito sem cadastro |
 |---|---|
 | [MiniMax H3](https://flyne.ai/model/minimax-h3/) | [Experimente diretamente online](https://flyne.ai/free-minimax-h3/) |
+
+A interface gratuita verificada em 2026-09-21 oferece vídeos de **5 segundos em 480p**. Comece pelos [exercícios curtos](docs/quick-start.md).
 
 ## Vídeos e prompts da comunidade
 

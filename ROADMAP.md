@@ -10,6 +10,10 @@ This is a project-maintenance plan, not a MiniMax or fal product roadmap. No del
 - [x] H3 / H3 Max distinction, workflows, source register and evaluation protocol.
 - [x] Offline JSON catalog, CLI search and CI validation.
 
+- [x] Twelve attributed X videos with sampled visual review and separate five-second exercises.
+- [x] Eleven reference stills, supporting tutorials and a 69-file migration audit.
+- [x] Free-tool interface verified in an unsigned-in browser; generation remains untested.
+
 ## Next: evidence before scale
 
 - [ ] Publish the first six-task comparison with all attempts and failures.

@@ -1,0 +1,121 @@
+{
+  "source_repository": "https://github.com/flaqai/awesome-minimax-h3-video-prompts",
+  "source_commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
+  "imported_at": "2026-09-21",
+  "files": [
+    {
+      "source_path": "docs/prompting-guide.md",
+      "local_path": "docs/prompting-guide.md",
+      "source_sha256": "45cade089ab8512ffc71c2ac0d143c04a1259b0c493960ef4ef4b9f3af93c49c",
+      "local_sha256": "18b3f7e42b015c1507f2ee9cd5254c1b16089eec42d872fe72c91310c80a7176"
+    },
+    {
+      "source_path": "docs/multilingual-prompting.md",
+      "local_path": "docs/multilingual-prompting.md",
+      "source_sha256": "6b50e4f50be7e25245da30031e1ac841370c63f7848788ec7d1a8f09b251e7c3",
+      "local_sha256": "0fcc7821e9c2baf936db58fcc61394e419d8189929a10226ca3288d535183ed1"
+    },
+    {
+      "source_path": "docs/api-workflow.md",
+      "local_path": "docs/api-workflow.md",
+      "source_sha256": "b653daf487d8486b627abe826cd294f4f7f6e3179f7a876b388d4df7364e5697",
+      "local_sha256": "2d402036ea742dd47bf29edc4548e051f3ce2cd8e5f8afc1c7b7885cc92aa9d4"
+    },
+    {
+      "source_path": "docs/deployment-guide.md",
+      "local_path": "docs/deployment-guide.md",
+      "source_sha256": "fa91aaf41f1e6691e1015bb642758cfe2961200f7ec7b97374577f0ed01d607a",
+      "local_sha256": "0066c3194bdb838b168f54c40a3acb431d3b0b5f839421f5938c8b7009c94a37"
+    },
+    {
+      "source_path": "docs/use-case-matrix.md",
+      "local_path": "docs/use-case-matrix.md",
+      "source_sha256": "e9f8b812933818d349c87ff755aa833525f6c3fdf11b8f5f576ba4dcc89d243c",
+      "local_sha256": "bf7cf79a9491b551cf4c24ed3b600412edf74733b570d359400c4d4a1166353c"
+    },
+    {
+      "source_path": "docs/originality-policy.md",
+      "local_path": "docs/originality-policy.md",
+      "source_sha256": "8e4b4a0ef3ef5cc0a6f55c645f97cb7eb62d6a8c2277645b2c6e4ea11d54c62c",
+      "local_sha256": "14b281ade29da2eb534b459c6c6e9f98d725376fa78f433450e87d84f72becbc"
+    },
+    {
+      "source_path": "templates/README.md",
+      "local_path": "templates/README.md",
+      "source_sha256": "1af0e627b7c19b9d0d5ba912cd35cf9977b3de0656abdb7f0e96616d1fcf896d",
+      "local_sha256": "0af71514720e3f5dbf74b174e9bd7aedcd179e70d22e0838cd5de9afdcfd6841"
+    },
+    {
+      "source_path": "assets/minimax-h3-reference-image-prompts.md",
+      "local_path": "assets/minimax-h3-reference-image-prompts.md",
+      "source_sha256": "e52f28b3a636bb649a2debe94c25208c0221406b6fff4f7501d5625595e9ac16",
+      "local_sha256": "b1b943415559d1cbe334648757e77f948e74677133de4fa5b083a98a0e6befb8"
+    },
+    {
+      "source_path": "assets/gallery/clay-repair-robot.webp",
+      "local_path": "assets/gallery/clay-repair-robot.webp",
+      "source_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512",
+      "local_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512"
+    },
+    {
+      "source_path": "assets/gallery/dynamic-night-market-poster.webp",
+      "local_path": "assets/gallery/dynamic-night-market-poster.webp",
+      "source_sha256": "19e952063c0d9c7d4a9c2ab20323e9f28bf3604dd826b45bf16d69f1cb990b7c",
+      "local_sha256": "19e952063c0d9c7d4a9c2ab20323e9f28bf3604dd826b45bf16d69f1cb990b7c"
+    },
+    {
+      "source_path": "assets/gallery/honest-desk-lamp-demo.webp",
+      "local_path": "assets/gallery/honest-desk-lamp-demo.webp",
+      "source_sha256": "27d85385224bf1fe38072c3a0d067b35d9101664738e92626632225fe371f6b0",
+      "local_sha256": "27d85385224bf1fe38072c3a0d067b35d9101664738e92626632225fe371f6b0"
+    },
+    {
+      "source_path": "assets/gallery/indoor-climbing-final-hold.webp",
+      "local_path": "assets/gallery/indoor-climbing-final-hold.webp",
+      "source_sha256": "1e0c85b9f12a08954d43fa348b3e36f632c8d68c5e81f8ceae3b06b1e030939c",
+      "local_sha256": "1e0c85b9f12a08954d43fa348b3e36f632c8d68c5e81f8ceae3b06b1e030939c"
+    },
+    {
+      "source_path": "assets/gallery/midnight-observatory-tea.webp",
+      "local_path": "assets/gallery/midnight-observatory-tea.webp",
+      "source_sha256": "e213d9072030191ec95f50e5572b9a4d72b3f07edc1f3d8fd43e26d7e7ace7c8",
+      "local_sha256": "e213d9072030191ec95f50e5572b9a4d72b3f07edc1f3d8fd43e26d7e7ace7c8"
+    },
+    {
+      "source_path": "assets/gallery/modular-lunch-jar-kit.webp",
+      "local_path": "assets/gallery/modular-lunch-jar-kit.webp",
+      "source_sha256": "085cd5b1094bb7848d628b7d6658ecb88aa3aeeebcabb1b8e63d317fd3c8e5c4",
+      "local_sha256": "085cd5b1094bb7848d628b7d6658ecb88aa3aeeebcabb1b8e63d317fd3c8e5c4"
+    },
+    {
+      "source_path": "assets/gallery/paper-birds-storm-shelter.webp",
+      "local_path": "assets/gallery/paper-birds-storm-shelter.webp",
+      "source_sha256": "8ed7805a7e4783b65593e363c9a6d811dd07dfe0cbdcfa6e156992faf687d996",
+      "local_sha256": "8ed7805a7e4783b65593e363c9a6d811dd07dfe0cbdcfa6e156992faf687d996"
+    },
+    {
+      "source_path": "assets/gallery/radial-cork-speaker.webp",
+      "local_path": "assets/gallery/radial-cork-speaker.webp",
+      "source_sha256": "079f76ad15afe59eb7ddc54c071e01ccc806dd38212da0cf13b52695dc64a22f",
+      "local_sha256": "079f76ad15afe59eb7ddc54c071e01ccc806dd38212da0cf13b52695dc64a22f"
+    },
+    {
+      "source_path": "assets/gallery/rain-washed-canal-morning.webp",
+      "local_path": "assets/gallery/rain-washed-canal-morning.webp",
+      "source_sha256": "1a040dab3444051e5d704be5947a480066feef5eadf23185a22632f8a1af6284",
+      "local_sha256": "1a040dab3444051e5d704be5947a480066feef5eadf23185a22632f8a1af6284"
+    },
+    {
+      "source_path": "assets/gallery/three-biome-museum-rail.webp",
+      "local_path": "assets/gallery/three-biome-museum-rail.webp",
+      "source_sha256": "121aae2040b678b61bb4311c20a4beca0362ef7acbbaa8de12d7f7eb673d8f89",
+      "local_sha256": "121aae2040b678b61bb4311c20a4beca0362ef7acbbaa8de12d7f7eb673d8f89"
+    },
+    {
+      "source_path": "assets/gallery/topographic-map-archive.webp",
+      "local_path": "assets/gallery/topographic-map-archive.webp",
+      "source_sha256": "91c666a95aea903bcd8baf4429d4ea16100a2fa53aba70c08a261f548fe52451",
+      "local_sha256": "91c666a95aea903bcd8baf4429d4ea16100a2fa53aba70c08a261f548fe52451"
+    }
+  ]
+}

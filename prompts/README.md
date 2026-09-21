@@ -8,6 +8,10 @@
 
 Search offline: `python3 scripts/catalog.py search "product"` from the repository root.
 
+Search includes the 100 recipes plus 12 separate, untested five-second exercises: `python3 scripts/catalog.py search "FX5-002" --origin exercise --show-prompt`. Exercises are stored in [community-sources.json](../data/community-sources.json); they did not produce the linked creator videos.
+
+搜索覆盖 100 条配方和另列的 12 条五秒练习；练习尚未实测，不是社区视频的原始提示词。
+
 ## Flyne AI additions / 新增场景
 
 | ID | Recipe | Task | Category |

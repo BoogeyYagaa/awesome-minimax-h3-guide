@@ -5,7 +5,7 @@ import json
 import re
 from pathlib import Path
 from urllib.parse import unquote
-from catalog import ROOT, collect, render
+from catalog import ROOT, collect, collect_exercises, search_records, render
 from community import render as render_community
 
 
@@ -77,6 +77,15 @@ def main():
         require((ROOT / f'README{suffix}.md').exists(), f'Missing language {suffix}')
         readme = (ROOT / f'README{suffix}.md').read_text()
         require(all(url in readme for url in ['https://flyne.ai/model/minimax-h3/', 'https://flyne.ai/free-minimax-h3/', 'docs/x-community-showcase.md', 'assets/flyne-h3-cover.png']), f'Missing Flyne entry or gallery in {suffix}')
+    exercises = collect_exercises()
+    require(len(exercises) == len(community), 'Exercise search count differs from gallery')
+    for r in exercises:
+        require([m['id'] for m in search_records(r['id'].lower(), 'exercise')] == [r['id']], 'Exercise ID search failed')
+        require(r in search_records(r['title_zh'], 'exercise'), 'Chinese exercise search failed')
+        target, anchor = r['path'].split('#', 1)
+        require(anchor in anchors(ROOT / target), f"Broken exercise search anchor: {r['id']}")
+    require(not search_records('FX5-002', 'upstream'), 'Search origin filter leaks exercises')
+    require([r['id'] for r in search_records('FY-001', 'flyne')] == ['FY-001'], 'Recipe search regression')
     checked = 0
     for path in ROOT.rglob('*.md'):
         if '.git' in path.parts:

@@ -13,7 +13,7 @@
       "source_path": "docs/multilingual-prompting.md",
       "local_path": "docs/multilingual-prompting.md",
       "source_sha256": "6b50e4f50be7e25245da30031e1ac841370c63f7848788ec7d1a8f09b251e7c3",
-      "local_sha256": "0fcc7821e9c2baf936db58fcc61394e419d8189929a10226ca3288d535183ed1"
+      "local_sha256": "fb1378ecff780539ed2da42ff11a0c34ed1f394340f799483481af2d168b1bd0"
     },
     {
       "source_path": "docs/api-workflow.md",
@@ -25,7 +25,7 @@
       "source_path": "docs/deployment-guide.md",
       "local_path": "docs/deployment-guide.md",
       "source_sha256": "fa91aaf41f1e6691e1015bb642758cfe2961200f7ec7b97374577f0ed01d607a",
-      "local_sha256": "0066c3194bdb838b168f54c40a3acb431d3b0b5f839421f5938c8b7009c94a37"
+      "local_sha256": "847e35020e38b9514865b16bf14077e9ac58332485d9e509622c0562c50fc153"
     },
     {
       "source_path": "docs/use-case-matrix.md",

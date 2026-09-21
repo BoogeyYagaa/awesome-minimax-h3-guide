@@ -105,4 +105,4 @@ Som: ficha, botão, tambor e tecido. Evitar aparência assustadora, membros extr
 - Audio and dialogue intent sound natural to a native speaker;
 - The localized version preserves every safety and continuity constraint.
 
-Return to the [84-prompt library](../prompts/README.md).
+Return to the [100-recipe prompt library](../prompts/README.md).

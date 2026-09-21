@@ -412,4 +412,4 @@ For copy-ready commands and troubleshooting, use the Simplified Chinese sections
 - [ComfyUI MiniMax H3 tutorial](https://docs.comfy.org/tutorials/video/minimax/minimax-h3)
 - [Official reproducible request scripts](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/scripts/readme)
 
-Continue with the [official example-video index](./official-h3-examples.md), [H3 overview](./model-guide.md), [prompt guide](./prompting-guide.md), or [84-prompt library](../prompts/README.md).
+Continue with the [official example-video index](./official-h3-examples.md), [H3 overview](./model-guide.md), [prompt guide](./prompting-guide.md), or [100-recipe prompt library](../prompts/README.md).

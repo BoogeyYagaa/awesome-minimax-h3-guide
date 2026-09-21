@@ -27,12 +27,32 @@ def collect():
     return records
 
 
+def collect_exercises():
+    """Keep learning exercises separate from the 100-recipe import catalog."""
+    entries = json.loads((ROOT / 'data/community-sources.json').read_text())['entries']
+    records = []
+    for entry in entries:
+        p = entry['practice']
+        anchor = re.sub(r'[^\w\s-]', '', f"{entry['id']} {entry['title']}".lower()).replace(' ', '-')
+        records.append(dict(p, origin='exercise',
+                            path='docs/x-community-showcase.md#' + anchor))
+    return records
+
+
+def search_records(query, origin=None):
+    return [r for r in collect() + collect_exercises()
+            if (not origin or r['origin'] == origin)
+            and query.casefold() in json.dumps(r, ensure_ascii=False).casefold()]
+
+
 def render(records):
     lines = ['# Prompt catalog / 提示词目录', '',
              f'**{len(records)} recipes**: 84 attributed MIT imports + 16 Flyne AI additions. All are untested by this project.', '',
              '84 条引入内容保留原作者署名；16 条新增内容为概念方案，尚未实测。时长和画幅是创作目标，实际取决于所选平台。', '',
              '[Model selection](../docs/model-guide.md) · [Workflows](../docs/workflows.md) · [Evaluation](../docs/evaluation.md) · [Attribution](../THIRD_PARTY_NOTICES.md)', '',
              'Search offline: `python3 scripts/catalog.py search "product"` from the repository root.', '',
+             'Search includes the 100 recipes plus 12 separate, untested five-second exercises: `python3 scripts/catalog.py search "FX5-002" --origin exercise --show-prompt`. Exercises are stored in [community-sources.json](../data/community-sources.json); they did not produce the linked creator videos.', '',
+             '搜索覆盖 100 条配方和另列的 12 条五秒练习；练习尚未实测，不是社区视频的原始提示词。', '',
              '## Flyne AI additions / 新增场景', '',
              '| ID | Recipe | Task | Category |', '|---|---|---|---|']
     for r in records:
@@ -53,7 +73,7 @@ def main():
     sub.add_parser('build')
     search = sub.add_parser('search')
     search.add_argument('query')
-    search.add_argument('--origin', choices=['upstream', 'flyne'])
+    search.add_argument('--origin', choices=['upstream', 'flyne', 'exercise'])
     search.add_argument('--show-prompt', action='store_true')
     args = parser.parse_args()
     records = collect()
@@ -62,12 +82,14 @@ def main():
         (ROOT / 'prompts/README.md').write_text(render(records))
         print(f'Built {len(records)} recipes')
         return
-    matches = [r for r in records if (not args.origin or r['origin'] == args.origin)
-               and args.query.casefold() in json.dumps(r, ensure_ascii=False).casefold()]
+    matches = search_records(args.query, args.origin)
     for r in matches:
         print(f"{r['id']} | {r['title']} | {r['origin']} | {r['path']}")
+        print(f"Status: {r['status']}")
         if args.show_prompt:
             print(r['prompt'] + '\n')
+            if r.get('prompt_zh'):
+                print(r['prompt_zh'] + '\n')
     print(f'{len(matches)} matches')
 
 
